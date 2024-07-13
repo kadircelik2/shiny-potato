@@ -1,0 +1,682 @@
+﻿ID,BUSINESS_TYPE_ID,BUSINESS_TYPE_DESC,FUEL_DISTRIBUTION_COMPANY_ID,FUEL_DISTRIBUTION_COMPANY_DESC,County_Name,Neighborhood_Name,LATITUDE,LONGITUDE
+1,1,Akaryakit,13,Shell-Turcas Petrol,Arnavutkoy,Hastane,41.15816138,28.61356557
+2,2,Akaryakit Lpg,10,Opet,Silivri,Buyuk Cavuslu,41.24933896,28.03778348
+3,2,Akaryakit Lpg,12,Petrol Ofisi,Esenyurt,Saadetdere,41.00057571,28.69146283
+4,2,Akaryakit Lpg,10,Opet,Pendik,Yenisehir,40.93530869,29.32867668
+5,1,Akaryakit,27,Turkiye Petrol,Kucukcekmece,Istasyon,41.01450221,28.76814579
+6,2,Akaryakit Lpg,25,Starpet,Uskudar,Selami Ali,41.02753436,29.02624217
+7,1,Akaryakit,13,Shell-Turcas Petrol,Beykoz,Gumussuyu,41.13060422,29.09358583
+8,2,Akaryakit Lpg,15,Total,Kadikoy,Acibadem,41.00306655,29.03626706
+9,2,Akaryakit Lpg,9,LukOil,Zeytinburnu,Tozkoparan,41.02096585,28.90659425
+10,1,Akaryakit,15,Total,Silivri,Mimar Sinan,41.0800035,28.20899049
+11,2,Akaryakit Lpg,12,Petrol Ofisi,Pendik,Kaynarca,40.86945447,29.26901487
+12,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Esenyurt,Ataturk,41.01967015,28.63169775
+13,2,Akaryakit Lpg,15,Total,Umraniye,Inkilap,41.03100559,29.10747116
+14,2,Akaryakit Lpg,12,Petrol Ofisi,Pendik,Seyhli,40.90436916,29.27867645
+15,1,Akaryakit,13,Shell-Turcas Petrol,Besiktas,Gayrettepe,41.06142149,29.01104994
+16,2,Akaryakit Lpg,5,BP,Kadikoy,Sahrayicedit,40.98152792,29.08135026
+17,2,Akaryakit Lpg,12,Petrol Ofisi,Beyoglu,Kaptanpasa,41.04161852,28.96642489
+18,2,Akaryakit Lpg,15,Total,Sultangazi,Cebeci,41.11363622,28.85721776
+19,1,Akaryakit,12,Petrol Ofisi,Kartal,Yali,40.8967308,29.22263569
+20,1,Akaryakit,15,Total,Beylikduzu,Marmara,40.98186429,28.68256861
+21,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Bagcilar,Mahmutbey,41.05997752,28.83135469
+22,2,Akaryakit Lpg,5,BP,Sisli,19 Mayis,41.05681212,28.99637357
+23,1,Akaryakit,5,BP,Besiktas,Nisbetiye,41.07384915,29.01594593
+24,2,Akaryakit Lpg,2,Alpet,Eyupsultan,Bogazkoy Istiklal,41.13673143,28.81707269
+25,1,Akaryakit,15,Total,Beylikduzu,Yakuplu,41.00426897,28.68413878
+26,2,Akaryakit Lpg,27,Turkiye Petrol,Arnavutkoy,Islambey,41.18944311,28.74268625
+27,2,Akaryakit Lpg,10,Opet,Umraniye,Cemil Meric,41.0163878,29.14598187
+28,2,Akaryakit Lpg,12,Petrol Ofisi,Silivri,Ortakoy,41.08342301,28.37078083
+29,2,Akaryakit Lpg,5,BP,Esenyurt,Yesilkent,41.02523913,28.65928705
+30,2,Akaryakit Lpg,9,LukOil,Gaziosmanpasa,Merkez,41.05809494,28.90624368
+31,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Buyukcekmece,Mimar Sinan,41.0079701,28.53766986
+32,2,Akaryakit Lpg,5,BP,Kucukcekmece,Halkali Merkez,41.02941408,28.79570732
+33,2,Akaryakit Lpg,5,BP,Tuzla,Tepeoren,40.93586163,29.3611637
+34,1,Akaryakit,13,Shell-Turcas Petrol,Kagithane,Telsizler,41.0751913,28.99990174
+35,1,Akaryakit,5,BP,Sile,Ahmetli,41.16117111,29.59034112
+36,1,Akaryakit,13,Shell-Turcas Petrol,Atasehir,Icerenkoy,40.96706594,29.10422482
+37,1,Akaryakit,3,Aytemiz,Esenler,Havaalani,41.05465828,28.86387982
+38,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Arnavutkoy,Hastane,41.15255923,28.61693973
+39,2,Akaryakit Lpg,15,Total,Bahcelievler,Yenibosna Merkez,41.01178545,28.81783783
+40,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Pendik,Yayalar,40.89918877,29.2686647
+41,1,Akaryakit,12,Petrol Ofisi,Buyukcekmece,Fatih,41.02184205,28.58403678
+42,2,Akaryakit Lpg,10,Opet,Esenler,Fevzi Cakmak,41.04909299,28.87684213
+43,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Gungoren,Haznedar,41.00691653,28.87140247
+44,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Kucukcekmece,Halkali Merkez,41.02885255,28.79068333
+45,2,Akaryakit Lpg,15,Total,Kagithane,Sultan Selim,41.09433608,28.99299325
+46,2,Akaryakit Lpg,10,Opet,Arnavutkoy,Yavuz Selim,41.20513127,28.72826561
+47,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Basaksehir,Basak,41.0845534,28.8106902
+48,1,Akaryakit,12,Petrol Ofisi,Maltepe,Altaycesme,40.92783851,29.13306917
+49,1,Akaryakit,13,Shell-Turcas Petrol,Beylikduzu,Gurpinar,40.9959898,28.60619924
+50,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Buyukcekmece,Ulus,41.0259119,28.55657737
+51,1,Akaryakit,5,BP,Sancaktepe,Fatih,40.96950037,29.22021668
+52,1,Akaryakit,12,Petrol Ofisi,Kadikoy,Fenerbahce,40.97485903,29.05216014
+53,2,Akaryakit Lpg,12,Petrol Ofisi,Buyukcekmece,Kamiloba,41.04027366,28.42850663
+54,2,Akaryakit Lpg,11,Pet-Line,Gaziosmanpasa,Karayollari,41.08698267,28.88928688
+55,2,Akaryakit Lpg,27,Turkiye Petrol,Sultanbeyli,Turgut Reis,40.96388354,29.28443917
+56,2,Akaryakit Lpg,5,BP,Gungoren,Abdurrahman Nafiz Gurman,41.00477714,28.89232007
+57,1,Akaryakit,13,Shell-Turcas Petrol,Silivri,Cumhuriyet,41.07046999,28.27883598
+58,2,Akaryakit Lpg,15,Total,Beykoz,Goztepe,41.08110132,29.07702496
+59,1,Akaryakit,13,Shell-Turcas Petrol,Umraniye,Istiklal,41.02477377,29.1002775
+60,1,Akaryakit,12,Petrol Ofisi,Zeytinburnu,Tozkoparan,41.01918556,28.91783023
+61,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Sultangazi,Cumhuriyet,41.09130079,28.88428792
+62,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Bayrampasa,Terazidere,41.02806636,28.90068303
+63,2,Akaryakit Lpg,12,Petrol Ofisi,Bahcelievler,Bahcelievler,41.00227299,28.88296925
+64,1,Akaryakit,12,Petrol Ofisi,Maltepe,Kucukyali Merkez,40.94801038,29.10653007
+65,1,Akaryakit,10,Opet,Bayrampasa,Yildirim,41.07009753,28.89254169
+66,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Cekmekoy,Merkez,41.0370441,29.1556768
+67,2,Akaryakit Lpg,15,Total,Arnavutkoy,Bogazkoy Istiklal,41.15285325,28.78756392
+68,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Esenler,Kemer,41.05482568,28.87583121
+69,2,Akaryakit Lpg,2,Alpet,Sultanbeyli,Orhangazi,40.94061661,29.28526576
+70,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Kadikoy,Kosuyolu,41.00436516,29.03031176
+71,1,Akaryakit,12,Petrol Ofisi,Bakirkoy,Zeytinlik,40.9743736,28.8743595
+72,1,Akaryakit,12,Petrol Ofisi,Sultangazi,Sultanciftligi,41.09489084,28.86334675
+73,2,Akaryakit Lpg,15,Total,Catalca,Subasi,41.22299745,28.45500613
+74,2,Akaryakit Lpg,2,Alpet,Esenyurt,Zafer,41.01207548,28.68179064
+75,1,Akaryakit,10,Opet,Besiktas,Dikilitas,41.05508747,28.99931091
+76,1,Akaryakit,12,Petrol Ofisi,Pendik,Kaynarca,40.87516932,29.2543109
+77,1,Akaryakit,5,BP,Beyoglu,Kucuk Piyale,41.0381445,28.96805901
+78,2,Akaryakit Lpg,27,Turkiye Petrol,Gaziosmanpasa,Semsipasa,41.06827877,28.90753223
+79,2,Akaryakit Lpg,10,Opet,Eyupsultan,Topcular,41.04519721,28.91682936
+80,1,Akaryakit,13,Shell-Turcas Petrol,Besiktas,Levent,41.08772462,29.01774089
+81,2,Akaryakit Lpg,9,LukOil,Pendik,Guzelyali,40.85619462,29.28717171
+82,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Kagithane,Merkez,41.08562417,28.96854454
+83,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Sultanbeyli,Hasanpasa,40.9719573,29.24918089
+84,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Gaziosmanpasa,Karadeniz,41.07614846,28.88070665
+85,1,Akaryakit,13,Shell-Turcas Petrol,Atasehir,Kucukbakkalkoy,40.97831858,29.12361155
+86,1,Akaryakit,10,Opet,Kadikoy,Feneryolu,40.98428999,29.05691032
+87,1,Akaryakit,10,Opet,Atasehir,Mimar Sinan,40.98385675,29.1658297
+88,1,Akaryakit,23,Moil,Bakirkoy,Zeytinlik,40.97239108,28.87823811
+89,2,Akaryakit Lpg,12,Petrol Ofisi,Esenyurt,Barbaros Hayrettin Pasa,41.01779013,28.64613628
+90,1,Akaryakit,15,Total,Uskudar,Cengelkoy,41.05127969,29.06445839
+91,2,Akaryakit Lpg,15,Total,Uskudar,Kisikli,41.02386574,29.08152877
+92,2,Akaryakit Lpg,22,KadOil,Bagcilar,Baglar,41.03131234,28.82300003
+93,2,Akaryakit Lpg,15,Total,Silivri,Mimar Sinan,41.08089449,28.20540691
+94,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Beyoglu,Sururi Mehmet Efendi,41.03845927,28.97348141
+95,1,Akaryakit,13,Shell-Turcas Petrol,Silivri,Mimar Sinan,41.08141999,28.22079936
+96,2,Akaryakit Lpg,10,Opet,Kadikoy,Kozyatagi,40.97045161,29.10110514
+97,2,Akaryakit Lpg,3,Aytemiz,Pendik,Velibaba,40.89866138,29.25959823
+98,2,Akaryakit Lpg,2,Alpet,Beyoglu,Kemankes Karamustafapasa,41.02601545,28.97975053
+99,1,Akaryakit,13,Shell-Turcas Petrol,Gaziosmanpasa,Semsipasa,41.07000505,28.90675266
+100,2,Akaryakit Lpg,22,KadOil,Gaziosmanpasa,Yeni Mahalle,41.0820832,28.89300155
+101,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Buyukcekmece,Alkent 2000,41.07923068,28.62487209
+102,2,Akaryakit Lpg,10,Opet,Kucukcekmece,Sultan Murat,41.00259596,28.78740856
+103,1,Akaryakit,13,Shell-Turcas Petrol,Silivri,Fevzipasa,41.09568787,27.99974117
+104,1,Akaryakit,13,Shell-Turcas Petrol,Silivri,Balaban,41.06038321,28.08431524
+105,2,Akaryakit Lpg,3,Aytemiz,Cekmekoy,Resadiye,41.07875581,29.25029521
+106,1,Akaryakit,3,Aytemiz,Cekmekoy,Kocullu,41.08178999,29.34045862
+107,2,Akaryakit Lpg,10,Opet,Sultanbeyli,Hasanpasa,40.96817004,29.25312263
+108,2,Akaryakit Lpg,10,Opet,Arnavutkoy,Omerli,41.09169625,28.63411926
+109,2,Akaryakit Lpg,5,BP,Umraniye,Atakent,41.022159,29.11268323
+110,1,Akaryakit,13,Shell-Turcas Petrol,Kucukcekmece,Halkali Merkez,41.04331261,28.80304559
+111,2,Akaryakit Lpg,12,Petrol Ofisi,Sancaktepe,Meclis,41.00860922,29.20170178
+112,2,Akaryakit Lpg,10,Opet,Gaziosmanpasa,Barbaros Hayrettin Pasa,41.08089939,28.89335859
+113,2,Akaryakit Lpg,10,Opet,Bagcilar,Goztepe,41.05668763,28.83049742
+114,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Buyukcekmece,Kamiloba,41.03538576,28.44583136
+115,1,Akaryakit,15,Total,Umraniye,Cemil Meric,41.01604178,29.15031837
+116,2,Akaryakit Lpg,2,Alpet,Esenyurt,Fatih,41.02936748,28.68260853
+117,2,Akaryakit Lpg,10,Opet,Uskudar,Altunizade,41.02380587,29.0420038
+118,2,Akaryakit Lpg,25,Starpet,Sancaktepe,Fatih,40.9667866,29.21556362
+119,2,Akaryakit Lpg,10,Opet,Buyukcekmece,Cumhuriyet,41.01840194,28.63257349
+120,2,Akaryakit Lpg,12,Petrol Ofisi,Arnavutkoy,Haracci,41.17913976,28.70304094
+121,2,Akaryakit Lpg,9,LukOil,Gaziosmanpasa,Yeni Mahalle,41.07437664,28.90499752
+122,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Avcilar,Firuzkoy,40.99944114,28.71346748
+123,1,Akaryakit,21,Turkuaz,Pendik,Guzelyali,40.85944317,29.28156925
+124,1,Akaryakit,5,BP,Zeytinburnu,Kazlicesme,40.98218188,28.89369976
+125,2,Akaryakit Lpg,12,Petrol Ofisi,Pendik,Cinardere,40.89574571,29.24902912
+126,1,Akaryakit,19,Sunpet,Arnavutkoy,Yassioren,41.23183977,28.59967308
+127,1,Akaryakit,5,BP,Basaksehir,Basaksehir,41.10409804,28.78326758
+128,2,Akaryakit Lpg,15,Total,Bagcilar,Yavuz Selim,41.03339729,28.85129206
+129,2,Akaryakit Lpg,3,Aytemiz,Sisli,Halide Edip Adivar,41.05952851,28.97611861
+130,2,Akaryakit Lpg,2,Alpet,Esenyurt,Ataturk,41.02706788,28.62663288
+131,1,Akaryakit,12,Petrol Ofisi,Catalca,Ataturk,41.41039208,28.18491916
+132,2,Akaryakit Lpg,10,Opet,Eyupsultan,Topcular,41.038761,28.9219505
+133,1,Akaryakit,12,Petrol Ofisi,Kadikoy,Goztepe,40.98153282,29.06863687
+134,2,Akaryakit Lpg,10,Opet,Tuzla,Evliya Celebi,40.83733449,29.29604496
+135,1,Akaryakit,15,Total,Kartal,Esentepe,40.90890613,29.20264182
+136,2,Akaryakit Lpg,10,Opet,Silivri,Yeni,41.06963005,28.2925998
+137,2,Akaryakit Lpg,10,Opet,Gungoren,Gencosman,41.03248925,28.88381225
+138,2,Akaryakit Lpg,22,KadOil,Buyukcekmece,Mimar Sinan,41.02102385,28.56318003
+139,2,Akaryakit Lpg,7,Enerji Petrol,Silivri,Selimpasa,41.05166704,28.38699643
+140,1,Akaryakit,10,Opet,Eyupsultan,Topcular,41.03914139,28.91734304
+141,1,Akaryakit,15,Total,Pendik,Seyhli,40.90789654,29.29335117
+142,1,Akaryakit,12,Petrol Ofisi,Uskudar,Sultantepe,41.02892188,29.01747482
+143,1,Akaryakit,12,Petrol Ofisi,Beyoglu,Piripasa,41.04371363,28.94792856
+144,1,Akaryakit,5,BP,Esenyurt,Saadetdere,41.01154738,28.69804547
+145,2,Akaryakit Lpg,12,Petrol Ofisi,Gaziosmanpasa,Merkez,41.05559916,28.90966919
+146,1,Akaryakit,3,Aytemiz,Gaziosmanpasa,Hurriyet,41.07048389,28.90229838
+147,1,Akaryakit,15,Total,Beykoz,Akbaba,41.14832259,29.11321153
+148,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Zeytinburnu,Kazlicesme,41.0022152,28.91983752
+149,2,Akaryakit Lpg,12,Petrol Ofisi,Umraniye,Necip Fazil,41.01651051,29.17768789
+150,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Kagithane,Merkez,41.08423543,28.97827214
+151,2,Akaryakit Lpg,5,BP,Zeytinburnu,Tozkoparan,41.02772258,28.90843274
+152,2,Akaryakit Lpg,10,Opet,Beylikduzu,Cumhuriyet,41.00491317,28.63757733
+153,1,Akaryakit,9,LukOil,Buyukcekmece,Kumburgaz,41.0265303,28.46566259
+154,2,Akaryakit Lpg,5,BP,Bahcelievler,Yenibosna Merkez,41.01542544,28.8243583
+155,2,Akaryakit Lpg,7,Enerji Petrol,Esenyurt,Aksemseddin,41.01346337,28.69537048
+156,2,Akaryakit Lpg,10,Opet,Maltepe,Girne,40.94268716,29.14385305
+157,1,Akaryakit,13,Shell-Turcas Petrol,Kartal,Cumhuriyet,40.90247235,29.2175119
+158,1,Akaryakit,23,Moil,Catalca,Subasi,41.22362268,28.45501922
+159,1,Akaryakit,5,BP,Sancaktepe,Meclis,41.00975537,29.21090597
+160,2,Akaryakit Lpg,12,Petrol Ofisi,Bahcelievler,Yenibosna Merkez,41.01163702,28.82838406
+161,1,Akaryakit,15,Total,Catalca,Cakil,41.11605161,28.45046913
+162,2,Akaryakit Lpg,5,BP,Sultanbeyli,Mehmet Akif,40.96503519,29.27201947
+163,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Esenyurt,Osmangazi,41.03797011,28.64186646
+164,2,Akaryakit Lpg,12,Petrol Ofisi,Bagcilar,Gunesli,41.0345758,28.83336008
+165,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Atasehir,Yenisahra,40.98764191,29.08706788
+166,1,Akaryakit,5,BP,Eyupsultan,Merkez,41.0576361,28.94188186
+167,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Kadikoy,Kozyatagi,40.96644558,29.10335137
+168,1,Akaryakit,13,Shell-Turcas Petrol,Sultanbeyli,Aksemsettin,40.94255158,29.30204185
+169,1,Akaryakit,13,Shell-Turcas Petrol,Sisli,Fulya,41.06570788,29.00223845
+170,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Sancaktepe,Abdurrahmangazi,40.99270409,29.223129
+171,1,Akaryakit,13,Shell-Turcas Petrol,Gaziosmanpasa,Mevlana,41.08253132,28.91672524
+172,1,Akaryakit,12,Petrol Ofisi,Sariyer,Sariyer Merkez,41.16612884,29.05648411
+173,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Kartal,Cavusoglu,40.88955086,29.20683015
+174,1,Akaryakit,14,Termopet Akaryakit,Catalca,Ciftlikkoy,41.33691805,28.41568618
+175,2,Akaryakit Lpg,23,Moil,Kucukcekmece,Fevzi Cakmak,41.00846474,28.79462734
+176,2,Akaryakit Lpg,7,Enerji Petrol,Silivri,Ortakoy,41.09428834,28.37628946
+177,1,Akaryakit,15,Total,Tuzla,Istasyon,40.83580293,29.32389265
+178,1,Akaryakit,13,Shell-Turcas Petrol,Atasehir,Kayisdagi,40.98766792,29.14387497
+179,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Beykoz,Goksu,41.07999656,29.07078134
+180,1,Akaryakit,25,Starpet,Sancaktepe,Buyukbakkalkoy,40.98696716,29.22608529
+181,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Kucukcekmece,Besyol,40.99637053,28.7966381
+182,2,Akaryakit Lpg,10,Opet,Kucukcekmece,Halkali Merkez,41.02923287,28.80651589
+183,2,Akaryakit Lpg,12,Petrol Ofisi,Bahcelievler,Kocasinan Merkez,41.01313068,28.84679765
+184,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Bakirkoy,Senlikkoy,40.98640206,28.81960077
+185,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Pendik,Bahcelievler,40.88688466,29.23998611
+186,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Zeytinburnu,Merkezefendi,41.01682003,28.91287897
+187,2,Akaryakit Lpg,15,Total,Kagithane,Merkez,41.07857234,28.97196755
+188,2,Akaryakit Lpg,12,Petrol Ofisi,Basaksehir,Bahcesehir 1. Kisim,41.0604331,28.6985173
+189,2,Akaryakit Lpg,3,Aytemiz,Eyupsultan,Pirincci,41.20086472,28.8250662
+190,2,Akaryakit Lpg,3,Aytemiz,Eyupsultan,Ciftalan,41.23651473,28.90607452
+191,1,Akaryakit,12,Petrol Ofisi,Buyukcekmece,Mimar Sinan,41.01261672,28.54140741
+192,1,Akaryakit,10,Opet,Kadikoy,Zuhtupasa,40.98389906,29.04009447
+193,1,Akaryakit,15,Total,Beylikduzu,Yakuplu,40.98987317,28.6684008
+194,1,Akaryakit,10,Opet,Pendik,Bahcelievler,40.89141356,29.23323457
+195,2,Akaryakit Lpg,5,BP,Eyupsultan,Topcular,41.04165762,28.91991842
+196,1,Akaryakit,13,Shell-Turcas Petrol,Cekmekoy,Mimar Sinan,41.03232541,29.17362107
+197,2,Akaryakit Lpg,12,Petrol Ofisi,Uskudar,Kisikli,41.0225188,29.07526394
+198,2,Akaryakit Lpg,12,Petrol Ofisi,Sultanbeyli,Hasanpasa,40.97177557,29.24849597
+199,2,Akaryakit Lpg,5,BP,Bagcilar,Baglar,41.02608257,28.81410163
+200,2,Akaryakit Lpg,15,Total,Eyupsultan,Karadolap,41.06937155,28.93316692
+201,1,Akaryakit,5,BP,Pendik,Bahcelievler,40.88487599,29.23556676
+202,2,Akaryakit Lpg,5,BP,Bayrampasa,Cevatpasa,41.07299288,28.88672428
+203,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Esenler,Birlik,41.05385238,28.86634702
+204,2,Akaryakit Lpg,15,Total,Silivri,Selimpasa,41.05631325,28.36998004
+205,1,Akaryakit,5,BP,Arnavutkoy,Arnavutkoy Merkez,41.18601276,28.73928928
+206,2,Akaryakit Lpg,9,LukOil,Buyukcekmece,Mimar Sinan,41.01398501,28.54734886
+207,2,Akaryakit Lpg,5,BP,Sultangazi,Yunus Emre,41.0951491,28.89592117
+208,1,Akaryakit,5,BP,Kartal,Kordonboyu,40.88755051,29.19164291
+209,1,Akaryakit,12,Petrol Ofisi,Bakirkoy,Kartaltepe,40.98804233,28.8841313
+210,1,Akaryakit,13,Shell-Turcas Petrol,Atasehir,Ataturk,40.98520369,29.10719444
+211,1,Akaryakit,12,Petrol Ofisi,Silivri,Selimpasa,41.0499225,28.39087994
+212,1,Akaryakit,12,Petrol Ofisi,Sariyer,Kirecburnu,41.15146045,29.04263104
+213,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Sancaktepe,Safa,41.0137312,29.24597297
+214,1,Akaryakit,13,Shell-Turcas Petrol,Tuzla,Mescit,40.88118159,29.34513705
+215,1,Akaryakit,3,Aytemiz,Kagithane,Gursel,41.07514309,28.9696002
+216,2,Akaryakit Lpg,10,Opet,Buyukcekmece,Pinartepe,40.99781132,28.60520225
+217,2,Akaryakit Lpg,15,Total,Maltepe,Yali,40.91444451,29.14083401
+218,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Bakirkoy,Senlikkoy,40.98799075,28.79598148
+219,2,Akaryakit Lpg,12,Petrol Ofisi,Maltepe,Aydinevler,40.94585412,29.12744229
+220,1,Akaryakit,5,BP,Maltepe,Cevizli,40.91730439,29.1436794
+221,2,Akaryakit Lpg,5,BP,Bagcilar,Baglar,41.02468823,28.8285146
+222,1,Akaryakit,15,Total,Uskudar,Kirazlitepe,41.03650507,29.06536996
+223,2,Akaryakit Lpg,10,Opet,Bagcilar,Mahmutbey,41.06971419,28.82515769
+224,2,Akaryakit Lpg,12,Petrol Ofisi,Bagcilar,Yavuz Selim,41.04180765,28.84978727
+225,1,Akaryakit,12,Petrol Ofisi,Kagithane,Yesilce,41.09362435,29.00441833
+226,2,Akaryakit Lpg,15,Total,Sile,Cavus,41.15579592,29.60433743
+227,1,Akaryakit,5,BP,Arnavutkoy,Omerli,41.12363691,28.62465206
+228,2,Akaryakit Lpg,3,Aytemiz,Bagcilar,15 Temmuz,41.04482464,28.81695939
+229,2,Akaryakit Lpg,9,LukOil,Pendik,Kaynarca,40.87312562,29.26541195
+230,2,Akaryakit Lpg,3,Aytemiz,Kartal,Cumhuriyet,40.89707377,29.22570029
+231,2,Akaryakit Lpg,15,Total,Catalca,Ferhatpasa,41.13283082,28.47029877
+232,1,Akaryakit,13,Shell-Turcas Petrol,Kadikoy,Fenerbahce,40.97577486,29.05043269
+233,1,Akaryakit,5,BP,Sancaktepe,Fatih,40.96642276,29.2165009
+234,2,Akaryakit Lpg,22,KadOil,Kucukcekmece,Sogutlu Cesme,41.01293832,28.79168159
+235,2,Akaryakit Lpg,23,Moil,Silivri,Buyuk Cavuslu,41.24434402,28.0673768
+236,1,Akaryakit,12,Petrol Ofisi,Catalca,Kestanelik,41.22746255,28.49171624
+237,1,Akaryakit,15,Total,Fatih,Karagumruk,41.02860721,28.93680477
+238,2,Akaryakit Lpg,5,BP,Kadikoy,Egitim,40.98943776,29.04218668
+239,2,Akaryakit Lpg,3,Aytemiz,Tuzla,Sifa,40.8172561,29.36250854
+240,2,Akaryakit Lpg,10,Opet,Beykoz,Cubuklu,41.09487573,29.09087267
+241,2,Akaryakit Lpg,10,Opet,Tuzla,Fatih,40.91728049,29.35200438
+242,2,Akaryakit Lpg,15,Total,Cekmekoy,Alemdag,41.05215547,29.23965046
+243,2,Akaryakit Lpg,12,Petrol Ofisi,Esenyurt,Akcaburgaz,41.0795274,28.62598391
+244,2,Akaryakit Lpg,5,BP,Fatih,Haseki Sultan,41.00707534,28.93679318
+245,1,Akaryakit,12,Petrol Ofisi,Buyukcekmece,Bahcelievler,41.0179062,28.48309223
+246,2,Akaryakit Lpg,10,Opet,Silivri,Gumusyaka,41.08393012,28.03649832
+247,2,Akaryakit Lpg,5,BP,Uskudar,Barbaros,41.01651772,29.03016851
+248,2,Akaryakit Lpg,12,Petrol Ofisi,Gungoren,Mehmet Nesih Ozmen,41.01724195,28.89044913
+249,1,Akaryakit,13,Shell-Turcas Petrol,Eyupsultan,Sakarya,41.06626839,28.94297153
+250,2,Akaryakit Lpg,12,Petrol Ofisi,Beyoglu,Omer Avni,41.03532153,28.99380776
+251,2,Akaryakit Lpg,10,Opet,Maltepe,Baglarbasi,40.9291274,29.14617914
+252,2,Akaryakit Lpg,10,Opet,Sancaktepe,Sarigazi,41.00791108,29.20168331
+253,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Bayrampasa,Terazidere,41.03408268,28.89697833
+254,1,Akaryakit,13,Shell-Turcas Petrol,Kucukcekmece,Tevfikbey,41.00999857,28.7943201
+255,2,Akaryakit Lpg,33,Pasifik,Catalca,Kaleici,41.15802798,28.45400215
+256,1,Akaryakit,13,Shell-Turcas Petrol,Silivri,Buyuk Cavuslu,41.20384889,28.07676941
+257,2,Akaryakit Lpg,10,Opet,Umraniye,Atakent,41.02308828,29.108036
+258,1,Akaryakit,5,BP,Bayrampasa,Kartaltepe,41.05569525,28.89676411
+259,1,Akaryakit,10,Opet,Buyukcekmece,Cumhuriyet,41.01896944,28.63108952
+260,1,Akaryakit,5,BP,Sariyer,Uskumrukoy,41.19144222,29.03680574
+261,1,Akaryakit,22,KadOil,Silivri,Selimpasa,41.06504724,28.3209861
+262,1,Akaryakit,5,BP,Uskudar,Cengelkoy,41.05192001,29.05209435
+263,2,Akaryakit Lpg,15,Total,Kartal,Cumhuriyet,40.91051823,29.21605159
+264,1,Akaryakit,15,Total,Sultanbeyli,Aksemsettin,40.95121784,29.29730485
+265,2,Akaryakit Lpg,12,Petrol Ofisi,Sile,Cavus,41.15688719,29.6282651
+266,2,Akaryakit Lpg,27,Turkiye Petrol,Kucukcekmece,Kartaltepe,41.00021027,28.80072929
+267,2,Akaryakit Lpg,12,Petrol Ofisi,Maltepe,Cevizli,40.91644049,29.1466845
+268,1,Akaryakit,3,Aytemiz,Sile,Ahmetli,41.144407,29.5762935
+269,2,Akaryakit Lpg,2,Alpet,Beylikduzu,Dereagzi,40.98943024,28.61889796
+270,2,Akaryakit Lpg,12,Petrol Ofisi,Atasehir,Ferhatpasa,40.98135375,29.16506433
+271,1,Akaryakit,13,Shell-Turcas Petrol,Gaziosmanpasa,Kazim Karabekir,41.0837214,28.90890001
+272,2,Akaryakit Lpg,31,Uspet,Pendik,Bati,40.87931655,29.22049877
+273,1,Akaryakit,5,BP,Kagithane,Ortabayir,41.07888405,29.00292394
+274,1,Akaryakit,10,Opet,Sisli,Halil Rifat Pasa,41.05653604,28.96513367
+275,1,Akaryakit,13,Shell-Turcas Petrol,Silivri,Mimar Sinan,41.08185536,28.21834158
+276,1,Akaryakit,27,Turkiye Petrol,Eyupsultan,Alibeykoy,41.08344499,28.94887753
+277,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Fatih,Topkapi,41.01813018,28.92844201
+278,2,Akaryakit Lpg,10,Opet,Sultangazi,Cumhuriyet,41.08989876,28.88303667
+279,1,Akaryakit,5,BP,Kartal,Soganlik Yeni,40.91082712,29.19910787
+280,2,Akaryakit Lpg,15,Total,Gaziosmanpasa,Karayollari,41.08065521,28.90724531
+281,1,Akaryakit,13,Shell-Turcas Petrol,Maltepe,Altaycesme,40.92936189,29.12954455
+282,1,Akaryakit,12,Petrol Ofisi,Bakirkoy,Atakoy 7-8-9-10. Kisim,40.99171034,28.83805773
+283,1,Akaryakit,10,Opet,Tuzla,Fatih,40.9316241,29.33890266
+284,2,Akaryakit Lpg,9,LukOil,Buyukcekmece,Pinartepe,41.01634011,28.62590929
+285,1,Akaryakit,3,Aytemiz,Sultangazi,Habibler,41.12971549,28.83778866
+286,2,Akaryakit Lpg,10,Opet,Umraniye,Saray,41.02251645,29.11600808
+287,2,Akaryakit Lpg,10,Opet,Sancaktepe,Ataturk,41.00851137,29.21597958
+288,2,Akaryakit Lpg,12,Petrol Ofisi,Sisli,Pasa,41.04799605,28.9686015
+289,1,Akaryakit,5,BP,Fatih,Iskenderpasa,41.01637965,28.94926326
+290,2,Akaryakit Lpg,5,BP,Buyukcekmece,Mimar Sinan,41.01976026,28.56367183
+291,2,Akaryakit Lpg,12,Petrol Ofisi,Pendik,Bahcelievler,40.8862482,29.23630356
+292,1,Akaryakit,12,Petrol Ofisi,Cekmekoy,Alemdag,41.03967624,29.23452196
+293,2,Akaryakit Lpg,3,Aytemiz,Kadikoy,19 Mayis,40.97755127,29.097093
+294,1,Akaryakit,13,Shell-Turcas Petrol,Zeytinburnu,Veliefendi,40.99509797,28.89498736
+295,1,Akaryakit,13,Shell-Turcas Petrol,Bayrampasa,Yenidogan,41.03959059,28.9113182
+296,2,Akaryakit Lpg,5,BP,Kartal,Cavusoglu,40.89677383,29.20341709
+297,1,Akaryakit,13,Shell-Turcas Petrol,Cekmekoy,Eksioglu,41.02688061,29.23974643
+298,1,Akaryakit,13,Shell-Turcas Petrol,Sariyer,Yenikoy,41.1177242,29.06441979
+299,2,Akaryakit Lpg,5,BP,Pendik,Kurtkoy,40.91494082,29.30364366
+300,2,Akaryakit Lpg,12,Petrol Ofisi,Beylikduzu,Kavakli,40.98367542,28.64388918
+301,1,Akaryakit,13,Shell-Turcas Petrol,Sariyer,Cayirbasi,41.15603424,29.03575604
+302,2,Akaryakit Lpg,15,Total,Bagcilar,Merkez,41.02964793,28.86681223
+303,1,Akaryakit,5,BP,Fatih,Ali Kuscu,41.0177712,28.95090075
+304,2,Akaryakit Lpg,10,Opet,Kartal,Cevizli,40.91117178,29.1816818
+305,2,Akaryakit Lpg,10,Opet,Sultanbeyli,Abdurrahmangazi,40.97128421,29.25725831
+306,2,Akaryakit Lpg,12,Petrol Ofisi,Maltepe,Girne,40.93831269,29.14087701
+307,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Gungoren,Gencosman,41.02832064,28.87822706
+308,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Zeytinburnu,Tozkoparan,41.0142777,28.90059434
+309,2,Akaryakit Lpg,9,LukOil,Uskudar,Selimiye,41.00983903,29.01226015
+310,1,Akaryakit,13,Shell-Turcas Petrol,Maltepe,Cevizli,40.92344507,29.15101452
+311,2,Akaryakit Lpg,12,Petrol Ofisi,Sultangazi,50. Yil,41.08708975,28.86891506
+312,1,Akaryakit,13,Shell-Turcas Petrol,Umraniye,Serifali,40.99902935,29.15498896
+313,2,Akaryakit Lpg,14,Termopet Akaryakit,Catalca,Ataturk,41.4101955,28.1854755
+314,2,Akaryakit Lpg,10,Opet,Sancaktepe,Merve,41.00720945,29.24424775
+315,2,Akaryakit Lpg,5,BP,Zeytinburnu,Veliefendi,40.9939861,28.89457035
+316,2,Akaryakit Lpg,15,Total,Uskudar,Altunizade,41.0230893,29.04313523
+317,2,Akaryakit Lpg,7,Enerji Petrol,Bagcilar,Yavuz Selim,41.04251084,28.84661452
+318,2,Akaryakit Lpg,5,BP,Maltepe,Zumrutevler,40.93749563,29.14092765
+319,2,Akaryakit Lpg,27,Turkiye Petrol,Zeytinburnu,Merkezefendi,41.016299,28.91167162
+320,1,Akaryakit,5,BP,Buyukcekmece,Mimaroba,41.01046948,28.53174022
+321,1,Akaryakit,13,Shell-Turcas Petrol,Zeytinburnu,Kazlicesme,40.98166199,28.89088175
+322,1,Akaryakit,5,BP,Bahcelievler,Bahcelievler,41.00336557,28.86629591
+323,1,Akaryakit,13,Shell-Turcas Petrol,Kadikoy,Erenkoy,40.97086977,29.08365389
+324,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Bagcilar,100. Yil,41.05629933,28.85260992
+325,1,Akaryakit,32,cekoil,Silivri,Yeni,41.07231784,28.27391577
+326,2,Akaryakit Lpg,5,BP,Esenyurt,Mevlana,41.01431716,28.64691482
+327,1,Akaryakit,5,BP,Silivri,Semizkumlar,41.07527809,28.1328553
+328,2,Akaryakit Lpg,25,Starpet,Maltepe,Cevizli,40.92027741,29.14773205
+329,2,Akaryakit Lpg,5,BP,Arnavutkoy,Mavigol,41.2033959,28.75979455
+330,2,Akaryakit Lpg,10,Opet,Bahcelievler,Yenibosna Merkez,41.00988951,28.83102794
+331,1,Akaryakit,15,Total,Beykoz,Ishakli,41.13278022,29.28257141
+332,2,Akaryakit Lpg,10,Opet,Eyupsultan,Mithatpasa,41.16944965,28.90500865
+333,1,Akaryakit,21,Turkuaz,Catalca,Karacakoy Merkez,41.40368877,28.37736237
+334,2,Akaryakit Lpg,15,Total,Gaziosmanpasa,Merkez,41.05196898,28.91129632
+335,1,Akaryakit,10,Opet,Kucukcekmece,Ataturk,41.06029844,28.78955456
+336,2,Akaryakit Lpg,12,Petrol Ofisi,Arnavutkoy,Yesilbayir,41.13654881,28.6229764
+337,2,Akaryakit Lpg,5,BP,Basaksehir,Ziya Gokalp,41.0841354,28.78432275
+338,2,Akaryakit Lpg,15,Total,Beykoz,Acarlar,41.12164292,29.14625501
+339,2,Akaryakit Lpg,5,BP,Kagithane,Merkez,41.08524513,28.97806908
+340,2,Akaryakit Lpg,20,Full,Pendik,Bahcelievler,40.88430941,29.2359367
+341,1,Akaryakit,3,Aytemiz,Avcilar,Tahtakale,41.05823633,28.73067151
+342,2,Akaryakit Lpg,12,Petrol Ofisi,Buyukcekmece,Cakmakli,41.04084216,28.62583498
+343,2,Akaryakit Lpg,15,Total,Sisli,Eskisehir,41.04468951,28.97831723
+344,2,Akaryakit Lpg,9,LukOil,Esenyurt,Ataturk,41.03181525,28.65739379
+345,2,Akaryakit Lpg,12,Petrol Ofisi,Sultangazi,Ugur Mumcu,41.10404414,28.86197178
+346,2,Akaryakit Lpg,10,Opet,Kucukcekmece,Gultepe,40.99291354,28.79361403
+347,2,Akaryakit Lpg,10,Opet,Uskudar,Ferah,41.0314481,29.07960182
+348,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Basaksehir,Basaksehir,41.09846363,28.79100388
+349,2,Akaryakit Lpg,12,Petrol Ofisi,Arnavutkoy,Arnavutkoy Merkez,41.18201676,28.74285376
+350,1,Akaryakit,12,Petrol Ofisi,Kagithane,Celiktepe,41.08336653,28.99973039
+351,1,Akaryakit,13,Shell-Turcas Petrol,Bahcelievler,Yenibosna Merkez,41.01390184,28.82591129
+352,1,Akaryakit,12,Petrol Ofisi,Kucukcekmece,Inonu,41.01578731,28.80376468
+353,2,Akaryakit Lpg,12,Petrol Ofisi,Kagithane,Caglayan,41.08103855,28.98676537
+354,1,Akaryakit,12,Petrol Ofisi,Fatih,Zeyrek,41.01876263,28.95443025
+355,2,Akaryakit Lpg,10,Opet,Sisli,Merkez,41.06569501,28.98749277
+356,1,Akaryakit,10,Opet,Fatih,Dervis Ali,41.02980115,28.93902429
+357,2,Akaryakit Lpg,2,Alpet,Beylikduzu,Adnan Kahveci,40.99610084,28.6252887
+358,1,Akaryakit,12,Petrol Ofisi,Silivri,Buyuk Cavuslu,41.22622091,28.06378658
+359,2,Akaryakit Lpg,10,Opet,Gaziosmanpasa,Yeni Mahalle,41.08161319,28.8962495
+360,2,Akaryakit Lpg,10,Opet,Uskudar,Selimiye,41.00831569,29.02304984
+361,1,Akaryakit,13,Shell-Turcas Petrol,Sariyer,Maslak,41.11754302,29.02355514
+362,1,Akaryakit,15,Total,Silivri,Yeni,41.07458129,28.2617832
+363,2,Akaryakit Lpg,10,Opet,Bagcilar,Fevzi Cakmak,41.04773828,28.85967769
+364,2,Akaryakit Lpg,10,Opet,Tuzla,Mescit,40.88408316,29.34923857
+365,1,Akaryakit,12,Petrol Ofisi,Beylikduzu,Yakuplu,40.98881815,28.66760101
+366,2,Akaryakit Lpg,15,Total,Esenyurt,Ardicli,41.04239594,28.6764123
+367,1,Akaryakit,12,Petrol Ofisi,Bagcilar,Yavuz Selim,41.03679069,28.8528852
+368,1,Akaryakit,15,Total,Kucukcekmece,Halkali Merkez,41.03209046,28.80008994
+369,2,Akaryakit Lpg,5,BP,Basaksehir,Bahcesehir 2. Kisim,41.06005547,28.68809499
+370,1,Akaryakit,13,Shell-Turcas Petrol,Sultangazi,50. Yil,41.09173674,28.86447997
+371,1,Akaryakit,5,BP,Beykoz,Ruzgarlibahce,41.09474789,29.09756142
+372,2,Akaryakit Lpg,10,Opet,Bahcelievler,Cobancesme,40.99309489,28.82714527
+373,2,Akaryakit Lpg,2,Alpet,Catalca,Gokceali,41.19727482,28.44551218
+374,2,Akaryakit Lpg,5,BP,Beykoz,Gumussuyu,41.1278814,29.09614625
+375,1,Akaryakit,12,Petrol Ofisi,Arnavutkoy,Mustafa Kemal Pasa,41.19165865,28.73369324
+376,2,Akaryakit Lpg,12,Petrol Ofisi,Esenyurt,Barbaros Hayrettin Pasa,41.0168531,28.63926464
+377,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Kartal,Yukari,40.88918493,29.1811804
+378,2,Akaryakit Lpg,5,BP,Bahcelievler,Kocasinan Merkez,41.02069618,28.84041721
+379,1,Akaryakit,12,Petrol Ofisi,Gaziosmanpasa,Hurriyet,41.06180709,28.90231997
+380,1,Akaryakit,12,Petrol Ofisi,Esenyurt,Mevlana,41.00649879,28.66754133
+381,2,Akaryakit Lpg,10,Opet,Esenyurt,Koza,41.08044666,28.6524485
+382,1,Akaryakit,12,Petrol Ofisi,Sancaktepe,Emek,41.00697284,29.18824372
+383,1,Akaryakit,5,BP,Esenyurt,Akcaburgaz,41.06737905,28.64951142
+384,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Beyoglu,Yenisehir,41.04156691,28.97933781
+385,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Gungoren,Abdurrahman Nafiz Gurman,41.00805522,28.89697717
+386,1,Akaryakit,15,Total,Atasehir,Icerenkoy,40.96618877,29.10487218
+387,1,Akaryakit,10,Opet,Sultanbeyli,Turgut Reis,40.96122581,29.28279741
+388,1,Akaryakit,13,Shell-Turcas Petrol,Bakirkoy,Yenimahalle,40.98161978,28.88431083
+389,1,Akaryakit,5,BP,Bahcelievler,Yenibosna Merkez,41.01651655,28.81163703
+390,1,Akaryakit,5,BP,Umraniye,Cemil Meric,41.01667932,29.14160235
+391,2,Akaryakit Lpg,15,Total,Silivri,Gumusyaka,41.04359049,28.03589148
+392,1,Akaryakit,13,Shell-Turcas Petrol,Bayrampasa,Ismet Pasa,41.04060278,28.91167199
+393,2,Akaryakit Lpg,3,Aytemiz,Kadikoy,Kozyatagi,40.96764901,29.10274261
+394,2,Akaryakit Lpg,10,Opet,Beyoglu,Kececi Piri,41.03833142,28.95672622
+395,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Sultangazi,Cebeci,41.10887447,28.85970541
+396,1,Akaryakit,10,Opet,Bagcilar,Fatih,41.05473055,28.84050802
+397,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Kucukcekmece,Istasyon,41.03370432,28.76812558
+398,2,Akaryakit Lpg,10,Opet,Kartal,Petrol Is,40.89118955,29.17736785
+399,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Beyoglu,Istiklal,41.04063261,28.96738729
+400,2,Akaryakit Lpg,15,Total,Gaziosmanpasa,Kazim Karabekir,41.06957312,28.9164633
+401,1,Akaryakit,13,Shell-Turcas Petrol,Kadikoy,Bostanci,40.95732295,29.09763305
+402,1,Akaryakit,9,LukOil,Sisli,Huzur,41.10294228,28.99991812
+403,2,Akaryakit Lpg,9,LukOil,Esenyurt,Aksemseddin,41.02222481,28.70110036
+404,2,Akaryakit Lpg,12,Petrol Ofisi,Avcilar,Universite,40.99051733,28.71819777
+405,1,Akaryakit,12,Petrol Ofisi,Atasehir,Kucukbakkalkoy,40.98599295,29.10873277
+406,1,Akaryakit,12,Petrol Ofisi,Gaziosmanpasa,Barbaros Hayrettin Pasa,41.07864913,28.89545498
+407,2,Akaryakit Lpg,15,Total,Bakirkoy,Kartaltepe,40.99700685,28.87159734
+408,2,Akaryakit Lpg,15,Total,Bagcilar,Mahmutbey,41.05805477,28.83089764
+409,2,Akaryakit Lpg,9,LukOil,Atasehir,Kucukbakkalkoy,40.98103833,29.13111308
+410,1,Akaryakit,14,Termopet Akaryakit,Silivri,Beyciler,41.23063559,28.11426707
+411,2,Akaryakit Lpg,15,Total,Eyupsultan,Merkez,41.05667261,28.939119
+412,1,Akaryakit,10,Opet,Umraniye,Yukari Dudullu,41.01414594,29.16373448
+413,2,Akaryakit Lpg,5,BP,Bahcelievler,Cobancesme,41.00099729,28.82271767
+414,2,Akaryakit Lpg,5,BP,Esenyurt,Ataturk,41.03602095,28.6240577
+415,2,Akaryakit Lpg,10,Opet,Buyukcekmece,Cakmakli,41.06395049,28.6219796
+416,2,Akaryakit Lpg,10,Opet,Esenyurt,Saadetdere,41.00935027,28.70135904
+417,2,Akaryakit Lpg,12,Petrol Ofisi,Eyupsultan,Gokturk Merkez,41.17927948,28.88399551
+418,2,Akaryakit Lpg,24,Bpet,Sile,Mesrutiyet,41.16792395,29.56129221
+419,1,Akaryakit,15,Total,Esenyurt,Saadetdere,41.00012885,28.6951154
+420,1,Akaryakit,12,Petrol Ofisi,Pendik,Fevzi Cakmak,40.87370848,29.26604853
+421,1,Akaryakit,12,Petrol Ofisi,Bayrampasa,Altintepsi,41.04267971,28.89604688
+422,1,Akaryakit,12,Petrol Ofisi,Bayrampasa,Altintepsi,41.03651323,28.89363037
+423,1,Akaryakit,5,BP,Uskudar,Burhaniye,41.02421121,29.05469689
+424,2,Akaryakit Lpg,10,Opet,Fatih,Aksaray,41.00370175,28.94995966
+425,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Beylikduzu,Yakuplu,41.0047102,28.66441315
+426,2,Akaryakit Lpg,5,BP,Umraniye,Madenler,41.00793467,29.18071075
+427,1,Akaryakit,12,Petrol Ofisi,Umraniye,Atakent,41.0227853,29.1096133
+428,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Atasehir,Fetih,41.00151354,29.07805502
+429,2,Akaryakit Lpg,9,LukOil,Sultanbeyli,Mehmet Akif,40.96435042,29.27415361
+430,2,Akaryakit Lpg,10,Opet,Buyukcekmece,Murat Cesme,41.01262049,28.53723371
+431,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Sancaktepe,Fatih,40.95854245,29.21479814
+432,2,Akaryakit Lpg,10,Opet,Bagcilar,Goztepe,41.06025487,28.8411575
+433,1,Akaryakit,10,Opet,Eyupsultan,Dugmeciler,41.04574924,28.93140871
+434,1,Akaryakit,5,BP,Bagcilar,Mahmutbey,41.04501043,28.82303359
+435,1,Akaryakit,3,Aytemiz,Silivri,Alipasa,41.10731249,28.22173863
+436,2,Akaryakit Lpg,12,Petrol Ofisi,Tuzla,Tepeoren,40.94263139,29.37344999
+437,2,Akaryakit Lpg,12,Petrol Ofisi,Atasehir,Icerenkoy,40.97919989,29.10475127
+438,1,Akaryakit,13,Shell-Turcas Petrol,Bakirkoy,Senlikkoy,40.97264735,28.78982828
+439,1,Akaryakit,5,BP,Sariyer,Pinar,41.10851251,29.02328986
+440,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Buyukcekmece,Mimar Sinan,41.01743535,28.56224986
+441,1,Akaryakit,15,Total,Uskudar,Bulgurlu,41.01459555,29.07573056
+442,2,Akaryakit Lpg,5,BP,Beyoglu,Ornektepe,41.05692589,28.95109131
+443,2,Akaryakit Lpg,10,Opet,Pendik,Harmandere,40.92669114,29.31750646
+444,1,Akaryakit,5,BP,Bayrampasa,Kocatepe,41.05010145,28.89979986
+445,1,Akaryakit,5,BP,Maltepe,Altaycesme,40.93139349,29.12881027
+446,2,Akaryakit Lpg,10,Opet,Kartal,Esentepe,40.91212164,29.19191256
+447,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Sultangazi,Sultanciftligi,41.093558,28.86348523
+448,2,Akaryakit Lpg,12,Petrol Ofisi,Maltepe,Cinar,40.94776756,29.1234393
+449,1,Akaryakit,15,Total,Buyukcekmece,Cumhuriyet,41.0243886,28.62363627
+450,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Kadikoy,Acibadem,41.0031846,29.03408572
+451,2,Akaryakit Lpg,9,LukOil,Esenyurt,Koza,41.06871475,28.66075445
+452,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Bagcilar,Yenimahalle,41.03986548,28.83360109
+453,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Pendik,Dogu,40.88151563,29.24040116
+454,1,Akaryakit,10,Opet,Esenler,Yavuz Selim,41.03675632,28.88732712
+455,1,Akaryakit,5,BP,Buyukcekmece,Kumburgaz,41.0283927,28.4598228
+456,2,Akaryakit Lpg,5,BP,Bagcilar,Goztepe,41.05403682,28.83352668
+457,2,Akaryakit Lpg,12,Petrol Ofisi,Maltepe,Cevizli,40.92404171,29.15102638
+458,2,Akaryakit Lpg,5,BP,Kucukcekmece,Halkali Merkez,41.0366427,28.79714928
+459,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Silivri,Buyuk Cavuslu,41.25586386,28.03628635
+460,1,Akaryakit,13,Shell-Turcas Petrol,Buyukcekmece,Pinartepe,41.00105092,28.61802638
+461,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Sancaktepe,Buyukbakkalkoy,40.98060433,29.22024278
+462,2,Akaryakit Lpg,5,BP,Bagcilar,Inonu,41.02743229,28.84747155
+463,1,Akaryakit,10,Opet,Cekmekoy,Omerli,41.08802801,29.34381762
+464,1,Akaryakit,25,Starpet,Esenler,Menderes,41.04137304,28.88090155
+465,2,Akaryakit Lpg,10,Opet,Gungoren,Merkez,41.02977568,28.86348697
+466,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Bagcilar,Mahmutbey,41.04460254,28.82071922
+467,2,Akaryakit Lpg,15,Total,Maltepe,Altaycesme,40.93971866,29.13335023
+468,2,Akaryakit Lpg,12,Petrol Ofisi,Esenyurt,Ataturk,41.03699088,28.62478209
+469,2,Akaryakit Lpg,15,Total,Sancaktepe,Kemal Turkler,41.00390425,29.21688436
+470,2,Akaryakit Lpg,10,Opet,Sultangazi,Eski Habipler,41.13196351,28.82696282
+471,1,Akaryakit,13,Shell-Turcas Petrol,Sancaktepe,Buyukbakkalkoy,40.97776957,29.22081122
+472,1,Akaryakit,15,Total,Buyukcekmece,Mimar Sinan,41.01713165,28.55737114
+473,1,Akaryakit,3,Aytemiz,Kagithane,Mehmet Akif Ersoy,41.06293591,28.95089177
+474,2,Akaryakit Lpg,10,Opet,Pendik,Fevzi Cakmak,40.88079983,29.2551488
+475,2,Akaryakit Lpg,10,Opet,Buyukcekmece,Kamiloba,41.03783658,28.43729495
+476,1,Akaryakit,5,BP,Kadikoy,Fenerbahce,40.98061711,29.04183468
+477,2,Akaryakit Lpg,15,Total,Tuzla,Mescit,40.89976898,29.35113698
+478,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Bagcilar,Kirazli,41.03264496,28.83403227
+479,2,Akaryakit Lpg,10,Opet,Esenyurt,Sultaniye,41.02314038,28.68670988
+480,2,Akaryakit Lpg,10,Opet,Zeytinburnu,Tozkoparan,41.01981277,28.90877611
+481,1,Akaryakit,12,Petrol Ofisi,Sultangazi,75. Yil,41.09865103,28.9003732
+482,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Sultanbeyli,Battalgazi,40.9900595,29.26385538
+483,2,Akaryakit Lpg,12,Petrol Ofisi,Zeytinburnu,Tozkoparan,41.01519328,28.90779069
+484,2,Akaryakit Lpg,7,Enerji Petrol,Bagcilar,Kemalpasa,41.05404038,28.85444228
+485,2,Akaryakit Lpg,10,Opet,Kagithane,Yahya Kemal,41.08893676,28.98501544
+486,2,Akaryakit Lpg,10,Opet,Besiktas,Ortakoy,41.05444498,29.0337741
+487,2,Akaryakit Lpg,5,BP,Esenler,Tuna,41.05024848,28.85920901
+488,1,Akaryakit,10,Opet,Esenyurt,Akcaburgaz,41.05037257,28.62850889
+489,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Kartal,Esentepe,40.91110469,29.1952688
+490,2,Akaryakit Lpg,12,Petrol Ofisi,Sancaktepe,Pasakoy,41.04376927,29.27918522
+491,2,Akaryakit Lpg,2,Alpet,Silivri,Alipasa,41.10371436,28.21939533
+492,2,Akaryakit Lpg,10,Opet,Sariyer,Resitpasa,41.10741219,29.01511161
+493,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Umraniye,Ihlamurkuyu,41.02058605,29.12964144
+494,1,Akaryakit,9,LukOil,Sultanbeyli,Yavuz Selim,40.95069492,29.2818336
+495,1,Akaryakit,10,Opet,Sancaktepe,Meclis,41.00798822,29.19311182
+496,2,Akaryakit Lpg,10,Opet,Tuzla,Postane,40.81945386,29.30622581
+497,1,Akaryakit,12,Petrol Ofisi,Bagcilar,15 Temmuz,41.02742799,28.81262805
+498,1,Akaryakit,10,Opet,Pendik,Seyhli,40.90536913,29.28536192
+499,1,Akaryakit,9,LukOil,Atasehir,Ferhatpasa,40.99031873,29.17570324
+500,2,Akaryakit Lpg,23,Moil,Fatih,Kucuk Ayasofya,41.00181317,28.9724949
+501,1,Akaryakit,9,LukOil,Gaziosmanpasa,Merkez,41.05413073,28.91050432
+502,2,Akaryakit Lpg,2,Alpet,Avcilar,Universite,40.99363129,28.70950192
+503,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Sultanbeyli,Mecidiye,40.96050301,29.29159966
+504,1,Akaryakit,13,Shell-Turcas Petrol,Besiktas,Nisbetiye,41.06987982,29.01527361
+505,1,Akaryakit,13,Shell-Turcas Petrol,Kartal,Yali,40.89993015,29.21995075
+506,1,Akaryakit,5,BP,Kagithane,Gursel,41.07552344,28.96980524
+507,1,Akaryakit,13,Shell-Turcas Petrol,Bagcilar,Mahmutbey,41.04591634,28.82983716
+508,2,Akaryakit Lpg,20,Full,Sancaktepe,Inonu,41.01036169,29.21040523
+509,1,Akaryakit,14,Termopet Akaryakit,Silivri,Danamandira,41.30537103,28.24175507
+510,2,Akaryakit Lpg,5,BP,Cekmekoy,Cumhuriyet,41.024838,29.22565949
+511,2,Akaryakit Lpg,12,Petrol Ofisi,Basaksehir,Basak,41.10452214,28.8043003
+512,2,Akaryakit Lpg,10,Opet,Esenyurt,Asik Veysel,41.06475707,28.67162883
+513,2,Akaryakit Lpg,12,Petrol Ofisi,Avcilar,Yesilkent,41.05105637,28.68774615
+514,2,Akaryakit Lpg,7,Enerji Petrol,Sultangazi,75. Yil,41.09720383,28.90467187
+515,2,Akaryakit Lpg,15,Total,Bagcilar,Gunesli,41.04140457,28.83227784
+516,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Avcilar,Universite,40.98825712,28.71868008
+517,2,Akaryakit Lpg,15,Total,Bayrampasa,Yildirim,41.0611405,28.89214984
+518,2,Akaryakit Lpg,5,BP,Bagcilar,Goztepe,41.05998749,28.83207995
+519,2,Akaryakit Lpg,33,Pasifik,Catalca,Kaleici,41.15805446,28.45524206
+520,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Basaksehir,Bahcesehir 1. Kisim,41.07178455,28.69399993
+521,1,Akaryakit,13,Shell-Turcas Petrol,Arnavutkoy,Omerli,41.09032672,28.63415889
+522,2,Akaryakit Lpg,5,BP,Bagcilar,Yavuz Selim,41.04209302,28.8509598
+523,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Kartal,Cavusoglu,40.89407129,29.19885509
+524,2,Akaryakit Lpg,12,Petrol Ofisi,Sultanbeyli,Adil,40.97286792,29.26230214
+525,2,Akaryakit Lpg,5,BP,Kucukcekmece,Gultepe,40.98858144,28.79089044
+526,1,Akaryakit,15,Total,Sultanbeyli,Mehmet Akif,40.96971958,29.26609861
+527,1,Akaryakit,9,LukOil,Sultanbeyli,Aksemsettin,40.94238474,29.30108773
+528,1,Akaryakit,13,Shell-Turcas Petrol,Esenyurt,Fatih,41.03380717,28.68004637
+529,2,Akaryakit Lpg,10,Opet,Silivri,Gumusyaka,41.05081503,28.05568473
+530,1,Akaryakit,15,Total,Atasehir,Mustafa Kemal,40.99697425,29.08879255
+531,2,Akaryakit Lpg,9,LukOil,Esenyurt,Akevler,41.01964816,28.67658853
+532,2,Akaryakit Lpg,12,Petrol Ofisi,Tuzla,Icmeler,40.84479138,29.30578453
+533,2,Akaryakit Lpg,27,Turkiye Petrol,Cekmekoy,Merkez,41.04493396,29.17717304
+534,2,Akaryakit Lpg,15,Total,Pendik,Yesilbaglar,40.89433953,29.2285325
+535,2,Akaryakit Lpg,10,Opet,Esenyurt,Asik Veysel,41.055412,28.67180478
+536,1,Akaryakit,5,BP,Kucukcekmece,Yarimburgaz,41.04264208,28.75635697
+537,1,Akaryakit,12,Petrol Ofisi,Silivri,Celtik,41.10724102,28.11222224
+538,1,Akaryakit,13,Shell-Turcas Petrol,Arnavutkoy,Anadolu,41.17749479,28.74801348
+539,1,Akaryakit,10,Opet,Avcilar,Tahtakale,41.05682424,28.728053
+540,1,Akaryakit,5,BP,Bayrampasa,Yenidogan,41.046174,28.91548504
+541,2,Akaryakit Lpg,12,Petrol Ofisi,Kucukcekmece,Halkali Merkez,41.03364903,28.80740684
+542,2,Akaryakit Lpg,15,Total,Sancaktepe,Meclis,41.01369796,29.19118382
+543,1,Akaryakit,5,BP,Bahcelievler,Kocasinan Merkez,41.01423895,28.84219214
+544,1,Akaryakit,12,Petrol Ofisi,Kucukcekmece,Ataturk,41.04893356,28.7996952
+545,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Uskudar,Bulgurlu,41.01682066,29.07617025
+546,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Beylikduzu,Baris,41.00976787,28.6551092
+547,2,Akaryakit Lpg,12,Petrol Ofisi,Sancaktepe,Meclis,41.01257362,29.20741025
+548,2,Akaryakit Lpg,12,Petrol Ofisi,Umraniye,Serifali,41.00559909,29.14620474
+549,2,Akaryakit Lpg,10,Opet,Cekmekoy,Eksioglu,41.02663493,29.24273605
+550,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Sultanbeyli,Battalgazi,40.98258981,29.26674689
+551,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Fatih,Seyyid Omer,41.00725845,28.92843682
+552,2,Akaryakit Lpg,15,Total,Bagcilar,Yildiztepe,41.02710473,28.85689017
+553,1,Akaryakit,15,Total,Pendik,Bati,40.87573633,29.23297247
+554,1,Akaryakit,12,Petrol Ofisi,Sariyer,Istinye,41.11428516,29.06011309
+555,1,Akaryakit,12,Petrol Ofisi,Silivri,Buyuk Kilicli,41.16027818,28.18607082
+556,2,Akaryakit Lpg,5,BP,Tuzla,Tepeoren,40.94062621,29.3698815
+557,1,Akaryakit,21,Turkuaz,Catalca,Izzettin,41.17215571,28.50272719
+558,2,Akaryakit Lpg,10,Opet,Atasehir,Kucukbakkalkoy,40.98244232,29.10612673
+559,1,Akaryakit,23,Moil,Bakirkoy,Kartaltepe,40.99101598,28.87090283
+560,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Gungoren,Abdurrahman Nafiz Gurman,41.00221707,28.88614594
+561,2,Akaryakit Lpg,12,Petrol Ofisi,Kucukcekmece,Cennet,40.98594941,28.78385495
+562,1,Akaryakit,5,BP,Silivri,Piri Mehmet Pasa,41.07694152,28.24642011
+563,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Tuzla,Fatih,40.92611498,29.35090343
+564,2,Akaryakit Lpg,5,BP,Eyupsultan,Karadolap,41.0794845,28.93045376
+565,1,Akaryakit,5,BP,Avcilar,Cihangir,40.99540152,28.7046477
+566,1,Akaryakit,15,Total,Esenyurt,Akcaburgaz,41.05981154,28.62519605
+567,1,Akaryakit,12,Petrol Ofisi,Silivri,Semizkumlar,41.07560122,28.14473253
+568,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Kartal,Cevizli,40.91616064,29.16989523
+569,2,Akaryakit Lpg,10,Opet,Bagcilar,Mahmutbey,41.05015537,28.81207503
+570,2,Akaryakit Lpg,10,Opet,Kagithane,Hamidiye,41.10135832,28.97994625
+571,1,Akaryakit,5,BP,Maltepe,Cevizli,40.91196731,29.15455947
+572,1,Akaryakit,10,Opet,Bakirkoy,Atakoy 1. Kisim,40.97402414,28.87318947
+573,2,Akaryakit Lpg,5,BP,Silivri,Selimpasa,41.06432041,28.32077228
+574,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Esenyurt,Baglarcesme,41.03196841,28.67431515
+575,2,Akaryakit Lpg,10,Opet,Maltepe,Girne,40.93778536,29.13796998
+576,2,Akaryakit Lpg,12,Petrol Ofisi,Buyukcekmece,Cumhuriyet,41.01952776,28.62933529
+577,2,Akaryakit Lpg,12,Petrol Ofisi,Silivri,Cumhuriyet,41.07092768,28.27675878
+578,2,Akaryakit Lpg,12,Petrol Ofisi,Catalca,Kaleici,41.150833,28.45281339
+579,2,Akaryakit Lpg,5,BP,Pendik,Kaynarca,40.86453919,29.27137385
+580,1,Akaryakit,13,Shell-Turcas Petrol,Bakirkoy,Atakoy 7-8-9-10. Kisim,40.99209548,28.83306635
+581,1,Akaryakit,12,Petrol Ofisi,Tuzla,Evliya Celebi,40.84673672,29.29609942
+582,1,Akaryakit,10,Opet,Beyoglu,Istiklal,41.04123713,28.96729852
+583,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Eyupsultan,Gokturk Merkez,41.17663651,28.89025116
+584,2,Akaryakit Lpg,15,Total,Beyoglu,Bostan,41.03986787,28.97751708
+585,1,Akaryakit,2,Alpet,Buyukcekmece,Karaagac,41.10824568,28.59256998
+586,1,Akaryakit,15,Total,Arnavutkoy,Hadimkoy,41.15609625,28.63552097
+587,1,Akaryakit,14,Termopet Akaryakit,Gaziosmanpasa,Fevzi Cakmak,41.06964438,28.90311374
+588,1,Akaryakit,9,LukOil,Silivri,Kavakli,41.0910949,28.3281697
+589,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Cekmekoy,Tasdelen,41.03084799,29.23101092
+590,2,Akaryakit Lpg,12,Petrol Ofisi,Basaksehir,Sahintepe,41.06378245,28.74609478
+591,2,Akaryakit Lpg,12,Petrol Ofisi,Pendik,Esenyali,40.85610836,29.2912771
+592,2,Akaryakit Lpg,15,Total,Buyukcekmece,Guzelce,41.00956266,28.52334775
+593,1,Akaryakit,13,Shell-Turcas Petrol,Arnavutkoy,Bogazkoy Istiklal,41.13664862,28.811227
+594,1,Akaryakit,20,Full,Sancaktepe,Buyukbakkalkoy,40.98163881,29.22145731
+595,1,Akaryakit,12,Petrol Ofisi,Tuzla,Orhanli,40.8939344,29.35516815
+596,2,Akaryakit Lpg,12,Petrol Ofisi,Silivri,Sancaktepe,41.07112997,28.11282106
+597,1,Akaryakit,12,Petrol Ofisi,Silivri,Mimar Sinan,41.07994225,28.20693349
+598,1,Akaryakit,13,Shell-Turcas Petrol,Esenyurt,Sultaniye,41.03210179,28.68206942
+599,1,Akaryakit,13,Shell-Turcas Petrol,Kucukcekmece,Atakent,41.04444737,28.78202783
+600,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Esenler,Tuna,41.05223539,28.85814548
+601,2,Akaryakit Lpg,24,Bpet,Pendik,Fevzi Cakmak,40.880055,29.25938796
+602,2,Akaryakit Lpg,10,Opet,Tuzla,Orhanli,40.9077861,29.34327854
+603,2,Akaryakit Lpg,15,Total,Sultanbeyli,Abdurrahmangazi,40.96939307,29.25715278
+604,2,Akaryakit Lpg,5,BP,Pendik,Yesilbaglar,40.89684752,29.22487999
+605,1,Akaryakit,12,Petrol Ofisi,Catalca,Ovayenice,41.10456986,28.42483278
+606,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Arnavutkoy,Omerli,41.11736787,28.62845275
+607,2,Akaryakit Lpg,5,BP,Catalca,Ferhatpasa,41.13514557,28.4656453
+608,1,Akaryakit,5,BP,Kagithane,Caglayan,41.07165321,28.97989356
+609,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Pendik,Yenisehir,40.93937772,29.31722879
+610,1,Akaryakit,13,Shell-Turcas Petrol,Tuzla,Aydinli,40.87124126,29.33149329
+611,2,Akaryakit Lpg,5,BP,Esenyurt,Yesilkent,41.03065998,28.66262247
+612,2,Akaryakit Lpg,23,Moil,Tuzla,Tepeoren,40.90348792,29.3945814
+613,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Sancaktepe,Emek,41.00713878,29.19026753
+614,2,Akaryakit Lpg,3,Aytemiz,Arnavutkoy,Arnavutkoy Merkez,41.18141575,28.74475651
+615,2,Akaryakit Lpg,12,Petrol Ofisi,Umraniye,Atakent,41.0132846,29.1071528
+616,2,Akaryakit Lpg,12,Petrol Ofisi,Sile,Agva Merkez,41.12918897,29.85330148
+617,1,Akaryakit,5,BP,Zeytinburnu,Kazlicesme,40.99128692,28.91961874
+618,1,Akaryakit,5,BP,Umraniye,Necip Fazil,41.01818585,29.17163602
+619,2,Akaryakit Lpg,12,Petrol Ofisi,Silivri,Ortakoy,41.08346835,28.36836091
+620,1,Akaryakit,7,Enerji Petrol,Catalca,Canakca,41.25125326,28.4923899
+621,2,Akaryakit Lpg,15,Total,Zeytinburnu,Seyitnizam,41.00979678,28.907605
+622,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Pendik,Yeni,40.88107458,29.232362
+623,2,Akaryakit Lpg,12,Petrol Ofisi,Uskudar,Barbaros,41.00695521,29.02525145
+624,2,Akaryakit Lpg,10,Opet,Pendik,Orta,40.88658933,29.24185877
+625,2,Akaryakit Lpg,12,Petrol Ofisi,Gaziosmanpasa,Yildiztabya,41.06579205,28.93356718
+626,1,Akaryakit,19,Sunpet,Sile,Degirmencayiri,40.98275215,29.66576089
+627,1,Akaryakit,12,Petrol Ofisi,Arnavutkoy,Tayakadin,41.26494688,28.68640353
+628,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Sisli,Tesvikiye,41.05601313,28.99761204
+629,2,Akaryakit Lpg,15,Total,Bagcilar,Demirkapi,41.04689728,28.83445194
+630,1,Akaryakit,12,Petrol Ofisi,Sisli,Fulya,41.06122011,29.00124934
+631,1,Akaryakit,12,Petrol Ofisi,Uskudar,Bulgurlu,41.0185385,29.08457534
+632,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Sariyer,Sariyer Merkez,41.17320357,29.05401308
+633,1,Akaryakit,10,Opet,Sancaktepe,Fatih,40.95684723,29.21389622
+634,1,Akaryakit,12,Petrol Ofisi,Buyukcekmece,Mimar Sinan,41.02027443,28.55935159
+635,2,Akaryakit Lpg,20,Full,Pendik,Yenisehir,40.92653517,29.31562524
+636,1,Akaryakit,10,Opet,Uskudar,Cengelkoy,41.04893433,29.05456576
+637,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Bayrampasa,Terazidere,41.02805148,28.89936721
+638,2,Akaryakit Lpg,10,Opet,Arnavutkoy,Yassioren,41.18348043,28.59808428
+639,1,Akaryakit,15,Total,Kadikoy,Sahrayicedit,40.98346922,29.09190576
+640,2,Akaryakit Lpg,12,Petrol Ofisi,Zeytinburnu,Tozkoparan,41.02846585,28.91659513
+641,2,Akaryakit Lpg,3,Aytemiz,Kadikoy,Acibadem,41.00477289,29.035356
+642,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Tuzla,Sifa,40.82407346,29.35201815
+643,1,Akaryakit,19,Sunpet,Silivri,Seymen,41.15407884,28.16835354
+644,2,Akaryakit Lpg,12,Petrol Ofisi,Atasehir,Kayisdagi,40.98849474,29.14550502
+645,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Bagcilar,Kazim Karabekir,41.02869735,28.84646128
+646,2,Akaryakit Lpg,5,BP,Gaziosmanpasa,Yeni Mahalle,41.07809364,28.89904062
+647,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Tuzla,Evliya Celebi,40.83917265,29.2954312
+648,2,Akaryakit Lpg,5,BP,Esenler,Havaalani,41.05624872,28.87563167
+649,2,Akaryakit Lpg,12,Petrol Ofisi,Bagcilar,Merkez,41.02749641,28.85739339
+650,1,Akaryakit,3,Aytemiz,Cekmekoy,Camlik,41.01450336,29.19039046
+651,1,Akaryakit,5,BP,Gungoren,Mehmet Nesih Ozmen,41.00799973,28.8817147
+652,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Kucukcekmece,Inonu,41.02458108,28.80633273
+653,2,Akaryakit Lpg,12,Petrol Ofisi,Uskudar,Cumhuriyet,41.01139309,29.07532564
+654,1,Akaryakit,7,Enerji Petrol,Silivri,Ortakoy,41.09601621,28.37413552
+655,2,Akaryakit Lpg,15,Total,Basaksehir,Bahcesehir 1. Kisim,41.0598117,28.69920805
+656,2,Akaryakit Lpg,10,Opet,Arnavutkoy,Bogazkoy Istiklal,41.15123592,28.78779368
+657,1,Akaryakit,12,Petrol Ofisi,Buyukcekmece,Kumburgaz,41.02773619,28.46297747
+658,2,Akaryakit Lpg,32,cekoil,Cekmekoy,Nisantepe,41.04312366,29.27602181
+659,1,Akaryakit,12,Petrol Ofisi,Eyupsultan,Defterdar,41.03746456,28.92574623
+660,2,Akaryakit Lpg,10,Opet,Kartal,Orta,40.91055037,29.21150787
+661,2,Akaryakit Lpg,12,Petrol Ofisi,Bagcilar,Mahmutbey,41.05882767,28.83104024
+662,2,Akaryakit Lpg,3,Aytemiz,Sariyer,Poligon,41.11233072,29.04087981
+663,2,Akaryakit Lpg,3,Aytemiz,Sisli,Halil Rifat Pasa,41.05850689,28.9656509
+664,2,Akaryakit Lpg,3,Aytemiz,Esenyurt,Sultaniye,41.02169457,28.68757661
+665,2,Akaryakit Lpg,5,BP,Atasehir,Kayisdagi,40.97938354,29.12716424
+666,1,Akaryakit,10,Opet,Silivri,Selimpasa,41.06387731,28.32291996
+667,1,Akaryakit,13,Shell-Turcas Petrol,Fatih,Zeyrek,41.01670771,28.95509422
+668,2,Akaryakit Lpg,10,Opet,Cekmekoy,Sirapinar,41.10996478,29.3107026
+669,2,Akaryakit Lpg,12,Petrol Ofisi,Esenyurt,Zafer,41.01160712,28.67935911
+670,1,Akaryakit,12,Petrol Ofisi,Sariyer,Maslak,41.1157716,29.02328368
+671,2,Akaryakit Lpg,22,KadOil,Buyukcekmece,Cumhuriyet,41.02319873,28.6186876
+672,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Kucukcekmece,Fatih,40.98684199,28.76996141
+673,1,Akaryakit,7,Enerji Petrol,Sultanbeyli,Turgut Reis,40.96441708,29.28132338
+674,2,Akaryakit Lpg,10,Opet,Sisli,Bozkurt,41.04841645,28.98502515
+675,2,Akaryakit Lpg,12,Petrol Ofisi,Sancaktepe,Veysel Karani,40.9749286,29.24066147
+676,2,Akaryakit Lpg,5,BP,Bakirkoy,Kartaltepe,40.98784904,28.88374387
+677,1,Akaryakit,12,Petrol Ofisi,Tuzla,Orta,40.89881483,29.36930541
+678,2,Akaryakit Lpg,13,Shell-Turcas Petrol,Maltepe,Girne,40.93891894,29.13621962
+679,1,Akaryakit,12,Petrol Ofisi,Silivri,Fevzipasa,41.09495896,27.99693737
+680,2,Akaryakit Lpg,15,Total,Arnavutkoy,Omerli,41.11753578,28.6294065
+681,2,Akaryakit Lpg,12,Petrol Ofisi,Esenler,Orucreis,41.07131312,28.86789576

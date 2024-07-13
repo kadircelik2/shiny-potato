@@ -1,0 +1,709 @@
+ID,ParkName,LocationName,ParkType,CAPACITY,Open,Close,CountyName,LONGITUDE,LATITUDE
+1,Vali Konagi Caddesi 1,Sisli Vali Konagi Caddes,Yol Ustu,30,8:00:00 AM,7:00:00 PM,Sisli,28.98797494,41.04882336
+2,Sakayik Sokak 1,Sisli Sakayik Soka,Yol Ustu,50,8:00:00 AM,7:00:00 PM,Sisli,28.99556561,41.0495233
+3,Husrev Gerede Sokak 1,Sisli Husrev Gerede Caddes,Yol Ustu,50,8:00:00 AM,7:00:00 PM,Sisli,28.99497558,41.04838954
+4,Sezai Selek Sokak 1,Seza-I Selek Caddes,Yol Ustu,50,8:00:00 AM,7:00:00 PM,Sisli,28.99597417,41.0533862
+5,Macka Caddesi 1,Sisli Macka Caddes,Yol Ustu,40,8:00:00 AM,12:00:00 AM,Sisli,28.99295483,41.04662969
+6,Macka Caddesi 6,Sisli Macka Caddes,Yol Ustu,50,8:00:00 AM,12:00:00 AM,Sisli,28.9944976,41.04782937
+7,Taskisla Caddesi 3,Sisli Taskisla Caddes,Yol Ustu,0,9:00:00 AM,9:00:00 PM,Sisli,28.99130231,41.04793756
+8,Vefa Bey Sokak 1,Vefabey Soka,Yol Ustu,37,8:00:00 AM,6:00:00 PM,Besiktas,29.0066024,41.06550572
+9,Muselles Sokak 2,Muselles Soka,Yol Ustu,40,7:00:00 AM,5:00:00 PM,Sisli,29.01158813,41.06882973
+10,Alemdag Caddesi 5,Alemdag Caddes,Yol Ustu,20,8:00:00 AM,7:00:00 PM,Umraniye,29.094108,41.02553124
+11,Ihlamur Dere Caddesi 1,Ihlamur Dere Caddes,Yol Ustu,27,9:00:00 AM,7:00:00 PM,Besiktas,29.00345252,41.04380164
+12,Ihlamur Dere Caddesi 6,Ihlamur Dere Caddes,Yol Ustu,27,9:00:00 AM,7:00:00 PM,Besiktas,29.00240296,41.0463833
+13,Dereboyu Caddesi 2,Ortakoy Dereboyu Caddes,Yol Ustu,22,9:00:00 AM,6:00:00 PM,Besiktas,29.02380757,41.05257919
+14,Alemdag Caddesi 21 (Test),Alemdag Caddes,Yol Ustu,500,8:00:00 AM,7:00:00 PM,Umraniye,29.09920116,41.02530986
+15,Karakol Caddesi 1,Karakol Caddes,Yol Ustu,18,8:00:00 AM,7:00:00 PM,Besiktas,29.01640716,41.07540298
+16,Gonca Esnaf Onu 1,Levent Esnaf On,Yol Ustu,23,8:00:00 AM,7:00:00 PM,Besiktas,29.01669586,41.07599431
+17,Bosna Bulvari 4,Umraniye Bosna Bulvar,Yol Ustu,40,8:00:00 AM,7:00:00 PM,Umraniye,29.08447433,41.02493862
+18,Hakimiyet-I Milliye Caddesi 2,Uskudar Hakimiyet-I Milliye Caddes,Yol Ustu,25,8:00:00 AM,7:00:00 PM,Uskudar,29.01603252,41.02254297
+19,Persembe Pazari 2,Karakoy Persembe Pazar,Yol Ustu,32,8:00:00 AM,6:00:00 PM,Beyoglu,28.97027889,41.02412105
+20,Poyraz Yol Ustu 6,Poyraz Yol Ust,Yol Ustu,36,8:00:00 AM,6:00:00 PM,Kadikoy,29.04050264,40.9920092
+21,Atasehir Bulvari 5,Atasehir Bulvar,Yol Ustu,25,8:00:00 AM,6:00:00 PM,Atasehir,29.12531912,40.99284405
+22,Kabatas Set Ustu 1,Kabatas Setust,Yol Ustu,60,8:00:00 AM,6:00:00 PM,Beyoglu,28.99394452,41.03618849
+23,Ataturk Bulvari,Ataturk Bulvari ,Yol Ustu,50,7:30:00 AM,6:30:00 PM,Fatih,28.95351984,41.01226237
+24,Rumeli Hisar Onu Acik Otoparki,Rumeli Hisar On,Acik Otopark,70,12:00:00 AM,11:59:00 PM,Sariyer,29.05671121,41.08545938
+25,İstinye 3 ( Hastane Karsisi ),İstinye Caddes,Yol Ustu,25,8:00:00 AM,6:00:00 PM,Sariyer,29.05616025,41.11496361
+26,Sariyer Deresi Sokak 1,Sariyer Deresi Soka,Yol Ustu,13,8:00:00 AM,6:00:00 PM,Sariyer,29.05703742,41.16885705
+27,Kazim Ozalp Sokak 4,Kazim Ozalp Soka,Yol Ustu,40,9:00:00 AM,8:00:00 PM,Kadikoy,29.07491151,40.96118662
+28,Kazim Ozalp Sokak 8,Kazim Ozalp Soka,Yol Ustu,40,9:00:00 AM,8:00:00 PM,Kadikoy,29.07739436,40.96354416
+29,Yali Kosku Caddesi 1,Yali Kosku Caddes,Yol Ustu,100,7:00:00 AM,10:00:00 PM,Fatih,28.97540372,41.01622884
+30,Kartal Hurriyet Caddesi 2,Kartal Hurriyet Caddes,Yol Ustu,30,8:00:00 AM,6:00:00 PM,Kartal,29.18625801,40.8890848
+31,Kartal Hurriyet Caddesi 4,Kartal Hurriyet Caddes,Yol Ustu,30,8:00:00 AM,6:00:00 PM,Kartal,29.18836517,40.8894515
+32,Kartal Savarona Caddesi 1,Kartal Savarona Caddes,Yol Ustu,50,8:00:00 AM,6:00:00 PM,Kartal,29.18308742,40.88720012
+33,Pendik Lokman Hekim Caddesi 1,Pendik Lokman Hekim Caddes,Yol Ustu,25,9:00:00 AM,7:00:00 PM,Pendik,29.23520653,40.87943211
+34,Gonca Sokak 2,Gonca Soka,Yol Ustu,16,8:00:00 AM,7:00:00 PM,Besiktas,29.01695717,41.07598764
+35,Oda Kule Onu 1,Odakule On,Yol Ustu,30,7:00:00 AM,12:00:00 AM,Beyoglu,28.97506075,41.03225121
+36,Nakilbent Sokak,Nakilbent Soka,Yol Ustu,80,8:00:00 AM,2:00:00 AM,Fatih,28.97429097,41.00396275
+37,Dostluk Yurdu 1,Dostluk Yurdu Soka,Yol Ustu,50,7:00:00 AM,6:00:00 PM,Fatih,28.97277521,41.00708874
+38,Guvenlik Caddesi 1,Guvenlik Caddes,Yol Ustu,35,8:00:00 AM,6:00:00 PM,Fatih,28.95669291,41.00702918
+39,Fuat Pasa Caddesi 2,Fuat Pasa Caddes,Yol Ustu,40,7:30:00 AM,6:00:00 PM,Fatih,28.96600818,41.01291569
+40,Fuat Pasa Caddesi 3,Fuat Pasa Caddes,Yol Ustu,30,7:30:00 AM,6:00:00 PM,Fatih,28.96599077,41.01336494
+41,Atasehir Bulvari 15,Atasehir Bulvar,Yol Ustu,20,8:00:00 AM,6:00:00 PM,Atasehir,29.12105441,40.99274687
+42,Fevzipasa Caddesi 9,Fevzipasa Caddes,Yol Ustu,30,8:00:00 AM,7:00:00 PM,Fatih,28.94885127,41.01818101
+43,Fevzipasa Caddesi 11,Fevzipasa Caddes,Yol Ustu,30,8:00:00 AM,7:00:00 PM,Fatih,28.94766364,41.01936174
+44,Fevzipasa Caddesi 19,Fevzipasa Caddes,Yol Ustu,30,8:00:00 AM,7:00:00 PM,Fatih,28.94438343,41.02274325
+45,Samatya Sahil,Samatya Sahi,Acik Otopark,80,12:00:00 PM,10:00:00 PM,Fatih,28.9327924,40.99894483
+46,Hasanpasa Muhtarlik Acik Otoparki,Hasanpasa Muhtarlik Acik Otopark,Acik Otopark,100,8:00:00 AM,10:00:00 PM,Kadikoy,29.0429124,40.99737874
+47,Akdeniz Caddesi 4,Akdeniz Caddes,Yol Ustu,25,8:00:00 AM,7:00:00 PM,Fatih,28.94701281,41.01946027
+48,Bakirkoy İstanbul Caddesi 9,Bakirkoy İstanbul Caddes,Yol Ustu,45,8:00:00 AM,7:00:00 PM,Bakirkoy,28.87968356,40.97870607
+49,Zeytinburnu 58. Bulvar 3,Zeytinburnu 58. Bulva,Yol Ustu,34,9:00:00 AM,7:00:00 PM,Zeytinburnu,28.90382735,40.99299765
+50,Bayrampasa Numunebagi Caddesi 2,Bayrampasa Numunebagi Caddes,Yol Ustu,50,8:00:00 AM,6:00:00 PM,Bayrampasa,28.91442798,41.03210103
+51,Bayrampasa Numunebagi Caddesi 3,Bayrampasa Numunebagi Caddes,Yol Ustu,50,8:00:00 AM,6:00:00 PM,Bayrampasa,28.91436396,41.0319549
+52,Ahmet Kutsi Tecer Caddesi 1,Ahmet Kutsi Tecer Caddes,Yol Ustu,50,8:00:00 AM,6:00:00 PM,Gungoren,28.88703467,41.00873046
+53,Ahmet Kutsi Tecer Caddesi 13,Ahmet Kutsi Tecer Caddes,Yol Ustu,50,8:00:00 AM,6:00:00 PM,Gungoren,28.88903751,41.00557221
+54,Yener Sokak 1,Yener Soka,Yol Ustu,25,8:00:00 AM,6:00:00 PM,Besiktas,29.00925004,41.0642035
+55,Sabanci Ogretmen Evi Onu 3,Sabanci Ogretmen Evi On,Yol Ustu,27,9:00:00 AM,8:00:00 PM,Beykoz,29.065546,41.08000996
+56,Yesilkoy İstasyon Caddesi 3,Yesilkoy İstasyon Caddes,Yol Ustu,50,8:00:00 AM,6:00:00 PM,Bakirkoy,28.82451249,40.96145583
+57,Yesilkoy İstasyon Caddesi 10,Yesilkoy İstasyon Caddes,Yol Ustu,50,8:00:00 AM,6:00:00 PM,Bakirkoy,28.82377861,40.96036554
+58,Yesilkoy İstasyon Caddesi 16,Yesilkoy İstasyon Caddes,Yol Ustu,50,8:00:00 AM,6:00:00 PM,Bakirkoy,28.82422379,40.96100075
+59,Florya Havuzlu Bahce,Florya Havuzlu Bahc,Acik Otopark,135,8:00:00 AM,7:00:00 PM,Bakirkoy,28.79080593,40.97642009
+60,Kartal Balikcilar Acik,Kartal Balikcila,Acik Otopark,100,8:00:00 AM,8:00:00 PM,Kartal,29.18842767,40.88724834
+61,Ataturk Caddesi 2,Silivri Ataturk Caddes,Yol Ustu,30,9:00:00 AM,11:00:00 PM,Silivri,28.24356375,41.07366992
+62,Ataturk Caddesi 6 (0-20 Dakika Ucretsiz),Silivri Ataturk Caddes,Yol Ustu,50,9:00:00 AM,11:00:00 PM,Silivri,28.2434786,41.07207422
+63,Maslak P+R Yol Ustu,Maslak P+,Acik Otopark,150,12:00:00 AM,11:59:00 PM,Sariyer,29.02409572,41.11664081
+64,Topkapi Minibus Peronlari,Topkapi Minibus Peronlar,Minibus Park,270,12:00:00 AM,11:59:00 PM,Zeytinburnu,28.91867522,41.01816315
+65,Karakoy Katli,Karakoy Katl,Kapali Otopark,600,12:00:00 AM,11:59:00 PM,Beyoglu,28.9772178,41.02289391
+66,Bakirkoy İdo İskele Onu,Bakirkoy İdo İskelesi On,Acik Otopark,300,12:00:00 AM,11:59:00 PM,Bakirkoy,28.87604019,40.97396593
+67,Sanatkarlar Caddesi 1,Silivri Sanatkarlar Caddes,Yol Ustu,70,9:00:00 AM,9:00:00 PM,Silivri,28.24413139,41.07580506
+68,Ortakoy Acik,Ortakoy Aci,Acik Otopark,200,12:00:00 AM,11:59:00 PM,Besiktas,29.03259985,41.0504157
+69,Savas Caddesi 3,Savas Caddes,Yol Ustu,40,8:00:00 AM,6:00:00 PM,Gungoren,28.8874201,41.01283046
+70,Capitol Avm Onu Taksi Duragi,Capitol Avm Onu Taksi Durag,Taksi Park,5,11:00:00 AM,7:00:00 PM,Uskudar,29.03918265,41.02131939
+71,Harbiye Zemin Alti Otoparki,Harbiye Zemin Alti Otopark,Kapali Otopark,142,12:00:00 AM,11:59:00 PM,Beyoglu,28.98788198,41.04053983
+72,Kadikoy İski Acik Otoparki,Kadikoy İski Acik Otopark,Acik Otopark,89,12:00:00 AM,11:59:00 PM,Kadikoy,29.02080417,40.9873655
+73,Bostanci Acik,Bostanci Aci,Acik Otopark,375,12:00:00 AM,11:59:00 PM,Kadikoy,29.09025517,40.9522909
+74,Bostanci Sahil-Cep Acik Otoparki,Bostanci Sahil Ce,Acik Otopark,195,12:00:00 AM,11:59:00 PM,Kadikoy,29.08848729,40.95452326
+75,Pendik Katli Otoparki,Pendik Katl,Kapali Otopark,120,12:00:00 AM,11:59:00 PM,Pendik,29.234182,40.87893488
+76,Umraniye Katli Otoparki,Umraniye Katli Otopark,Kapali Otopark,665,12:00:00 AM,11:59:00 PM,Umraniye,29.09533498,41.0260923
+77,Haldun Alagas Katli Otoparki,Haldun Alagas Katl,Kapali Otopark,240,12:00:00 AM,11:59:00 PM,Umraniye,29.10509523,41.02607037
+78,Mevlana Yeralti Katli Otoparki,Mevlana Yer Alti Otopark,Kapali Otopark,1000,12:00:00 AM,11:59:00 PM,Zeytinburnu,28.90463592,41.00565883
+79,Kartal Hasan Dogan Spor Kompleksi,Kartal Hasan Dogan Spor Kompleks,Kapali Otopark,400,12:00:00 AM,11:59:00 PM,Kartal,29.18991159,40.89253439
+80,Haseki Caddesi 1,Haseki Caddes,Yol Ustu,32,7:30:00 AM,6:00:00 PM,Fatih,28.94403974,41.00911782
+81,Siyavuspasa Yer Alti Otoparki,Siyavuspasa Yer Alti Otopark,Kapali Otopark,155,12:00:00 AM,11:59:00 PM,Bahcelievler,28.85315581,40.99651351
+82,Atasehir Bulvari Taksi Duragi,Atasehir Bulvari Taksi Durag,Taksi Park,30,8:00:00 AM,4:00:00 PM,Atasehir,29.12670675,40.99257198
+83,Gencler Caddesi 2,Gencler Caddes,Yol Ustu,35,8:00:00 AM,7:00:00 PM,Bakirkoy,28.87135056,40.98051447
+84,Haciosman Metro Yer Alti Otoparki,Haciosman Metro Yer Alti Otopark,Kapali Otopark,422,12:00:00 AM,11:59:00 PM,Sariyer,29.03052064,41.14016159
+85,Deniz Feneri Otoparki,Deniz Feneri Otopark,Acik Otopark,175,12:00:00 AM,11:59:00 PM,Fatih,28.97720776,41.00193367
+86,Mete Caddesi 2,Mete Caddes,Yol Ustu,25,7:30:00 AM,8:30:00 PM,Beyoglu,28.98839662,41.03895346
+87,Mete Caddesi 1,Mete Caddes,Yol Ustu,25,7:30:00 AM,8:30:00 PM,Beyoglu,28.98795718,41.03823256
+88,İdealtepe Acik Otoparki,İdealtepe Acik Otopark,Acik Otopark,181,8:00:00 AM,1:00:00 AM,Maltepe,29.11371933,40.93766916
+89,Kadikoy Besiktas İskele Onu Taksi Duragi,Kadikoy Besiktas İskele Onu Taksi Durag,Taksi Park,50,7:00:00 AM,10:00:00 PM,Kadikoy,29.02199347,40.99105095
+90,Veteriner Hilmi Sokak Yol Ustu 1,Veteriner Hilmi Sokak Yol Ust,Yol Ustu,20,8:00:00 AM,6:00:00 PM,Sisli,28.98917878,41.06028838
+91,Deniz Feneri Otoparki,Deniz Feneri Otopark,Acik Otopark,175,12:00:00 AM,11:59:00 PM,Fatih,28.97681674,41.00127884
+92,Kucukyali P+R,Kucukyali P+,Acik Otopark,150,7:00:00 AM,6:00:00 PM,Maltepe,29.1224593,40.9498979
+93,Harbiye Nizamiye Caddesi Yol Ustu Otoparki 2,Harbiye Nizamiye Caddesi Yol Ustu Otopark,Yol Ustu,40,8:00:00 AM,6:00:00 PM,Sisli,29.01111869,41.05732202
+94,Fisekhane Caddesi 4,Fisekhane Caddes,Yol Ustu,40,8:00:00 AM,7:00:00 PM,Bakirkoy,28.87212905,40.97823308
+95,İstanbul Anadolu Adalet Sarayi Taksi Duragi,İstanbul Anadolu Adalet Sarayi Taksi Durag,Taksi Park,5,8:00:00 AM,4:00:00 PM,Kartal,29.18360595,40.88694019
+96,İtalyan Hastanesi Karsisi Acik Otoparki 1,İtalyan Hastanesi Karsisi Acik Otopark,Acik Otopark,25,9:00:00 AM,9:00:00 PM,Beyoglu,28.98157418,41.02805906
+97,Camlibahce,Bebek Sahil Yol,Yol Ustu,29,8:00:00 AM,11:00:00 PM,Besiktas,29.04565841,41.07028994
+98,Rihtim Caddesi Taksi Duragi,Rihtim Caddesi Taksi Durag,Taksi Park,5,7:00:00 AM,10:00:00 PM,Kadikoy,29.02448846,40.99171117
+99,Kartal Minibus Duraklari Peronlari 1,Kartal Minibus Duraklari Peronlar,Minibus Park,700,7:00:00 AM,9:00:00 PM,Kartal,29.19471712,40.8860833
+100,Macka Katli Otoparki,Macka Katli Otopark,Kapali Otopark,508,12:00:00 AM,11:59:00 PM,Sisli,28.99019462,41.04814558
+101,Zincirlikuyu Metrobus Taksi Duragi,Zincirlikuyu Metrobus Taksi Durag,Taksi Park,10,7:00:00 AM,11:00:00 PM,Sisli,29.01362097,41.06693779
+102,Acibadem Acik Otoparki,Acibadem Acik Otopark,Acik Otopark,100,6:00:00 AM,7:00:00 PM,Uskudar,29.05749142,41.01566845
+103,Belgrad Ormani Bahcekoy Girisi Acik,Belgrad Ormani Otopark,Acik Otopark,5000,6:00:00 AM,8:00:00 PM,Sariyer,28.98885369,41.18356349
+104,Kazli Cesme Metro Duragi Onu Taksi Duragi,Kazlicesme Metro Duragi Onu Taksi Durag,Taksi Park,20,7:00:00 AM,11:00:00 PM,Zeytinburnu,28.91697711,40.99284808
+105,Gulsuyu Metro Yer Alti Otoparki,Gulsuyu Metro Yer Alti Otopark,Kapali Otopark,100,7:00:00 AM,12:00:00 AM,Maltepe,29.15502727,40.92377014
+106,Aslanhane Sokak 1,Aslanhane Soka,Yol Ustu,26,8:00:00 AM,7:00:00 PM,Fatih,28.95048682,41.0176966
+107,Alibeykoy Cep Otogari Otobus Otoparki,Alibeykoy Cep Otogari Otobus Otopark,Acik Otopark,5000,12:00:00 AM,11:59:00 PM,Eyup,28.94515514,41.08763212
+108,Atasehir Ihlamur Sokak 1,Atasehir Ihlamur Soka,Yol Ustu,50,8:00:00 AM,6:00:00 PM,Atasehir,29.10537958,40.99033563
+109,Darulbedai Caddesi 4,Darulbedai Caddes,Yol Ustu,40,8:00:00 AM,12:00:00 AM,Sisli,28.99060853,41.04871051
+110,Kucuksu Kasri Acik Otoparki,Kucuksu Kasri Acik Otopark,Acik Otopark,200,7:00:00 AM,11:00:00 PM,Beykoz,29.06574994,41.07875066
+111,Kazlicesme Marmaray Acik Otoparki,Kazlicesme Marmaray Acik Otopark,Acik Otopark,700,12:00:00 AM,11:59:00 PM,Zeytinburnu,28.91654948,40.99223042
+112,Umraniye Dr. Fazil Kucuk Caddesi 4,Umraniye Dr. Fazil Kucuk Caddes,Yol Ustu,24,8:00:00 AM,5:00:00 PM,Umraniye,29.11241424,41.02715151
+113,Pendik Marina 2,Pendik Marin,Yol Ustu,42,7:30:00 AM,7:00:00 PM,Pendik,29.23358113,40.8733933
+114,Pendik Sahil Engelliler Merkez Onu,Pendik Sahil Engelliler Merkez On,Acik Otopark,100,10:00:00 AM,10:00:00 PM,Pendik,29.23294544,40.87340749
+115,Biruni Universitesi Acik Otoparki,Biruni Universitesi Acik Otopark,Acik Otopark,150,8:00:00 AM,7:00:00 PM,Zeytinburnu,28.92015696,41.00425724
+116,Dalyan Acik Otoparki,Dalyan Acik Otopark,Acik Otopark,120,12:00:00 AM,11:59:00 PM,Kadikoy,29.06440616,40.96351657
+117,Yenikapi Marmaray Buyuk Otoparki,Yenikapi Marmaray Buyuk Otopark,Acik Otopark,300,7:00:00 AM,11:00:00 PM,Fatih,28.95048201,41.00568628
+118,Beyoglu Tepebasi Katli Otoparki,Beyoglu Tepebasi Katli Otopark,Kapali Otopark,1005,12:00:00 AM,11:59:00 PM,Beyoglu,28.9743644,41.03190953
+119,Suleyman Seba Caddesi 6,Suleyman Seba Caddes,Yol Ustu,30,8:00:00 AM,7:00:00 PM,Besiktas,28.99669364,41.04351272
+120,Cekmekoy Mimar Sinan Caddesi 1,Cekmekoy Mimar Sinan Caddes,Yol Ustu,20,8:00:00 AM,7:00:00 PM,Cekmekoy,29.17590827,41.03269457
+121,Yesilkoy Mesleki Egitim Okulu Kapali Otoparki,Yesilkoy Mesleki Egitim Okulu Kapali Otopark,Kapali Otopark,100,12:00:00 AM,11:59:00 PM,Bakirkoy,28.82306099,40.96095843
+122,Bostanci Vergi Dairesi Acik Otoparki,Bostanci Vergi Dairesi Acik Otopark,Acik Otopark,105,8:00:00 AM,8:00:00 PM,Atasehir,29.10799993,40.96253082
+123,Yildiz Kavsagi Yol Ustu Otoparki,Yildiz Kavsagi Yol Ustu Otopark,Yol Ustu,20,8:00:00 AM,6:00:00 PM,Besiktas,29.00722943,41.05033071
+124,Bostanci İdo Karsisi Acik Otopark 1,Bostanci İdo Karsisi Acik Otopar,Acik Otopark,84,12:00:00 AM,11:59:00 PM,Kadikoy,29.0952541,40.95239112
+125,Ragip Gumuspala Acik Otoparki,Ragip Gumuspala Acik Otopark,Acik Otopark,300,12:00:00 AM,11:59:00 PM,Fatih,28.96253535,41.02127282
+126,Alibeykoy Cep Otogari P+R,Alibeykoy Cep Otogari P+,Acik Otopark,88,12:00:00 AM,11:59:00 PM,Eyup,28.94238785,41.08823151
+127,Beykoz Pazar Yeri Acik Otoparki,Beykoz Pazar Yeri Acik Otopark,Acik Otopark,500,7:00:00 AM,12:00:00 AM,Beykoz,29.08590219,41.14001112
+128,Cirpici Sosyal Tesisler,Cirpici Sosyal Tesisle,Acik Otopark,128,12:00:00 AM,11:59:00 PM,Zeytinburnu,28.89259861,40.99996296
+129,Kasimpasa Sosyal Tesisler Otoparki,Kasimpasa Sosyal Tesisler Otopark,Acik Otopark,80,8:00:00 AM,9:00:00 PM,Beyoglu,28.96692971,41.02985384
+130,Gozdagi Sosyal Tesisler  Acik Otoparki,Gozdagi Sosyal Tesisler Acik Otopark,Acik Otopark,300,7:00:00 AM,10:00:00 PM,Pendik,29.2531532,40.89075826
+131,Fatih Aksemsettin Caddesi 1,Fatih Aksemsettin Caddes,Yol Ustu,30,8:30:00 AM,7:00:00 PM,Fatih,28.94443915,41.02202407
+132,Fatih Aksemsettin Caddesi 6,Fatih Aksemsettin Caddes,Yol Ustu,30,8:30:00 AM,7:00:00 PM,Fatih,28.94162536,41.02040399
+133,Ressam Halim Sokak Acik Otoparki,Ressam Halim Sokak Acik Otopark,Acik Otopark,120,12:00:00 AM,11:59:00 PM,Bahcelievler,28.86396334,40.99682977
+134,Bagcilar Emniyet Mudurlugu Yani Acik Otoparki,Bagcilar Emniyet Mudurlugu Yani Acik Otopark,Acik Otopark,100,8:00:00 AM,6:00:00 PM,Bagcilar,28.8597932,41.03527358
+135,Sultanbeyli Kent Meydani Zemin Alti Otoparki,Sultanbeyli Kent Meydani Zemin Alti Otopark,Kapali Otopark,300,12:00:00 AM,11:59:00 PM,Sultanbeyli,29.26664203,40.96684221
+136,Merter Metro Zeminalti Otoparki,Merter Metro Zemin Alti Otopark,Kapali Otopark,242,12:00:00 AM,11:59:00 PM,Gungoren,28.88983065,41.00372688
+137,Sisli Zemin Alti Otoparki,Sisli Zemin Alti Otopark,Kapali Otopark,581,12:00:00 AM,11:59:00 PM,Sisli,28.99919534,41.06410051
+138,Uzuncayir Acik Otoparki,Uzuncayir Acik Otopark,Acik Otopark,85,6:00:00 AM,7:00:00 PM,Kadikoy,29.05735441,40.99899017
+139,Pendik Sahil Acik Otoparki,Pendik Sahil Acik Otopark,Acik Otopark,400,12:00:00 AM,11:59:00 PM,Pendik,29.23156898,40.87203278
+140,Acibadem Acik Otoparki,Acibadem Acik Otopark,Acik Otopark,100,6:00:00 AM,6:00:00 PM,Uskudar,29.05755444,41.01578678
+141,Bebek Acik,Bebek Aci,Acik Otopark,35,12:00:00 AM,11:59:00 PM,Besiktas,29.04344566,41.07696616
+142,Atasehir Bulvari 21,Atasehir Bulvar,Yol Ustu,15,8:00:00 AM,6:00:00 PM,Atasehir,29.12712333,40.99170959
+143,Levent Carsi 3,Levent Cars,Yol Ustu,23,8:00:00 AM,7:00:00 PM,Besiktas,29.01555259,41.0759294
+144,Gencler Caddesi 6,Gencler Caddes,Yol Ustu,35,8:00:00 AM,7:00:00 PM,Bakirkoy,28.87205022,40.98062314
+145,İspark Merter Katli Otoparki,İspark Merter Katli Otopark,Kapali Otopark,900,12:00:00 AM,11:59:00 PM,Gungoren,28.8897136,41.00379996
+146,Ragip Gumuspala Acik Otoparki,Ragip Gumuspala Acik Otopark,Acik Otopark,300,7:00:00 AM,7:00:00 PM,Fatih,28.96253718,41.02124668
+147,Yenikapi Tunel Ustu Acik Otoparki,Yenikapi Tunel Ustu Acik Otopark,Acik Otopark,700,12:00:00 AM,11:59:00 PM,Fatih,28.95406048,41.00244619
+148,Pendik Yenisehir Mustafa Akyol Sokak 1,Pendik Yenisehir Mustafa Akyol Soka,Yol Ustu,115,8:00:00 AM,7:00:00 PM,Pendik,29.30838347,40.92652079
+149,Hamidiye Mahallesi Katli Otoparki,Hamidiye Mahallesi Katli Otopark,Kapali Otopark,450,12:00:00 AM,11:59:00 PM,Kagithane,28.9709969,41.09490642
+150,Kadikoy Metro 2 Acik Otoparki,Kadikoy Metro 2 Acik Otopark,Acik Otopark,100,12:00:00 AM,11:59:00 PM,Kadikoy,29.02072368,40.98882223
+151,Semsipasa Acik Otoparki,Semsipasa Acik Otopark,Acik Otopark,80,12:00:00 AM,11:59:00 PM,Uskudar,29.00977542,41.02554793
+152,Bagcilar Goztepe Zemin Alti,Bagcilar Goztepe Zemin Alt,Kapali Otopark,120,12:00:00 AM,11:59:00 PM,Bagcilar,28.83543057,41.05643318
+153,Sabanci Ogretmenevi Acik Otoparki,Sabanci Ogretmenevi Acik Otopark,Acik Otopark,350,12:00:00 AM,11:59:00 PM,Beykoz,29.06888695,41.07939958
+154,Kucuksu Kasri Acik Otoparki,Kucuksu Kasri Acik Otopark,Acik Otopark,200,7:00:00 AM,11:00:00 PM,Beykoz,29.06556114,41.07855928
+155,Azapkapi Halic Metro Otoparki,Azapkapi Halic Metro Otopark,Acik Otopark,130,12:00:00 AM,11:59:00 PM,Sisli,28.96874433,41.02418858
+156,Atasehir Umut Sokak Acik Otoparki,Atasehir Umut Sokak Acik Otopark,Acik Otopark,60,8:00:00 AM,6:00:00 PM,Atasehir,29.10136881,40.97204508
+157,Umraniye Toya Sokak 1,Umraniye Toya Soka,Yol Ustu,34,7:45:00 AM,5:00:00 PM,Umraniye,29.11377509,41.02630866
+158,Yesilce Zemin Alti Katli Otoparki,Yesilce Zemin Alti Katli Otopark,Kapali Otopark,769,12:00:00 AM,11:59:00 PM,Kagithane,29.00275665,41.09372378
+159,Kartal Savarona Sahil Cep,Kartal Savarona Sahil Ce,Acik Otopark,60,7:00:00 AM,6:00:00 PM,Kartal,29.18211394,40.88593854
+160,Suadiye Sahil Acik Otoparki,Suadiye Sahil Acik  Otopark,Acik Otopark,104,12:00:00 AM,11:59:00 PM,Kadikoy,29.07986217,40.95595178
+161,Bahcelievler Devlet Hastanesi Yani Katli Otoparki 2,Bahcelievler Devlet Hastanesi Yani Katli Otopark,Kapali Otopark,740,12:00:00 AM,11:59:00 PM,Bahcelievler,28.84404199,41.00721853
+162,Kadikoy Sahil Acik Otopark 2,Kadikoy Sahil Acik Otopark,Acik Otopark,50,12:00:00 AM,11:59:00 PM,Kadikoy,29.02177582,40.99113789
+163,Bostanci Metro Yol Ustu Otoparki,Bostanci Metro Yol Ustu  Otopark,Yol Ustu,20,10:00:00 AM,10:00:00 PM,Kadikoy,29.0966747,40.95219894
+164,Bahcelievler Soganli Zemin Alti Otoparki,Bahcelievler Soganli Zemin Alti Otopark,Kapali Otopark,663,12:00:00 AM,11:59:00 PM,Bahcelievler,28.85817312,41.01528729
+165,Kirazli Metro Duragi P+R,Kirazli Metro Duragi P+,Acik Otopark,650,12:00:00 AM,11:59:00 PM,Bagcilar,28.84222595,41.03112886
+166,Beyoglu İnonu Caddesi 6,İnonu Caddes,Yol Ustu,40,8:00:00 AM,8:00:00 PM,Beyoglu,28.9873334,41.03583334
+167,Ahmet Fetgari Sk.,Ahmet Fetgeri-Camii Soka,Yol Ustu,21,8:00:00 AM,7:00:00 PM,Sisli,28.99420281,41.05002003
+168,Mim Kemal Oke Caddesi 1,Mim Kemal Ok,Yol Ustu,40,8:00:00 AM,7:00:00 PM,Sisli,28.99037101,41.05010536
+169,Mim Kemal Oke Caddesi 2,Mim Kemal Ok,Yol Ustu,40,8:00:00 AM,7:00:00 PM,Sisli,28.99119027,41.04936142
+170,Macka Caddesi 2,Sisli Macka Caddes,Yol Ustu,40,8:00:00 AM,12:00:00 AM,Sisli,28.99304134,41.0459901
+171,Macka Caddesi 3,Sisli Macka Caddes,Yol Ustu,30,8:00:00 AM,12:00:00 AM,Sisli,28.99358056,41.0453009
+172,Taskisla Caddesi 1,Sisli Taskisla Caddes,Yol Ustu,17,8:00:00 AM,8:00:00 PM,Sisli,28.99132774,41.04794595
+173,Kurtulus Caddesi 4,Kurtulus Caddes,Yol Ustu,45,8:00:00 AM,6:00:00 PM,Sisli,28.98213515,41.04996744
+174,Kurtulus Caddesi 5,Kurtulus Caddes,Yol Ustu,40,8:00:00 AM,6:00:00 PM,Sisli,28.98126076,41.04893035
+175,Sisli Silahsor Caddesi 1,Sisli Silahsor Caddes,Yol Ustu,40,8:00:00 AM,6:00:00 PM,Sisli,28.98355772,41.0571564
+176,Yildizposta Caddesi 6,Yildizposta Caddes,Yol Ustu,52,8:00:00 AM,6:00:00 PM,Besiktas,29.00856477,41.06552397
+177,Yildizposta Caddesi 9,Yildizposta Caddes,Yol Ustu,30,8:00:00 AM,6:00:00 PM,Besiktas,29.00594127,41.06636689
+178,Vefa Bayiri Sokak 1,Vefa Bayiri Soka,Yol Ustu,40,8:00:00 AM,6:00:00 PM,Besiktas,29.00893203,41.06480884
+179,Alemdag Caddesi 1,Alemdag Caddes,Yol Ustu,20,8:00:00 AM,7:00:00 PM,Umraniye,29.09991327,41.02507107
+180,Nispetiye Caddesi 1,Nispetiye Caddes,Yol Ustu,23,8:00:00 AM,7:00:00 PM,Besiktas,29.01821927,41.07531159
+181,Levent Carsi 2,Levent Cars,Yol Ustu,23,8:00:00 AM,7:00:00 PM,Besiktas,29.01530528,41.07584204
+182,Levent Dunya Goz Onu 1,Dunya Goz Hastanesi On,Yol Ustu,19,8:00:00 AM,7:00:00 PM,Besiktas,29.01808339,41.0733309
+183,Bosna Bulvari 3,Umraniye Bosna Bulvar,Yol Ustu,35,8:00:00 AM,7:00:00 PM,Umraniye,29.08346593,41.02561472
+184,Afiyet Hastanesi Onu 1,Umraniye Afiyet Hastanesi On,Yol Ustu,20,8:00:00 AM,6:00:00 PM,Umraniye,29.08409207,41.02411932
+185,Akcam Sokak (İs Bankasi Onu) 1,Akcam Sokak (İs Bankasi Onu,Yol Ustu,30,8:00:00 AM,7:00:00 PM,Besiktas,29.00808731,41.08664069
+186,Hakimiyet-I Milliye Caddesi 4,Uskudar Hakimiyet-I Milliye Caddes,Yol Ustu,21,8:00:00 AM,7:00:00 PM,Uskudar,29.01557654,41.02418206
+187,Persembe Pazari 1,Karakoy Persembe Pazar,Yol Ustu,32,8:00:00 AM,6:00:00 PM,Beyoglu,28.97088273,41.02349666
+188,Divan Onu 1,Bebek Arnavutkoy Caddes,Yol Ustu,30,8:00:00 AM,12:00:00 AM,Besiktas,29.04571752,41.07028137
+189,Yesil Vadi Sokak 4,Yesil Vadi Soka,Yol Ustu,40,8:00:00 AM,6:00:00 PM,Atasehir,29.10582438,40.96707165
+190,Prof.Cemil Birsel Yokusu 1,Prof.Dr.Cemil Birsel Caddes,Yol Ustu,50,7:00:00 AM,6:00:00 PM,Fatih,28.96713154,41.0179394
+191,Ragip Gumuspala Camii Onu 2,Ragip Gumuspala Caddesi (Camii Onu,Yol Ustu,36,8:00:00 AM,6:00:00 PM,Fatih,28.96319648,41.020591
+192,Kabasakal Medrese Onu,Kabasakal Medrese On,Acik Otopark,65,8:00:00 AM,2:00:00 AM,Fatih,28.9789054,41.00617321
+193,Caglayan 2,Caglayan Vatan Caddes,Yol Ustu,60,8:00:00 AM,6:00:00 PM,Kagithane,28.98181589,41.07698358
+194,Dalbasti Sokak 1,Sultanahmet Turist Otopark,Yol Ustu,250,8:00:00 AM,9:00:00 PM,Fatih,28.97865232,41.00617519
+195,Kartal Uskudar Caddesi 1,Kartal Uskudar Caddes,Yol Ustu,50,8:00:00 AM,6:00:00 PM,Kartal,29.18358617,40.88900102
+196,Cihannuma Yol Ustu 2,Cihannuma Yol Ustu Otopark,Yol Ustu,75,8:00:00 AM,11:00:00 PM,Besiktas,29.00938622,41.04889108
+197,Cihannuma Yol Ustu 3,Cihannuma Yol Ustu Otopark,Yol Ustu,75,8:00:00 AM,11:00:00 PM,Besiktas,29.00918715,41.04818722
+198,Cihannuma Yol Ustu 6,Cihannuma Yol Ustu Otopark,Yol Ustu,50,8:00:00 AM,11:00:00 PM,Besiktas,29.00887121,41.04524619
+199,Beykoz Yalikoy 1,Beykoz-Yaliko,Yol Ustu,26,9:00:00 AM,6:00:00 PM,Beykoz,29.08860922,41.13556487
+200,Kanlica Baris Manco Caddesi 1,Kanlica Baris Manco Caddes,Yol Ustu,18,9:00:00 AM,7:00:00 PM,Beykoz,29.06620897,41.10012189
+201,Oda Kule Onu 2,Odakule On,Yol Ustu,30,7:00:00 AM,12:00:00 AM,Beyoglu,28.97496822,41.03224616
+202,Su Terazisi Sokak,Su Terazisi Soka,Yol Ustu,22,8:00:00 AM,6:00:00 PM,Fatih,28.9726776,41.00458072
+203,Aksaray Caddesi 1,Aksaray Caddes,Yol Ustu,45,8:00:00 AM,6:00:00 PM,Fatih,28.95438796,41.00773346
+204,Aksaray Caddesi 2,Aksaray Caddes,Yol Ustu,31,8:00:00 AM,6:00:00 PM,Fatih,28.95499254,41.00883033
+205,Turbedar Sokak,Turbedar Soka,Yol Ustu,35,7:00:00 AM,5:00:00 PM,Fatih,28.97243799,41.00894376
+206,Siyavus Pasa Sokak,Siyavus Pasa Soka,Yol Ustu,18,7:30:00 AM,6:00:00 PM,Fatih,28.96601035,41.01532092
+207,Kadikoy Egitim Mahallesi Acik Otoparki,Kadikoy Egitim Mahallesi Acik Otopark,Acik Otopark,50,8:00:00 AM,7:00:00 PM,Kadikoy,29.04259338,40.99235324
+208,Fevzipasa Caddesi 4,Fevzipasa Caddes,Yol Ustu,26,8:00:00 AM,7:00:00 PM,Fatih,28.95069691,41.01664923
+209,Fevzipasa Caddesi 12,Fevzipasa Caddes,Yol Ustu,30,8:00:00 AM,7:00:00 PM,Fatih,28.9472841,41.02003603
+210,Baskomutan Caddesi 2,Baskomutan Caddes,Yol Ustu,100,9:00:00 AM,5:30:00 PM,Silivri,28.24586686,41.07410057
+211,Baskomutan Caddesi 5,Baskomutan Caddes,Yol Ustu,50,9:00:00 AM,5:30:00 PM,Silivri,28.24865261,41.07349974
+212,Ciragan Sarayi Yol Ustu 1,Ciragan Sarayi Yol Ust,Yol Ustu,40,8:00:00 AM,11:00:00 PM,Besiktas,29.01626846,41.04480962
+213,Cihangir Caddesi 2,Cihangir Caddes,Yol Ustu,70,9:00:00 AM,8:00:00 PM,Beyoglu,28.98664019,41.03125203
+214,Eski Sali Pazari 1,Eski Sali Pazar,Acik Otopark,760,12:00:00 AM,11:59:00 PM,Kadikoy,29.03346967,40.99057992
+215,Etyemez Tekkesi Sokak 2,Etyemez Tekkesi Soka,Yol Ustu,59,8:00:00 AM,5:00:00 PM,Fatih,28.93665608,41.0029341
+216,İmc Onu 8,İm,Yol Ustu,35,8:30:00 AM,6:30:00 PM,Fatih,28.95909515,41.02013665
+217,Horhor Caddesi Uzeri Cep 1,Horhor Caddesi Uzeri Ce,Yol Ustu,40,8:00:00 AM,6:00:00 PM,Fatih,28.95185732,41.01420259
+218,Millet Caddesi 2,Millet Caddes,Yol Ustu,45,7:30:00 AM,6:30:00 PM,Fatih,28.94577811,41.01009981
+219,Kasim Sokak 2,Gungoren Kasim Soka,Yol Ustu,50,8:00:00 AM,7:00:00 PM,Gungoren,28.88625757,41.00917569
+220,Kasim Sokak 3,Gungoren Kasim Soka,Yol Ustu,50,8:00:00 AM,7:00:00 PM,Gungoren,28.88809724,41.00953999
+221,Sabanci Ogretmen Evi Onu 1,Sabanci Ogretmen Evi On,Yol Ustu,27,9:00:00 AM,8:00:00 PM,Beykoz,29.06539465,41.07930313
+222,Yesilkoy İstasyon Caddesi 2,Yesilkoy İstasyon Caddes,Yol Ustu,35,8:00:00 AM,6:00:00 PM,Bakirkoy,28.82482619,40.96187919
+223,Yesilkoy İstasyon Caddesi 5,Yesilkoy İstasyon Caddes,Yol Ustu,50,8:00:00 AM,6:00:00 PM,Bakirkoy,28.8233813,40.95981468
+224,Yesilkoy İstasyon Caddesi 6,Yesilkoy İstasyon Caddes,Yol Ustu,50,8:00:00 AM,6:00:00 PM,Bakirkoy,28.8231015,40.95946519
+225,Resitapasa Caddesi 1,Resitpasa Caddes,Yol Ustu,45,8:30:00 AM,5:30:00 PM,Avcilar,28.71874428,40.98052538
+226,Gurpinar Yolu Caddesi 1,Gurpinar Yolu Caddes,Yol Ustu,40,8:00:00 AM,6:00:00 PM,Beylikduzu,28.6275832,41.01857117
+227,Gurpinar Yolu Caddesi 4,Gurpinar Yolu Caddes,Yol Ustu,30,8:00:00 AM,6:00:00 PM,Beylikduzu,28.62742882,41.01777846
+228,Acibadem P+R 1,Acibadem P+,Yol Ustu,80,6:00:00 AM,5:00:00 PM,Uskudar,29.05993378,41.01364936
+229,Emirgan Sahil 1,Emirgan Sahi,Yol Ustu,50,8:00:00 AM,12:00:00 AM,Sariyer,29.05716773,41.10599394
+230,Kartal İdo Acik Otoparki,Kartal İdo Acik Otopark,Acik Otopark,90,12:00:00 AM,11:59:00 PM,Kartal,29.18806335,40.88733955
+231,İshakpasa Caddesi,İshakpasa Caddes,Yol Ustu,200,8:00:00 AM,2:00:00 AM,Fatih,28.98149284,41.00805097
+232,Levent Metro Yer Alti Otoparki,Levent Metro Yer Alti Otopark,Kapali Otopark,100,7:30:00 AM,7:30:00 PM,Besiktas,29.01065591,41.08114868
+233,Eminonu Acik Otoparki,Eminonu Aci,Acik Otopark,300,12:00:00 AM,11:59:00 PM,Fatih,28.96903911,41.01895868
+234,Bostanci Acik,Bostanci Aci,Acik Otopark,375,12:00:00 AM,11:59:00 PM,Kadikoy,29.09018409,40.9523622
+235,Besiktas Halk Pazari 1,Besiktas Halk Pazar,Kapali Otopark,200,12:00:00 AM,11:59:00 PM,Besiktas,29.00062578,41.04970881
+236,Kutlugun Sokak 1,Kutlugun Soka,Yol Ustu,200,8:00:00 AM,2:00:00 AM,Fatih,28.9811458,41.00700333
+237,Pasalimani Caddesi 1,Pasalimani Caddes,Yol Ustu,30,7:00:00 AM,5:00:00 PM,Uskudar,29.02354178,41.03242786
+238,Haci Pervane Caddesi 1,Silivri Haci Pervane Caddes,Yol Ustu,35,9:00:00 AM,5:30:00 PM,Silivri,28.24776003,41.07443858
+239,Kalamis Fener Caddesi 1,Kalamis Fener Caddes,Yol Ustu,26,9:00:00 AM,7:00:00 PM,Kadikoy,29.03987617,40.97237428
+240,Eski Sali Pazari,Eski Sali Pazar,Acik Otopark,760,12:00:00 AM,11:59:00 PM,Kadikoy,29.03334587,40.99070267
+241,Nadide Sokak 1,Nadide Soka,Yol Ustu,45,8:00:00 AM,6:00:00 PM,Gungoren,28.89075994,41.00944698
+242,Gunes Plaji 1,Gunes Plaji ,Acik Otopark,250,12:00:00 AM,11:59:00 PM,Bakirkoy,28.79036922,40.97156005
+243,Besiktas Barbaros Bulvari Taksi Duragi,Besiktas Barboros Bulvari Taksi Durag,Taksi Park,10,7:00:00 AM,5:00:00 PM,Besiktas,29.00710293,41.04281872
+244,Kalamis Acik Otoparki,Kalamis Acik Otopark,Acik Otopark,170,12:00:00 AM,11:59:00 PM,Kadikoy,29.03600693,40.96855762
+245,Eminonu Acik Otoparki,Eminonu Aci,Acik Otopark,280,12:00:00 AM,11:59:00 PM,Fatih,28.96927684,41.01841379
+246,Kadikoy Acik Otoparki,Kadikoy Acik Otopark,Acik Otopark,1004,12:00:00 AM,11:59:00 PM,Kadikoy,29.01844474,40.989991
+247,Merter Katli Otoparki,Merter Katl,Kapali Otopark,1000,12:00:00 AM,11:59:00 PM,Gungoren,28.88739109,41.00916362
+248,Karakoy Katli,Karakoy Katl,Kapali Otopark,600,12:00:00 AM,11:59:00 PM,Beyoglu,28.97725014,41.0229403
+249,Fatih Katli Otoparki,Fatih Katli Otopark,Kapali Otopark,118,12:00:00 AM,11:59:00 PM,Fatih,28.93966398,41.01972869
+250,Suadiye Cep Acik Otoparki,Suadiye Ce,Acik Otopark,130,12:00:00 AM,11:59:00 PM,Kadikoy,29.07340454,40.95855911
+251,Vali Konagi Muze Onu 1,Vali Konagi Caddesi Muze On,Yol Ustu,35,8:00:00 AM,7:00:00 PM,Sisli,28.98821208,41.04945792
+252,Hidiv Kasri,Hidiv Kasr,Acik Otopark,130,8:00:00 AM,11:00:00 PM,Beykoz,29.07555196,41.10348001
+253,Ebu Suut Caddesi 1,Ebu Suut Caddes,Yol Ustu,40,8:00:00 AM,6:00:00 PM,Fatih,28.97639245,41.01296974
+254,Kore Sehitleri Caddesi - Yuzbasi Kaya Aldagon Sokak 4,Kore Sehitleri Caddesi - Yuzbasi Kaya Aldagon Soka,Yol Ustu,40,7:00:00 AM,5:00:00 PM,Sisli,29.01161203,41.07157439
+255,Yesilyurt Carsi 3,Yesilyurt Cars,Yol Ustu,50,8:00:00 AM,7:00:00 PM,Bakirkoy,28.83793582,40.96438096
+256,Fatih Su Yolu Sokak 1,Fatih Su Yolu Soka,Yol Ustu,40,8:00:00 AM,10:00:00 PM,Fatih,28.9540595,41.01616489
+257,Fatih Su Yolu Sokak 2,Fatih Su Yolu Soka,Yol Ustu,40,8:00:00 AM,10:00:00 PM,Fatih,28.95415224,41.01665209
+258,Munir Nurettin Selcuk Caddesi 15,Munir Nurettin Selcuk Caddes,Yol Ustu,30,9:00:00 AM,6:00:00 PM,Kadikoy,29.04001832,40.97882026
+259,Siracevizler Caddesi Yol Ustu 4,Sisli Siracevizler Caddes,Yol Ustu,50,8:00:00 AM,6:00:00 PM,Sisli,28.98416343,41.05980124
+260,Eski Buyukdere Caddesi 1,Eski Buyukdere Caddes,Yol Ustu,30,8:00:00 AM,7:00:00 PM,Kagithane,29.0062694,41.08812227
+261,Gazi Umur Pasa Sokak 6,Gazi Umur Pasa Soka,Yol Ustu,42,8:00:00 AM,6:00:00 PM,Besiktas,29.01093627,41.05862369
+262,Capa Yol Ustu Otoparki 1,Capa Yol Ustu Otopark,Yol Ustu,30,7:00:00 AM,7:00:00 PM,Fatih,28.93098917,41.01678529
+263,Eyup Tekke Parki,Eyup Tekke Park,Acik Otopark,70,8:00:00 AM,7:00:00 PM,Eyup,28.93979625,41.05648621
+264,Tarabya Acik Otoparki,Tarabya Acik Otopark,Acik Otopark,100,12:00:00 AM,11:59:00 PM,Sariyer,29.05175697,41.13814439
+265,Eyup İstanbul Caddesi 4,Eyup İstanbul Caddes,Yol Ustu,40,9:00:00 AM,7:00:00 PM,Eyup,28.8898819,41.17647297
+266,Macka Katli Otoparki,Macka Katli Otopark,Kapali Otopark,508,12:00:00 AM,11:59:00 PM,Sisli,28.9902058,41.04813655
+267,Mete Caddesi 3,Mete Caddes,Yol Ustu,35,7:30:00 AM,8:30:00 PM,Beyoglu,28.98802141,41.03841422
+268,Matbaacilar Sitesi Yani,Matbaacilar Sitesi Yan,Acik Otopark,250,7:00:00 AM,7:00:00 PM,Zeytinburnu,28.91829941,41.02330565
+269,Yenikapi Marmaray Taksi Duragi,Yenikapi Marmaray Taksi Durag,Taksi Park,20,7:00:00 AM,6:00:00 PM,Fatih,28.95180166,41.00644329
+270,Sehzadebasi Caddesi 1,Sehzadebasi Caddes,Yol Ustu,50,7:00:00 AM,7:00:00 PM,Fatih,28.95800636,41.01274376
+271,Kazlicesme Marmaray Acik Otoparki 2,Kazlicesme Marmaray Acik Otopark,Acik Otopark,700,12:00:00 AM,11:59:00 PM,Zeytinburnu,28.91649233,40.99223227
+272,Kirazli Metro Duragi P+R,Kirazli Metro Duragi P+,Acik Otopark,650,12:00:00 AM,11:59:00 PM,Bagcilar,28.84177912,41.03309786
+273,Alibeykoy Cep Otogari Otobus Otoparki,Alibeykoy Cep Otogari Otobus Otopark,Acik Otopark,116,12:00:00 AM,11:59:00 PM,Eyup,28.94498158,41.08777623
+274,Uskudar Unalan Acik P+R,Uskudar Unalan Acik P+,Acik Otopark,180,6:30:00 AM,7:00:00 PM,Uskudar,29.06045258,40.99787274
+275,Tuzla İdo,Tuzla İdo İskeles,Acik Otopark,300,12:00:00 AM,11:59:00 PM,Tuzla,29.30364453,40.81500881
+276,Kadikoy Metro Yol Ustu 2,Kadikoy Metro Yol Ust,Yol Ustu,25,6:30:00 AM,11:00:00 PM,Kadikoy,29.02170404,40.98991472
+277,Fatih Minibus Depolama Alani,Fatih Minubus Depolama Alani / A40 Alibeykoy-Aksara,Minibus Park,119,7:00:00 AM,6:00:00 PM,Fatih,28.94694414,41.01302421
+278,Selim Sirri Tarcan Katli Otoparki,Selim Sirri Tarcan Katli Otopark,Kapali Otopark,150,12:00:00 AM,11:59:00 PM,Sisli,28.99801297,41.07314716
+279,Bayrampasa Nikah Dairesi Otoparki,Bayrampasa Nikah Dairesi Otopark,Kapali Otopark,190,12:00:00 AM,11:59:00 PM,Bayrampasa,28.91304374,41.0431703
+280,Rumeli Caddesi 6,Sisli Rumeli Caddes,Yol Ustu,45,8:00:00 AM,11:00:00 PM,Sisli,28.99133443,41.051853
+281,Bayrampasa Muratpasa Yer Alti Otoparki,Bayrampasa Muratpasa Yer Alti Otopark,Kapali Otopark,300,12:00:00 AM,11:59:00 PM,Bayrampasa,28.9081982,41.04701461
+282,Cekmekoy Cavusbasi Caddesi 1,Cekmekoy Cavusbasi Caddes,Yol Ustu,50,8:00:00 AM,7:00:00 PM,Cekmekoy,29.17248569,41.03037294
+283,Egs Bloklari Acik Otoparki,Egs Bloklari Acik Otopark,Acik Otopark,350,12:00:00 AM,11:59:00 PM,Bakirkoy,28.8353911,40.98631064
+284,Altunizade Acik Otopark,Altunizade Acik Otopar,Acik Otopark,80,8:00:00 AM,7:00:00 PM,Uskudar,29.03949112,41.02454428
+285,Yenikapi Marmaray Buyuk Otoparki,Yenikapi Marmaray Buyuk Otopark,Acik Otopark,350,12:00:00 AM,11:59:00 PM,Fatih,28.95060129,41.00575515
+286,Yenikapi Marmaray Kucuk Otoparki,Yenikapi Marmaray Kucuk Otopark,Acik Otopark,200,12:00:00 AM,11:59:00 PM,Fatih,28.95157398,41.0049568
+287,Nispetiye Caddesi Acik Otoparki,Nispetiye Caddesi Acik Otopark,Acik Otopark,90,8:00:00 AM,7:00:00 PM,Besiktas,29.01771934,41.07350483
+288,Halic Sosyal Tesisleri Otoparki,Halic Sosyal Tesisleri Otopark,Acik Otopark,60,7:30:00 AM,12:00:00 AM,Fatih,28.95724054,41.02773722
+289,Sabanci Ogretmenevi Acik Otoparki,Sabanci Ogretmenevi Acik Otopark,Acik Otopark,350,7:30:00 AM,11:00:00 PM,Beykoz,29.06735358,41.08109068
+290,Damla Sokak 1,Damla Soka,Yol Ustu,17,8:00:00 AM,6:30:00 PM,Sisli,29.00038451,41.06719264
+291,Fatih Halicilar Caddesi 1,Fatih Halicilar Caddes,Yol Ustu,40,9:00:00 AM,7:00:00 PM,Fatih,28.94822627,41.01828519
+292,Sisli Ali Kaya Sokak 1,Sisli Ali Kaya Soka,Yol Ustu,50,7:00:00 AM,6:00:00 PM,Sisli,29.01008995,41.07987599
+293,Avcilar Meydani Acik Otoparki,Avcilar Meydan Acik Otopark,Acik Otopark,600,12:00:00 AM,11:59:00 PM,Avcilar,28.72160912,40.98381817
+294,Kartal Koprusu Kavsagi P+R,Kartal Koprusu Kavsagi  P+,Acik Otopark,135,6:00:00 AM,5:00:00 PM,Kartal,29.2065686,40.90756931
+295,Avni Akyol Bulvari 7,Avni Akyol Bulvar,Yol Ustu,25,9:00:00 AM,7:00:00 PM,Basaksehir,28.68548832,41.07002588
+296,Fulya Acik Otoparki,Fulya Acik Otopark,Acik Otopark,80,8:00:00 AM,10:00:00 PM,Besiktas,28.99980279,41.05649782
+297,Haydarpasa Katli Otoparki,Haydarpasa Katli Otopark,Kapali Otopark,840,12:00:00 AM,11:59:00 PM,Uskudar,29.02548194,41.00509928
+298,Uskudar Belediyesi Yeralti Otoparki,Uskudar Belediyesi Yeralti Otopark,Kapali Otopark,197,12:00:00 AM,11:59:00 PM,Uskudar,29.01931018,41.02064481
+299,Baglarbasi Katli Otoparki,Baglarbasi Katli Otopark,Kapali Otopark,130,12:00:00 AM,11:59:00 PM,Uskudar,29.03464973,41.02518776
+300,Fatih Kutuphane Acik Otoparki 2,Fatih Kutuphane Acik Otopark,Acik Otopark,35,8:00:00 AM,8:00:00 PM,Fatih,28.94941298,41.01668359
+301,Okan Universitesi Zemin Alti Otoparki,Okan Universitesi Hastanesi Zemin Alti Otopark,Kapali Otopark,300,7:00:00 AM,11:00:00 PM,Tuzla,29.3017602,40.84941393
+302,Sultangazi Zemin Alti Otoparki,Sultangazi Zemin Alti Otopark,Kapali Otopark,104,12:00:00 AM,11:59:00 PM,Sultangazi,28.86487896,41.09441179
+303,Harbiye Cumhuriyet Caddesi Yol Ustu Otoparki 3,Harbiye Cumhuriyet Caddesi Yol Ustu Otopark,Yol Ustu,25,8:00:00 AM,6:00:00 PM,Sisli,28.98634164,41.04264277
+304,Harbiye Cumhuriyet Caddesi Yol Ustu Otoparki 5,Harbiye Cumhuriyet Caddesi Yol Ustu Otopark,Yol Ustu,26,8:00:00 AM,6:00:00 PM,Sisli,28.98634293,41.04308134
+305,İspark West İstanbul Marina Acik Otoparki,İspark West İstanbul Acik Otopark,Acik Otopark,1000,12:00:00 AM,11:59:00 PM,Beylikduzu,28.65906098,40.96388564
+306,Yali Acik Otoparki,Yali Acik Otopark,Acik Otopark,85,8:00:00 AM,9:00:00 PM,Maltepe,29.13687574,40.90944024
+307,Beyoglu Ornektepe Zemin Alti Otoparki,Beyoglu Ornektepe Zemin Alti Otopark,Kapali Otopark,143,12:00:00 AM,11:59:00 PM,Beyoglu,28.95487729,41.05423706
+308,Bayrampasa Sebze-Meyve Hali,Bayrampasa Sebze - Meyve Hal,Acik Otopark,100,12:00:00 AM,11:59:00 PM,Bayrampasa,28.88866861,41.05100371
+309,A/46 Sirinevler-Kuleli-Basaksehir Minibus Peronu,A/46 Sirinevler-Kuleli-Basaksehir Minibus Peron,Minibus Park,54,7:00:00 AM,11:00:00 PM,Bahcelievler,28.84694372,40.99201541
+310,Albay Faik Sozdener 4,Albay Faik Sozdene,Yol Ustu,40,7:00:00 AM,11:00:00 PM,Kadikoy,29.02142856,40.98738792
+311,Pendik Yeni Mahalle Acik Otoparki,Pendik Yenimahalle Acik Otopark,Acik Otopark,80,7:00:00 AM,5:00:00 PM,Pendik,29.27194476,40.86421924
+312,Pendik Yenimahalle Yolustu Otoparki 2,Pendik Yenimahalle Yolustu Otopark,Yol Ustu,50,7:00:00 AM,5:00:00 PM,Pendik,29.27232027,40.86400016
+313,Atasehir Bulvari 24,Atasehir Bulvar,Yol Ustu,25,8:00:00 AM,6:00:00 PM,Atasehir,29.12769295,40.99344816
+314,Kadikoy Sogutlucesme Acik Otoparki,Kadikoy Sogutlucesme Acik Otopark,Acik Otopark,230,12:00:00 AM,11:59:00 PM,Kadikoy,29.03822243,40.99221645
+315,Bayrampasa Muzaffer Oztekin Zemin Alti Otoparki,Bayrampasa Muzaffer Oztekin Zemin Alti Otopark,Kapali Otopark,400,12:00:00 AM,11:59:00 PM,Bayrampasa,28.90667789,41.05103821
+316,Tamburi Ali Efendi Sokak 2,Tamburi Ali Efend,Yol Ustu,17,9:00:00 AM,9:00:00 PM,Besiktas,29.03086242,41.07859173
+317,Levent Buyukdere Caddesi 3,Levent Buyukdere Caddes,Yol Ustu,30,9:00:00 AM,10:00:00 PM,Besiktas,29.01474015,41.07562676
+318,Levent Buyukdere Caddesi 5,Levent Buyukdere Caddes,Yol Ustu,30,9:00:00 AM,10:00:00 PM,Besiktas,29.01449927,41.07611569
+319,Bebek Parki Onu,Bebek Sahil Yol,Yol Ustu,20,8:00:00 AM,11:00:00 PM,Besiktas,29.05670346,41.08324989
+320,Sultanbeyli Emir Caddesi Zemin Alti Otoparki,Sultanbeyli Emir Caddesi Zemin Alti Otopark,Kapali Otopark,130,7:00:00 AM,9:00:00 PM,Sultanbeyli,29.25547622,40.97168056
+321,Arnavutkoy Zemin Alti Otoparki,Arnavutkoy Zemin Alti Otopark,Kapali Otopark,700,12:00:00 AM,11:59:00 PM,Arnavutkoy,28.73946919,41.1834617
+322,Kadikoy Yeni Sali Pazari Katli Otoparki,Kadikoy Yeni Sali Pazari Katli Otopark,Kapali Otopark,1350,12:00:00 AM,11:59:00 PM,Kadikoy,29.05007644,40.99779188
+323,Bagcilar Yildiztepe Katli Otoparki,Bagcilar Yildiztepe Katli Otopark,Kapali Otopark,350,12:00:00 AM,11:59:00 PM,Bagcilar,28.85593434,41.02951584
+324,15 Temmuz Demokrasi Otogari,15 Temmuz Demokrasi Otogar,Acik Otopark,1000,12:00:00 AM,11:59:00 PM,Bayrampasa,28.89459268,41.04155198
+325,Pendik Tavsantepe P+R Acik Otoparki,Pendik Tavsantepe P+R Acik Otopark,Acik Otopark,430,12:00:00 AM,11:59:00 PM,Pendik,29.24927387,40.88291697
+326,Bayrampasa Ataturk Parki  Zemin Alti Otoparki,Bayrampasa Ataturk Parki Zemin Alti Otopark,Kapali Otopark,442,12:00:00 AM,11:59:00 PM,Bayrampasa,28.91309134,41.03359735
+327,Bagcilar Kent Meydani Zemin Alti,Bagcilar Kent Meydani Zemin Alt,Kapali Otopark,1162,12:00:00 AM,11:59:00 PM,Bagcilar,-99,-99
+328,Bagcilar Kent Meydani Zemin Alti,Bagcilar Kent Meydani Zemin Alt,Kapali Otopark,1162,12:00:00 AM,11:59:00 PM,Bagcilar,28.85565151,41.03400288
+329,Buyukcamlica Korusu Sosyal Tesisleri Onu,Buyuk Camlica Korusu Sosyal Tesisleri On,Acik Otopark,230,8:00:00 AM,12:00:00 AM,Uskudar,29.06954477,41.02670563
+330,Buyukcekmece Metrobus Duragi Yani Zemin Alti Otoparki,Buyukcekmece Metrobus Duragi Yani Zemin Alti Otopark,Kapali Otopark,498,12:00:00 AM,11:59:00 PM,Buyukcekmece,28.62413736,41.02204617
+331,Bagcilar Colakoglu Zemin Alti Otoparki,Bagcilar Colakoglu Zemin Alti Otopark,Kapali Otopark,106,12:00:00 AM,11:59:00 PM,Bagcilar,28.83468572,41.03293546
+332,Bahcelievler Devlet Hastanesi Yani Katli Otoparki 1,Bahcelievler Devlet Hastanesi Yani Katli Otopark,Kapali Otopark,740,12:00:00 AM,11:59:00 PM,Bahcelievler,28.84386589,41.00756066
+333,Kadikoy Sahil Acik Otoparki 1,Kadikoy Sahil Acik Otopark,Acik Otopark,50,12:00:00 AM,11:59:00 PM,Kadikoy,29.02183516,40.99117747
+334,Bahcelievler Soganli Zemin Alti Otoparki 1,Bahcelievler Soganli Zemin Alti Otopark,Kapali Otopark,663,12:00:00 AM,11:59:00 PM,Bahcelievler,28.85794121,41.01535393
+335,Avcilar Mustafa Kemalpasa Metrobus Duragi  Yani Yol Ustu Otoparki,Avcilar Mustafa Kemalpasa Metrobus Duragi  Yani Yol Ustu Otopark,Yol Ustu,44,8:00:00 AM,7:00:00 PM,Avcilar,-99,-99
+336,Beyoglu Gazhane Bostan Sokak 2,Beyoglu Gazhane Bostan Soka,Yol Ustu,35,8:00:00 AM,7:00:00 PM,Beyoglu,28.98941149,41.03831932
+337,Cekmekoy Mimar Sinan Caddesi 4,Cekmekoy Mimar Sinan Caddes,Yol Ustu,20,8:00:00 AM,7:00:00 PM,Cekmekoy,29.17639052,41.03270957
+338,Sakayik Sokak 4,Sisli Sakayik Soka,Yol Ustu,50,8:00:00 AM,7:00:00 PM,Sisli,28.99334926,41.05196132
+339,Beyoglu İnonu Caddesi 7,İnonu Caddes,Yol Ustu,30,8:00:00 AM,8:00:00 PM,Beyoglu,28.98743645,41.03548986
+340,Prof. Dr.Orhan Ersek Sokak 3,Prof. Dr.Orhan Ersek Soka,Yol Ustu,40,8:00:00 AM,7:00:00 PM,Sisli,28.99476357,41.05153347
+341,Abide-I Hurriyet Caddesi 5,Abide-I Hurriyet Caddes,Yol Ustu,40,8:00:00 AM,7:00:00 PM,Sisli,28.98728791,41.06123666
+342,Abide-I Hurriyet Caddesi 6,Abide-I Hurriyet Caddes,Yol Ustu,40,8:00:00 AM,7:00:00 PM,Sisli,28.98711934,41.06060665
+343,Ihlamur Dere Caddesi 2,Ihlamur Dere Caddes,Yol Ustu,27,9:00:00 AM,7:00:00 PM,Besiktas,29.00303069,41.04443912
+344,Baglanti Yolu 2,Levent Baglanti Yol,Yol Ustu,120,6:45:00 AM,6:00:00 PM,Besiktas,29.01247675,41.0802187
+345,Adliye Onu 1,Levent Adliye On,Yol Ustu,40,7:00:00 AM,5:00:00 PM,Sisli,29.01149204,41.07994919
+346,Gedikpasa Acik Otoparki,Gedikpasa Acik Otopark,Acik Otopark,175,12:00:00 AM,11:59:00 PM,Fatih,28.96364755,41.00729209
+347,Karakoy Balikcilar Onu,Beyoglu Balikcilar On,Acik Otopark,70,8:00:00 AM,10:00:00 PM,Beyoglu,28.97412476,41.0220007
+348,Poyraz Yol Ustu 4,Poyraz Yol Ust,Yol Ustu,45,8:00:00 AM,6:00:00 PM,Kadikoy,29.04050623,40.99306585
+349,Atasehir Bulvari 1,Atasehir Bulvar,Yol Ustu,20,8:00:00 AM,6:00:00 PM,Atasehir,29.11921173,40.9925424
+350,Atasehir Bulvari 8,Atasehir Bulvar,Yol Ustu,35,8:00:00 AM,6:00:00 PM,Atasehir,29.12613451,40.99269423
+351,Mid Point Onu,Bebek Sahil Yol,Yol Ustu,29,8:00:00 AM,11:00:00 PM,Besiktas,29.05269394,41.08034946
+352,Asiyan 1,Bebek Sahil Yol,Yol Ustu,20,8:00:00 AM,11:00:00 PM,Besiktas,29.05580476,41.08185584
+353,Kucuk Bebek,Bebek Sahil Yol,Yol Ustu,17,8:00:00 AM,12:00:00 AM,Besiktas,29.04954692,41.07969401
+354,Migros Onu,Bebek Arnavutkoy Caddes,Yol Ustu,11,8:00:00 AM,12:00:00 AM,Besiktas,29.04490307,41.07222219
+355,Kabatas Set Ustu 2,Kabatas Setust,Yol Ustu,80,8:00:00 AM,6:00:00 PM,Beyoglu,28.99322639,41.03550909
+356,İmc Onu 1,İm,Yol Ustu,28,8:30:00 AM,6:30:00 PM,Fatih,28.95687444,41.0171315
+357,Ataturk Bulvari 1,Ataturk Bulvari ,Yol Ustu,18,7:30:00 AM,6:30:00 PM,Fatih,28.9535383,41.0112915
+358,Atasehir Bulvari 13,Atasehir Bulvar,Yol Ustu,25,8:00:00 AM,6:00:00 PM,Atasehir,29.12766367,40.99309093
+359,Hizir Kulhani Sokak,Hizir Kulhani Soka,Yol Ustu,26,8:00:00 AM,6:00:00 PM,Fatih,28.96048792,41.02019964
+360,İstinye 1 ( Hastane Onu ),İstinye Caddes,Yol Ustu,25,8:00:00 AM,6:00:00 PM,Sariyer,29.05521762,41.11461985
+361,İstinye 6 ( Cocuk Parki ),İstinye Caddes,Yol Ustu,30,8:00:00 AM,6:00:00 PM,Sariyer,29.06010575,41.11382052
+362,Yenikoy 1,Yenikoy Koybasi Caddes,Yol Ustu,11,8:00:00 AM,6:00:00 PM,Sariyer,29.06978478,41.12724174
+363,Kirecburnu 3,Haydar Aliyev Caddes,Yol Ustu,35,9:00:00 AM,8:00:00 PM,Sariyer,29.04327159,41.15053252
+364,Kirecburnu 4,Haydar Aliyev Caddes,Yol Ustu,35,9:00:00 AM,8:00:00 PM,Sariyer,29.04510226,41.14895052
+365,Sariyer Yeni Mahalle Caddesi 2,Sariyer Yeni Mahalle Caddes,Yol Ustu,11,8:00:00 AM,6:00:00 PM,Sariyer,29.05714584,41.16835743
+366,Prof.Cemil Birsel Yokusu 2,Prof.Dr.Cemil Birsel Caddes,Yol Ustu,30,7:00:00 AM,6:00:00 PM,Fatih,28.96698467,41.01787774
+367,Ragip Gumuspala Otobus Parki 1,Ragip Gumuspala Caddesi (Otobus Parki,Yol Ustu,40,7:00:00 AM,6:00:00 PM,Fatih,28.96593513,41.0191485
+368,Yali Kosku Caddesi 3,Yali Kosku Caddes,Yol Ustu,100,7:00:00 AM,10:00:00 PM,Fatih,28.97488121,41.01624661
+369,Kartal Hurriyet Caddesi 5,Kartal Hurriyet Caddes,Yol Ustu,30,8:00:00 AM,6:00:00 PM,Kartal,29.18974731,40.88922874
+370,Sehit Mithat Yilmaz Caddesi 1,Sehit Mithat Yilmaz Caddes,Yol Ustu,16,8:00:00 AM,6:00:00 PM,Sariyer,29.05622101,41.16849678
+371,Besiktas Kadastro Onu 1,Besiktas Kadastro On,Yol Ustu,20,8:00:00 AM,6:00:00 PM,Besiktas,29.00768099,41.05033701
+372,Ptt Onu 1,Kadikoy Rihtim Ptt On,Yol Ustu,20,8:00:00 AM,11:00:00 PM,Kadikoy,29.02187144,40.9895527
+373,Ptt Onu 2,Kadikoy Rihtim Ptt On,Yol Ustu,20,8:00:00 AM,11:00:00 PM,Kadikoy,29.02207909,40.98974558
+374,Misbah Sokak 2,Misbah Soka,Yol Ustu,21,8:00:00 AM,11:00:00 PM,Kadikoy,29.02261877,40.98895177
+375,Dr.Adnan Adivar Caddesi,Dr.Adnan Adivar Caddes,Yol Ustu,15,8:00:00 AM,6:00:00 PM,Fatih,28.94531425,41.00827142
+376,Atasehir Bulvari 16,Atasehir Bulvar,Yol Ustu,25,8:00:00 AM,6:00:00 PM,Atasehir,29.12700891,40.99166577
+377,Fevzipasa Caddesi 16,Fevzipasa Caddes,Yol Ustu,30,8:00:00 AM,7:00:00 PM,Fatih,28.94609444,41.02122815
+378,Fevzipasa Caddesi 18,Fevzipasa Caddes,Yol Ustu,30,8:00:00 AM,7:00:00 PM,Fatih,28.94416239,41.0226581
+379,Arap Camii Acik Otoparki,Arap Camii Acik Otopark,Acik Otopark,30,8:00:00 AM,6:00:00 PM,Beyoglu,28.97231892,41.02265027
+380,19 Mayis Caddesi 4,19 Mayis Caddes,Yol Ustu,40,9:00:00 AM,7:00:00 PM,Pendik,29.23170495,40.87735612
+381,Bebek Acik,Bebek Aci,Acik Otopark,35,12:00:00 AM,11:59:00 PM,Besiktas,29.0434974,41.07686575
+382,Kucuk Camlica,Kucuk Camlic,Acik Otopark,80,7:00:00 AM,10:00:00 PM,Uskudar,29.06606617,41.02043963
+383,Akdeniz Caddesi 1,Akdeniz Caddes,Yol Ustu,25,8:00:00 AM,7:00:00 PM,Fatih,28.94288043,41.01697545
+384,Dumlupinar Caddesi 5,Dumlupinar Caddes,Yol Ustu,50,9:00:00 AM,7:00:00 PM,Bahcelievler,28.84012778,40.99230472
+385,Dumlupinar Caddesi 8,Dumlupinar Caddes,Yol Ustu,60,9:00:00 AM,7:00:00 PM,Bahcelievler,28.8428014,40.99211835
+386,Zeytinburnu 58. Bulvar 5,Zeytinburnu 58. Bulva,Yol Ustu,30,9:00:00 AM,7:00:00 PM,Zeytinburnu,28.90369996,40.99077708
+387,Bayrampasa Numunebagi Caddesi 6,Bayrampasa Numunebagi Caddes,Yol Ustu,50,8:00:00 AM,6:00:00 PM,Bayrampasa,28.91271014,41.0351622
+388,Eyup Pierloti Caddesi 1,Eyup Pierloti Caddes,Yol Ustu,40,8:00:00 AM,12:00:00 AM,Eyup,28.93300167,41.05415529
+389,Salih Pasa Caddesi 5,Salih Pasa Caddes,Yol Ustu,30,8:00:00 AM,7:00:00 PM,Gaziosmanpasa,28.91067108,41.05469311
+390,Kasim Sokak 4,Gungoren Kasim Soka,Yol Ustu,50,8:00:00 AM,7:00:00 PM,Gungoren,28.88849696,41.00969612
+391,Sabanci Ogretmen Evi Onu 2,Sabanci Ogretmen Evi On,Yol Ustu,27,9:00:00 AM,8:00:00 PM,Beykoz,29.06552967,41.07968106
+392,Sabanci Ogretmen Evi Onu 5,Sabanci Ogretmen Evi On,Yol Ustu,27,9:00:00 AM,8:00:00 PM,Beykoz,29.06699512,41.08117014
+393,Yesilkoy Marina 5,Yesilkoy Marin,Yol Ustu,150,8:00:00 AM,12:00:00 AM,Bakirkoy,28.82154635,40.95596791
+394,Yesilkoy İstanbul Caddesi 1,Yesilkoy İstanbul Caddes,Yol Ustu,33,8:00:00 AM,6:00:00 PM,Bakirkoy,28.83477532,40.95913661
+395,Rone Park Onu 1,Rone Park On,Yol Ustu,50,8:00:00 AM,12:00:00 AM,Bakirkoy,28.83200571,40.95774682
+396,Ataturk Caddesi 5,Silivri Ataturk Caddes,Yol Ustu,90,9:00:00 AM,11:00:00 PM,Silivri,28.24377753,41.0728909
+397,Bakirkoy Acik Otoparki 2,Bakirkoy Aci,Acik Otopark,40,12:00:00 AM,11:59:00 PM,Bakirkoy,28.8756889,40.98336515
+398,Emirgan Korusu,Emirgan Korus,Acik Otopark,300,6:00:00 AM,11:00:00 PM,Sariyer,29.05280483,41.10857218
+399,Yildiz Korusu,Yildiz Korus,Acik Otopark,500,8:00:00 AM,9:00:00 PM,Besiktas,29.0151175,41.04794605
+400,Balmumcu Acik,Balmumcu Aci,Acik Otopark,140,12:00:00 AM,11:59:00 PM,Besiktas,29.01065172,41.0620416
+401,Cihangir Katli Otoparki,Cihangir Katl,Kapali Otopark,350,12:00:00 AM,11:59:00 PM,Beyoglu,28.98580671,41.03184881
+402,Feshane P+R Acik Otoparki,Feshane P+R Acik Otopark,Acik Otopark,200,12:00:00 AM,11:59:00 PM,Eyup,28.93760965,41.04632667
+403,Merter Metro P+R,Merter Metro P+,Acik Otopark,300,7:00:00 AM,11:00:00 PM,Gungoren,28.89573232,41.00733553
+404,Kutlugun Sokak 2,Kutlugun Soka,Yol Ustu,200,8:00:00 AM,2:00:00 AM,Fatih,28.98012217,41.00606626
+405,Bostanci İdo Ve Adalar İskelesi Onu Taksi Duragi,Bostanci İdo Ve Adalar İskelesi Onu Taksi Durag,Taksi Park,16,7:00:00 AM,10:00:00 PM,Kadikoy,29.0937899,40.95252607
+406,Cayir Cimen Sokak 1,Cayir Cimen Soka,Yol Ustu,30,6:45:00 AM,6:00:00 PM,Besiktas,29.01333051,41.07916
+407,Dere Sokak,Dere Soka,Yol Ustu,15,8:00:00 AM,7:00:00 PM,Sisli,28.98844072,41.05762805
+408,Gunes Sokak Cikmazi 1,Gunes Sokak Cikmaz,Yol Ustu,40,7:00:00 AM,6:00:00 PM,Besiktas,29.00768277,41.08693718
+409,Bezmialem Vakif Universitesi Tip Fakultesi 1,Bezmialem Vakif Universitesi Tip Fakultes,Acik Otopark,891,12:00:00 AM,11:59:00 PM,Fatih,28.93599451,41.01916105
+410,Uskudar İdo İskelesi Onu,Uskudar İdo İskelesi Onu Taksi Durag,Taksi Park,15,7:00:00 AM,11:00:00 PM,Uskudar,29.0157958,41.02763148
+411,Poyrazli Sokak 1,Poyrazli Soka,Yol Ustu,50,8:00:00 AM,6:00:00 PM,Gungoren,28.8886644,41.00928174
+412,Savas Caddesi 2,Savas Caddes,Yol Ustu,40,8:00:00 AM,6:00:00 PM,Gungoren,28.88712447,41.01327505
+413,Sabiha Gokcen P+R,Sabiha Gokcen P+,Acik Otopark,1020,12:00:00 AM,11:59:00 PM,Pendik,29.30976663,40.92390437
+414,Bakirkoy İdo Acik Otoparki,Bakirkoy İdo İskelesi On,Acik Otopark,1000,12:00:00 AM,11:59:00 PM,Bakirkoy,28.87609578,40.97393448
+415,Cihangir Katli Otoparki,Cihangir Katl,Kapali Otopark,350,12:00:00 AM,11:59:00 PM,Beyoglu,28.98580722,41.03184037
+416,Cinar Hotel Onu 1,Cinar Hotel On,Yol Ustu,60,8:00:00 AM,12:00:00 AM,Bakirkoy,28.83596156,40.95946069
+417,Umraniye Dr. Fazil Kucuk Caddesi 2,Umraniye Dr. Fazil Kucuk Caddes,Yol Ustu,24,8:00:00 AM,5:00:00 PM,Umraniye,29.11281389,41.02683484
+418,Vakif Gureba Yolu Taksi Duragi,Vakif Gureba Yolu Taksi Durag,Taksi Park,25,7:00:00 AM,6:00:00 PM,Fatih,28.93444206,41.02053902
+419,Macka Caddesi Teleferik Onu 1,Macka Caddesi Teleferik On,Yol Ustu,29,8:00:00 AM,12:00:00 AM,Sisli,28.99464067,41.04444119
+420,İkinci Keskin Kalem Sokak 1,İkinci Keskin Kalem Soka,Yol Ustu,40,7:00:00 AM,5:00:00 PM,Sisli,29.00664479,41.06958691
+421,Menekse Plaji Acik Otoparki,Menekse Plaj,Acik Otopark,200,12:00:00 AM,11:59:00 PM,Bakirkoy,28.77667418,40.97623801
+422,Bomanti Protestan Mezarligi Yani 2,Bomanti Protestan Mezarligi Yan,Yol Ustu,20,8:00:00 AM,6:00:00 PM,Sisli,28.98521289,41.05543102
+423,Darulbedai Caddesi 2,Darulbedai Caddes,Yol Ustu,40,8:00:00 AM,12:00:00 AM,Sisli,28.99005447,41.04886475
+424,Kucuk Ayasofya Caddesi,Kucuk Ayasofya Caddes,Yol Ustu,50,8:00:00 AM,6:00:00 PM,Fatih,28.97262462,41.0030519
+425,Maltepe Minibus Duragi,Maltepe Minibus Peronlar,Minibus Park,100,7:00:00 AM,9:00:00 PM,Maltepe,29.1309171,40.91772374
+426,Sabiha Gokcen P+R,Sabiha Gokcen P+,Acik Otopark,1020,12:00:00 AM,11:59:00 PM,Pendik,29.30970308,40.92419846
+427,Rumeli Hisar Onu Acik Otoparki,Rumeli Hisar On,Acik Otopark,70,12:00:00 AM,11:59:00 PM,Sariyer,29.05659556,41.08539216
+428,Munir Nurettin Selcuk Caddesi 7,Munir Nurettin Selcuk Caddes,Yol Ustu,35,9:00:00 AM,6:00:00 PM,Kadikoy,29.03990013,40.97891596
+429,Yildiray Cinar Sokak 1,Yildiray Cinar Soka,Yol Ustu,80,5:45:00 AM,4:00:00 PM,Buyukcekmece,28.62369557,41.02161466
+430,Akasyali Sokak Tenis Clubu Onu 5,Akasyali Sokak Tenis Clubu On,Yol Ustu,64,8:00:00 AM,6:00:00 PM,Besiktas,29.01110278,41.08651783
+431,Seyit Nizam  Caddesi 1,Seyit Nizam  Caddes,Yol Ustu,100,8:00:00 AM,6:00:00 PM,Zeytinburnu,28.90732516,41.00427136
+432,Eski Buyukdere Caddesi 2,Eski Buyukdere Caddes,Yol Ustu,30,8:00:00 AM,7:00:00 PM,Kagithane,29.00602237,41.08887346
+433,Fisekhane Caddesi 1,Fisekhane Caddes,Yol Ustu,40,8:00:00 AM,7:00:00 PM,Bakirkoy,28.86925294,40.97799522
+434,Atakoy Atrium Avm,Atakoy Atriu,Acik Otopark,250,12:00:00 AM,11:59:00 PM,Bakirkoy,28.84586022,40.98812804
+435,Kartal Uskudar Caddesi 4,Kartal Uskudar Caddes,Yol Ustu,60,8:00:00 AM,6:00:00 PM,Kartal,29.18294685,40.88918925
+436,Ulu Camii Acik Otoparki,Ulu Cami Acik Otopark,Acik Otopark,150,12:00:00 AM,11:59:00 PM,Bahcelievler,28.85004309,40.99802053
+437,Umraniye Dr. Fazil Kucuk Caddesi 3,Umraniye Dr. Fazil Kucuk Caddes,Yol Ustu,24,8:00:00 AM,5:00:00 PM,Umraniye,29.11302042,41.02652423
+438,Ragip Gumuspala Cad.(Sobacilar Onu),Rapip Gumuspala Cad.(Sobacilar Onu,Yol Ustu,40,7:00:00 AM,6:00:00 PM,Fatih,28.96897096,41.01813162
+439,Kartal Koprusu Kavsagi P+R,Kartal Koprusu Kavsagi  P+,Acik Otopark,135,6:00:00 AM,5:00:00 PM,Kartal,29.2065034,40.90749541
+440,Esenler Menderes Metro İstasyonu Yani,Esenler Menderes Metro İstasyonu Yan,Acik Otopark,120,12:00:00 AM,11:59:00 PM,Esenler,28.87825817,41.04264635
+441,Besiktas Emirhan Caddesi 1,Besiktas Emirhan Caddes,Yol Ustu,80,7:30:00 AM,6:00:00 PM,Besiktas,29.00901318,41.05715558
+442,B-37 Mecidiyekoy - Topkapi Minibus Duragi,B-37 Mecidiyekoy - Topkapi Minibus Durag,Minibus Park,20,12:00:00 AM,11:59:00 PM,Sisli,28.9944484,41.06693129
+443,Trt Onu Acik Otoparki,Trt Onu Acik Otopar,Acik Otopark,130,12:00:00 AM,11:59:00 PM,Beyoglu,28.97460461,41.03259068
+444,Beyoglu Tepebasi Katli Otoparki,Beyoglu Tepebasi Katli Otopark,Kapali Otopark,1005,12:00:00 AM,11:59:00 PM,Beyoglu,28.9743644,41.03190953
+445,Gencturk Caddesi 3,Gencturk Caddes,Yol Ustu,50,8:00:00 AM,6:00:00 PM,Fatih,28.95539045,41.01114307
+446,Suleyman Seba Caddesi 2,Suleyman Seba Caddes,Yol Ustu,25,8:00:00 AM,7:00:00 PM,Besiktas,28.99981856,41.04257757
+447,Cekmekoy Cavusbasi Caddesi 4,Cekmekoy Cavusbasi Caddes,Yol Ustu,50,8:00:00 AM,7:00:00 PM,Cekmekoy,29.17289745,41.03102636
+448,Nadide Sokak 2,Nadide Soka,Yol Ustu,45,8:00:00 AM,6:00:00 PM,Gungoren,28.89176134,41.00815899
+449,Yayla Sanat Merkezi Onu,Yayla Sanat Merkezi Acik Otopark,Acik Otopark,300,12:00:00 AM,11:59:00 PM,Maltepe,29.1234684,40.92627298
+450,Bostanci Vergi Dairesi Acik Otoparki,Bostanci Vergi Dairesi Acik Otopark,Acik Otopark,105,7:00:00 AM,8:00:00 PM,Atasehir,29.10805981,40.96251035
+451,Cirpici Metro Taksi Duragi,Cirpici Mertro Taksi Durag,Taksi Park,10,7:00:00 AM,5:00:00 PM,Zeytinburnu,28.89049205,41.00166625
+452,A-15 Topkapi-Arnavutkoy Minibus Duragi,A-15 Topkapi-Arnavutkoy Minibus Durag,Minibus Park,193,7:00:00 AM,11:00:00 PM,Zeytinburnu,29.32515411,40.93269968
+453,Darussafaka Yeralti Otoparki,Darussafaka Yer Alti Otopark,Kapali Otopark,150,12:00:00 AM,11:59:00 PM,Sariyer,29.0252463,41.12928019
+454,Bulent Ecevit Kultur Merkezi Acik Otoparki,Bulent Ecevit Kultur Merkezi Acik Otopark,Acik Otopark,277,9:00:00 AM,7:00:00 PM,Kartal,29.19702262,40.8854436
+455,Yenikapi Spor Ve Kultur Merkezi Acik Otoparki 2,Yenikapi Spor Ve Kultur Merkez,Acik Otopark,1100,12:00:00 AM,11:59:00 PM,Fatih,28.95138488,41.00069526
+456,Karakoy Azapkapi,Karakoy Azapkap,Acik Otopark,100,8:00:00 AM,7:00:00 PM,Beyoglu,28.96909958,41.02550386
+457,Cengiz Topel Yer Alti Katli Otoparki,Cengiz Topel  Yer Alti Katli Otopark,Kapali Otopark,144,12:00:00 AM,11:59:00 PM,Esenler,28.86434019,41.0590446
+458,Mehmet Ozgun Minibus Peronlari,Mehmet Ozgun Minubus Peronlar,Minibus Park,100,7:00:00 AM,9:00:00 PM,Pendik,29.32681739,40.93612533
+459,Fatih Cesme Acik Otoparki,Fatih Cesmesi Acik Otopark,Acik Otopark,250,6:00:00 AM,8:00:00 PM,Sariyer,28.94628721,41.1689931
+460,Gurpinar Balik Hali Otoparki,Gurpinar Balik Hali Otopark,Acik Otopark,1000,12:00:00 AM,11:59:00 PM,Beylikduzu,28.60214954,40.96728185
+461,Beykoz Sosyal Tesisleri 1,Beykoz Sosyal Tesisler,Acik Otopark,130,7:00:00 AM,11:00:00 PM,Beykoz,29.08630824,41.11334821
+462,Dragos Sosyal Tesisleri,Dragos Sosyal Tesisler,Acik Otopark,100,7:00:00 AM,10:00:00 PM,Kartal,29.14556444,40.90173499
+463,Florya Sosyal Tesisleri,Florya Sosyal Tesisler Otopark,Acik Otopark,60,12:00:00 AM,11:59:00 PM,Bakirkoy,28.80917788,40.96165519
+464,Beykoz Sosyal Tesisleri 2,Beykoz Sosyal Tesisler,Acik Otopark,130,8:00:00 AM,12:00:00 AM,Beykoz,29.08686697,41.11361661
+465,Fatih Aksemsettin Caddesi 3,Fatih Aksemsettin Caddes,Yol Ustu,30,8:30:00 AM,7:00:00 PM,Fatih,28.94222617,41.02074802
+466,Mecidiyekoy Oguz Sokak 1,Mecidiyekoy Oguz Soka,Yol Ustu,20,8:00:00 AM,6:30:00 PM,Sisli,29.00032818,41.06785997
+467,Langa Bostanlari Acik Otoparki,Langa Bostanlari Acik Otopark,Acik Otopark,30,9:00:00 AM,8:00:00 PM,Fatih,28.9502951,41.00642984
+468,Alibeykoy Cep Otogari P+R,Alibeykoy Cep Otogari P+,Acik Otopark,88,12:00:00 AM,11:59:00 PM,Eyup,28.9422369,41.08789089
+469,Avni Akyol Bulvari 1,Avni Akyol Bulvar,Yol Ustu,25,9:00:00 AM,7:00:00 PM,Basaksehir,28.68956924,41.07226136
+470,Avni Akyol Bulvari 6,Avni Akyol Bulvar,Yol Ustu,25,9:00:00 AM,7:00:00 PM,Basaksehir,28.68666842,41.07016838
+471,Bahcesehir Golet Acik Otoparki,Bahcesehir Golet Acik Otopark,Acik Otopark,110,10:00:00 AM,10:00:00 PM,Basaksehir,28.69018333,41.07203137
+472,Altunizade Aksoy Sokak 1,Altunizade Aksoy Soka,Yol Ustu,30,8:00:00 AM,7:00:00 PM,Uskudar,29.03814733,41.02078647
+473,Adnan Kahveci Metro Acik Otoparki,Adnan Kahveci Metro Acik Otopark,Acik Otopark,40,9:00:00 AM,7:00:00 PM,Pendik,29.22740936,40.89499183
+474,Pendik Tavsantepe Metro Taksi Duragi,Pendik Tavsantepe Metro Taksi Durag,Taksi Park,4,7:00:00 AM,11:00:00 PM,Pendik,29.24635869,40.88247872
+475,Esenler Adem Basturk Kultur Merkezi Katli,Esenler Adem Basturk Kultur Merkezi Katl,Kapali Otopark,1000,12:00:00 AM,11:59:00 PM,Esenler,28.88508413,41.03869159
+476,Bostanci İdo Karsisi Acik Otopark 2,Bostanci İdo Karsisi Acik Otopar,Acik Otopark,84,12:00:00 AM,11:59:00 PM,Kadikoy,29.09564297,40.95272437
+477,Suleymaniye Cami Alti Acik Otoparki,Suleymaniye Cami Alti Acik Otopark,Acik Otopark,250,6:30:00 AM,7:00:00 PM,Fatih,28.96107753,41.01582344
+478,Harbiye Cumhuriyet Caddesi Yol Ustu Otoparki 6,Harbiye Cumhuriyet Caddesi Yol Ustu Otopark,Yol Ustu,25,8:00:00 AM,6:00:00 PM,Sisli,28.9864147,41.0422047
+479,Pendik Tavsantepe P+R Acik Otoparki,Pendik Tavsantepe P+R Acik Otopark,Acik Otopark,430,6:00:00 AM,5:00:00 PM,Pendik,29.24860954,40.88292299
+480,Uzuncayir P+R,Uzuncayir P+,Acik Otopark,150,6:00:00 AM,8:00:00 PM,Kadikoy,29.05817603,40.99874571
+481,Beylikduzu Ataturk Bulvari Acik Otoparki,Beylikduzu Ataturk Bulvari Acik Otopark,Acik Otopark,70,8:00:00 AM,10:00:00 PM,Beylikduzu,28.64527679,41.01369241
+482,Dr.Fahri Atabey Caddesi 6,Uskudar Dr.Fahri Atabey Caddes,Yol Ustu,32,8:00:00 AM,6:00:00 PM,Uskudar,29.01922517,41.01922427
+483,Pendik Yenimahalle Yolustu Otoparki 1,Pendik Yenimahalle Yolustu Otopark,Yol Ustu,50,7:00:00 AM,5:00:00 PM,Pendik,29.27254826,40.86355999
+484,İcadiye Acik Otoparki,İcadiye Acik Otopark,Acik Otopark,135,7:00:00 AM,6:00:00 PM,Uskudar,29.04199898,41.02567745
+485,Kadikoy Sogutlucesme Acik Otoparki,Kadikoy Sogutlucesme Acik Otopark,Acik Otopark,230,12:00:00 AM,11:59:00 PM,Kadikoy,29.03888105,40.9920379
+486,Muallim Naci Acik Otoparki,Muallim Naci Acik Otopark,Acik Otopark,35,12:00:00 AM,11:59:00 PM,Besiktas,29.03427132,41.0561629
+487,Alibeykoy Yesiltepe Zemin Alti Otoparki,Alibeykoy Yesiltepe Zemin Alti Otopark,Kapali Otopark,159,12:00:00 AM,11:59:00 PM,Eyup,28.93846091,41.07932008
+488,Bagcilar Demirkapi Zemin Alti Otoparki,Bagcilar Demirkapi Zemin Alti Otopark,Kapali Otopark,343,12:00:00 AM,11:59:00 PM,Bagcilar,28.83274307,41.05008413
+489,Metrocity Onu 2,Metro City On,Yol Ustu,15,8:00:00 AM,7:00:00 PM,Sisli,29.01404629,41.07655853
+490,Haseki Caddesi 2,Haseki Caddes,Yol Ustu,15,7:30:00 AM,6:00:00 PM,Fatih,28.94484944,41.00926444
+491,Avcilar İdo,Avcilar İd,Acik Otopark,400,12:00:00 AM,11:59:00 PM,Avcilar,28.7185069,40.97119549
+492,Ogretmen Evi,Ogretmen Ev,Acik Otopark,80,2:00:00 PM,11:00:00 PM,Avcilar,28.71411368,40.97224023
+493,Yenikapi Tunel Ustu Acik Otoparki,Yenikapi Tunel Ustu Acik Otopark,Acik Otopark,700,12:00:00 AM,11:59:00 PM,Fatih,28.95414806,41.00249632
+494,Kadikoy Metro 2 Acik Otoparki,Kadikoy Metro 2 Acik Otopark,Acik Otopark,100,12:00:00 AM,11:59:00 PM,Kadikoy,29.02093761,40.98901767
+495,Kagithane Harmantepe Zemin Alti Otoparki,Kagithane Harmantepe Zemin Alti Otopark,Kapali Otopark,200,12:00:00 AM,11:59:00 PM,Kagithane,28.99023193,41.08084911
+496,Esenler Menderes Parki Zemin Alti Otoparki,Esenler Menderes Parki Zemin Alti Otopark,Kapali Otopark,316,12:00:00 AM,11:59:00 PM,Esenler,28.87302883,41.04133643
+497,Kayasehir Meydan Zemin Alti Otoparki,Kayasehir Meydan Zemin Alti Otopark,Kapali Otopark,1054,12:00:00 AM,11:59:00 PM,Basaksehir,-99,-99
+498,Pendik Yenisehir Mustafa Akyol Sokak 3,Pendik Yenisehir Mustafa Akyol Soka,Yol Ustu,115,8:00:00 AM,7:00:00 PM,Pendik,29.30754522,40.92747825
+499,Azapkapi Halic Metro Otoparki,Azapkapi Halic Metro Otopark,Acik Otopark,130,12:00:00 AM,11:59:00 PM,Sisli,28.96928619,41.02450458
+500,Mecidiyekoy Acik Otoparki,Mecidiyekoy Acik Otopark,Acik Otopark,250,8:00:00 AM,10:00:00 PM,Sisli,28.99728545,41.0650203
+501,Eyupsultan Aksemsettin Mahallesi Zemin Alti Otoparki,Eyupsultan Aksemsettin Mahallesi Zemin Alti Otopark,Kapali Otopark,110,12:00:00 AM,11:59:00 PM,Eyup,28.9258416,41.08506324
+502,Kucukyali P+R,Kucukyali P+,Acik Otopark,150,7:00:00 AM,6:00:00 PM,Maltepe,29.12248769,40.94994424
+503,Kadikoy Yekta Sokak Goztepe E 5 Yani 2,Kadikoy Yekta Sokak Goztepe E 5 Yan,Yol Ustu,48,7:00:00 AM,5:30:00 PM,Kadikoy,29.07600804,40.99036608
+504,Eyup Silahtaraga Acik Otoparki,Eyup Silahtaraga Acik Otopark,Acik Otopark,350,12:00:00 AM,11:59:00 PM,Eyup,28.94149524,41.06486232
+505,Halkali Caddesi 4,Halkali Caddes,Yol Ustu,20,12:00:00 AM,11:59:00 PM,Kucukcekmece,28.797576,41.00468156
+506,Suadiye Sahil Acik Otoparki,Suadiye Sahil Acik  Otopark,Acik Otopark,104,12:00:00 AM,11:59:00 PM,Kadikoy,29.07988442,40.95599938
+507,Uskudar Marmaray Minibus Taksi Dolmus Depolama Alani,Uskudar Marmaray Minibus Taksi Dolmus Depolama Alan,Minibus Park,30,7:00:00 AM,10:00:00 PM,Uskudar,29.0109458,41.02571892
+508,Gazi Osman Pasa Zemin Alti Otoparki,Gazi Osman Pasa Zemin Alti Otopark,Kapali Otopark,231,12:00:00 AM,11:59:00 PM,Gaziosmanpasa,28.88553578,41.07940602
+509,Beykoz Sahil Cep Otoparki,Beykoz Sahil Cep Otopark,Acik Otopark,100,8:00:00 AM,12:00:00 AM,Beykoz,29.09476777,41.12941918
+510,Rumeli Hisari Sahil Yolu,Rumeli Hisari Sahil Yol,Yol Ustu,20,8:00:00 AM,12:00:00 AM,Sariyer,29.05682709,41.08539568
+511,Kadikoy Kurbagalidere Caddesi,Kurbagalidere Caddes,Yol Ustu,38,8:00:00 AM,7:00:00 PM,Kadikoy,29.0368977,40.99412426
+512,Bakirkoy Sahil Cep Otoparki,Bakirkoy Sahil Cep Otopark,Yol Ustu,40,8:00:00 AM,8:00:00 PM,Bakirkoy,28.87816638,40.97478658
+513,Beyoglu Gazhane Bostan Sokak 1,Beyoglu Gazhane Bostan Soka,Yol Ustu,35,8:00:00 AM,7:00:00 PM,Beyoglu,28.9901006,41.03881096
+514,Vali Konagi Caddesi 2,Sisli Vali Konagi Caddes,Yol Ustu,50,8:00:00 AM,7:00:00 PM,Sisli,28.98812904,41.04901021
+515,Vali Konagi Caddesi 3,Sisli Vali Konagi Caddes,Yol Ustu,50,8:00:00 AM,7:00:00 PM,Sisli,28.99573869,41.05532953
+516,Tesvikiye Cami 1,Sisli Tesvikiye Caddes,Yol Ustu,25,8:00:00 AM,7:00:00 PM,Sisli,28.99404556,41.04909235
+517,Amerikan Hastanesi 1,Amerikan Hastanes,Yol Ustu,30,8:00:00 AM,7:00:00 PM,Sisli,28.99485359,41.05343624
+518,Macka Caddesi 5,Sisli Macka Caddes,Yol Ustu,50,8:00:00 AM,12:00:00 AM,Sisli,28.99430774,41.04671877
+519,Ergenekon Caddesi 1,Sisli Ergenekon Caddes,Yol Ustu,40,8:00:00 AM,6:00:00 PM,Sisli,28.9833409,41.05314096
+520,Abide-I Hurriyet Caddesi 2,Abide-I Hurriyet Caddes,Yol Ustu,30,8:00:00 AM,7:00:00 PM,Sisli,28.98757663,41.06340236
+521,Abide-I Hurriyet Caddesi 7,Abide-I Hurriyet Caddes,Yol Ustu,40,8:00:00 AM,7:00:00 PM,Sisli,28.98674651,41.05985246
+522,Ortaklar Caddesi 1,Mecidiyekoy Ortaklar Caddes,Yol Ustu,22,8:00:00 AM,6:00:00 PM,Sisli,28.99697656,41.06374317
+523,Muselles Sokak 1,Muselles Soka,Yol Ustu,40,7:00:00 AM,5:00:00 PM,Sisli,29.01212209,41.06798203
+524,Ortabahce Caddesi 2,Ortabahce Caddes,Yol Ustu,35,8:00:00 AM,6:00:00 PM,Besiktas,29.00428555,41.04283917
+525,Prof.Dr.Ahmet Kemal Aru Caddesi 4,Prof.Dr.Ahmet Kemal Aru Caddes,Yol Ustu,40,6:45:00 AM,6:00:00 PM,Besiktas,29.01353795,41.08104936
+526,Bosna Bulvari 1,Umraniye Bosna Bulvar,Yol Ustu,35,8:00:00 AM,7:00:00 PM,Umraniye,29.08471316,41.02479924
+527,Selvi Sokak 1,Selvi Soka,Yol Ustu,45,8:00:00 AM,6:00:00 PM,Besiktas,29.0082733,41.08626689
+528,Pendik Yenimahalle Yolustu Otoparki 4,Pendik Yenimahalle Yolustu Otopark,Yol Ustu,50,7:00:00 AM,5:00:00 PM,Pendik,29.27227473,40.86421659
+529,Okcu Musa 2,Okcu Musa Caddes,Yol Ustu,40,8:00:00 AM,6:00:00 PM,Beyoglu,28.97171011,41.02650933
+530,Voyvoda 3,Voyvoda Caddes,Yol Ustu,20,8:00:00 AM,6:00:00 PM,Beyoglu,28.97399476,41.02378614
+531,Karakoy Meydan,Karakoy Meyda,Yol Ustu,16,8:00:00 AM,6:00:00 PM,Beyoglu,28.97530863,41.02320143
+532,Poyraz Yol Ustu 5,Poyraz Yol Ust,Yol Ustu,40,8:00:00 AM,6:00:00 PM,Kadikoy,29.0404353,40.99205658
+533,Atasehir Bulvari 4,Atasehir Bulvar,Yol Ustu,25,8:00:00 AM,6:00:00 PM,Atasehir,29.11734482,40.99241516
+534,Asiyan 2,Bebek Sahil Yol,Yol Ustu,16,8:00:00 AM,12:00:00 AM,Besiktas,29.05700802,41.08458291
+535,Carsi Cikisi,Bebek Arnavutkoy Caddes,Yol Ustu,15,8:00:00 AM,12:00:00 AM,Besiktas,29.04272194,41.06720775
+536,İmc Onu 3,İm,Yol Ustu,27,8:30:00 AM,6:30:00 PM,Fatih,28.95793044,41.01843006
+537,Sariyer Yeni Mahalle Caddesi 1,Sariyer Yeni Mahalle Caddes,Yol Ustu,11,8:00:00 AM,6:00:00 PM,Sariyer,29.05713447,41.16810681
+538,Ragip Gumuspala Camii Onu 1,Ragip Gumuspala Caddesi (Camii Onu,Yol Ustu,29,8:00:00 AM,6:00:00 PM,Fatih,28.96276117,41.02103295
+539,Ragip Gumuspala Otobus Parki 2,Ragip Gumuspala Caddesi (Otobus Parki,Yol Ustu,40,7:00:00 AM,6:00:00 PM,Fatih,28.96485293,41.01970271
+540,Kepenekci Yokusu-Odun Kapisi Yokusu 1,Kepenekci Yokusu Sokak-Odun Kapisi Yokusu Soka,Yol Ustu,30,7:00:00 AM,6:00:00 PM,Fatih,28.96627418,41.01707111
+541,Kazim Ozalp Sokak 2,Kazim Ozalp Soka,Yol Ustu,40,9:00:00 AM,8:00:00 PM,Kadikoy,29.07343589,40.95975307
+542,Kazim Ozalp Sokak 6,Kazim Ozalp Soka,Yol Ustu,50,9:00:00 AM,8:00:00 PM,Kadikoy,29.07575232,40.9619986
+543,Sirkeci Gar Onu 1,Sirkeci Gar On,Acik Otopark,60,7:00:00 AM,8:00:00 PM,Fatih,28.9761849,41.01497509
+544,Catalcesme 1,Catalcesme Soka,Yol Ustu,50,8:00:00 AM,6:00:00 PM,Fatih,28.97576192,41.00927704
+545,İmran Oktem Yol Ustu Otoparki 1,İmran Oktem Yol Ustu Otopark,Yol Ustu,75,7:00:00 AM,10:00:00 PM,Fatih,28.97364269,41.00668828
+546,İmran Oktem Yol Ustu Otoparki 2,İmran Oktem Yol Ustu Otopark,Yol Ustu,75,7:00:00 AM,10:00:00 PM,Fatih,28.97423975,41.00730484
+547,Cihannuma Yol Ustu 1,Cihannuma Yol Ustu Otopark,Yol Ustu,50,8:00:00 AM,11:00:00 PM,Besiktas,29.00960907,41.04957303
+548,Pendik Lokman Hekim Caddesi 3,Pendik Lokman Hekim Caddes,Yol Ustu,25,9:00:00 AM,7:00:00 PM,Pendik,29.23548311,40.8788748
+549,Ortakoy Portakal Yokusu 1,Besiktas Portakal Yokus,Yol Ustu,15,8:00:00 AM,11:00:00 PM,Besiktas,29.02683645,41.05061236
+550,Pierre Loti Caddesi 1,Pierloti Caddes,Yol Ustu,37,7:00:00 AM,6:00:00 PM,Fatih,28.96937556,41.00532825
+551,Pierre Loti Caddesi 2,Pierloti Caddes,Yol Ustu,37,7:00:00 AM,6:00:00 PM,Fatih,28.96910951,41.00551836
+552,Hayriye Tuccariye Caddesi 1,Hayriye Tuccariye Caddes,Yol Ustu,35,8:00:00 AM,6:00:00 PM,Fatih,28.95672187,41.00707893
+553,İstinye 7 ( Spor Alani ),İstinye Caddes,Yol Ustu,30,8:00:00 AM,6:00:00 PM,Sariyer,29.05733284,41.11506211
+554,Atasehir Bulvari 14,Atasehir Bulvar,Yol Ustu,20,8:00:00 AM,6:00:00 PM,Atasehir,29.11789848,40.99244267
+555,Fevzipasa Caddesi 2,Fevzipasa Caddes,Yol Ustu,25,8:00:00 AM,7:00:00 PM,Fatih,28.95154284,41.01614698
+556,Akdeniz Caddesi 3,Akdeniz Caddes,Yol Ustu,25,8:00:00 AM,7:00:00 PM,Fatih,28.94569439,41.01872215
+557,Etyemez Tekkesi Sokak 1,Etyemez Tekkesi Soka,Yol Ustu,59,8:00:00 AM,5:00:00 PM,Fatih,28.93678549,41.00292861
+558,Etyemez Tekkesi Sokak 4,Etyemez Tekkesi Soka,Yol Ustu,59,8:00:00 AM,5:00:00 PM,Fatih,28.93631906,41.00435574
+559,Bakirkoy İstanbul Caddesi 3,Bakirkoy İstanbul Caddes,Yol Ustu,70,8:00:00 AM,7:00:00 PM,Bakirkoy,28.8759572,40.97847252
+560,Bakirkoy İstanbul Caddesi 7,Bakirkoy İstanbul Caddes,Yol Ustu,30,8:00:00 AM,7:00:00 PM,Bakirkoy,28.87854985,40.97861842
+561,Zeytinburnu 58. Bulvar 2,Zeytinburnu 58. Bulva,Yol Ustu,48,9:00:00 AM,7:00:00 PM,Zeytinburnu,28.90383491,40.99337904
+562,Bayrampasa Abdi İpekci Caddesi 2,Bayrampasa Abdi İpekci Caddes,Yol Ustu,30,8:00:00 AM,6:00:00 PM,Bayrampasa,28.91206758,41.03679135
+563,Bayrampasa Abdi İpekci Caddesi 5,Bayrampasa Abdi İpekci Caddes,Yol Ustu,30,8:00:00 AM,6:00:00 PM,Bayrampasa,28.91192767,41.03430753
+564,Pendik Sahil İdo Acik Otoparki,Pendik Sahil İd,Acik Otopark,100,12:00:00 AM,11:59:00 PM,Pendik,29.23605254,40.87542081
+565,Meclis-I Mebusan Yokusu 2,Meclis-I Mebusan Yokus,Yol Ustu,30,9:00:00 AM,6:00:00 PM,Beyoglu,28.98838288,41.0323479
+566,Kiztasi Caddesi 1,Kiztasi Caddes,Yol Ustu,40,8:30:00 AM,7:00:00 PM,Fatih,28.95089895,41.01615402
+567,Kiztasi Caddesi 2,Kiztasi Caddes,Yol Ustu,40,8:30:00 AM,7:00:00 PM,Fatih,28.95051649,41.0156997
+568,Kasim Sokak 1,Gungoren Kasim Soka,Yol Ustu,50,8:00:00 AM,7:00:00 PM,Gungoren,28.88564042,41.0090357
+569,Sabanci Ogretmen Evi Onu 4,Sabanci Ogretmen Evi On,Yol Ustu,27,9:00:00 AM,8:00:00 PM,Beykoz,29.06591582,41.0802467
+570,Yesilkoy Marina 1,Yesilkoy Marin,Yol Ustu,145,8:00:00 AM,12:00:00 AM,Bakirkoy,28.8231094,40.95753238
+571,Yesilkoy Marina 2,Yesilkoy Marin,Yol Ustu,85,12:00:00 PM,12:00:00 AM,Bakirkoy,28.82231571,40.9571368
+572,Yesilkoy Marina 8,Yesilkoy Marin,Yol Ustu,100,8:00:00 AM,12:00:00 AM,Bakirkoy,28.82124544,40.9551893
+573,Sisli Kadirgalar Caddesi 1,Sisli Kadirgalar Caddes,Yol Ustu,100,8:00:00 AM,12:00:00 AM,Sisli,28.99283886,41.04301656
+574,Resitapasa Caddesi 2,Resitpasa Caddes,Yol Ustu,45,8:30:00 AM,5:30:00 PM,Avcilar,28.71829588,40.98061191
+575,Resitapasa Caddesi 3,Resitpasa Caddes,Yol Ustu,45,8:30:00 AM,5:30:00 PM,Avcilar,28.717053,40.98084953
+576,Ogretmen Evi,Ogretmen Ev,Acik Otopark,80,12:00:00 AM,11:59:00 PM,Avcilar,28.71417008,40.97221624
+577,Gurpinar Yolu Caddesi 5,Gurpinar Yolu Caddes,Yol Ustu,40,8:00:00 AM,6:00:00 PM,Beylikduzu,28.62725244,41.01750832
+578,Pendik Ankara Caddesi 1,Pendik Ankara Caddes,Yol Ustu,26,8:00:00 AM,7:00:00 PM,Pendik,29.23587715,40.87703799
+579,Pendik 23 Nisan Caddesi 2,Pendik 23 Nisan Caddes,Yol Ustu,40,8:00:00 AM,7:00:00 PM,Pendik,29.2356052,40.8777044
+580,Mercan Acik,Mercan Aci,Acik Otopark,250,12:00:00 AM,11:59:00 PM,Fatih,28.96695457,41.01356395
+581,Avcilar İdo,Avcilar İd,Acik Otopark,400,8:00:00 AM,12:00:00 AM,Avcilar,28.71846557,40.9712309
+582,İ.M.P Onu 1,İ.M.P On,Acik Otopark,200,8:00:00 AM,5:00:00 AM,Beyoglu,28.97466056,41.0317898
+583,Kozyatagi Sebze-Meyve Hali,Kozyatagi Sebze-Meyve Hal,Acik Otopark,1500,12:00:00 AM,11:59:00 PM,Atasehir,29.10294696,40.9784843
+584,İcerenkoy Acik Otoparki 1,İcerenkoy Acik Otopark,Acik Otopark,600,12:00:00 AM,11:59:00 PM,Atasehir,29.10454541,40.97659739
+585,Fatih Katli Otoparki,Fatih Katli Otopark,Kapali Otopark,118,12:00:00 AM,11:59:00 PM,Fatih,28.93960824,41.01974358
+586,Buyukcamlica Korusu Sosyal Tesisleri Onu,Buyuk Camlica Korusu Sosyal Tesisleri On,Acik Otopark,230,8:00:00 AM,12:00:00 AM,Uskudar,29.06978052,41.02642936
+587,Yenikapi İdo Taksi Duragi,Yenikapi İdo Taksi Durag,Taksi Park,40,7:00:00 AM,3:00:00 PM,Fatih,28.9567287,41.00350373
+588,Cengelkoy Acik Otoparki,Cengelkoy Acik Otopark,Acik Otopark,426,12:00:00 AM,11:59:00 PM,Uskudar,29.05346896,41.0484356
+589,Seyrantepe Katli (Arena Karsisi) 1,Seyrantepe Katli (Arena Karsisi,Kapali Otopark,2288,12:00:00 AM,11:59:00 PM,Kagithane,28.99582384,41.10039707
+590,Kalamis Fener Caddesi 3,Kalamis Fener Caddes,Yol Ustu,14,9:00:00 AM,7:00:00 PM,Kadikoy,29.03899064,40.97131001
+591,Ortakoy Acik,Ortakoy Aci,Acik Otopark,200,12:00:00 AM,11:59:00 PM,Besiktas,29.0328891,41.05055653
+592,Yesilkoy Fener Caddesi 1,Yesilkoy Fener Caddes,Yol Ustu,62,8:00:00 AM,12:00:00 AM,Bakirkoy,28.83838667,40.9591567
+593,Vakif Gureba 1,Bezmialem Vakif Universitesi Tip Fakultes,Acik Otopark,891,12:00:00 AM,11:59:00 PM,Fatih,28.93590394,41.01930363
+594,Mercan Acik,Mercan Aci,Acik Otopark,250,8:00:00 AM,11:00:00 PM,Fatih,28.96692495,41.01354965
+595,Haci Osman Taksi Duragi,Haci Osman Taksi Durag,Taksi Park,11,7:00:00 AM,11:00:00 PM,Sariyer,29.03103591,41.14014594
+596,Marmara Universitesi Pendik Egitim Ve Arastirma Hastanesi Onu Taksi Duragi,Marmara Universitesi Pendik Egitim Ve Arastirma Hastanesi Onu Taksi Durag,Taksi Park,25,8:00:00 AM,4:00:00 PM,Pendik,29.26138531,40.88672332
+597,Sogutlucesme Metrobus Onu Taksi,Sogutlucesme Metrobus Onu Taksi Durag,Taksi Park,50,7:00:00 AM,10:00:00 PM,Kadikoy,29.0378072,40.99239491
+598,Besiktas Halk Pazari 2,Besiktas Halk Pazar,Kapali Otopark,200,12:00:00 AM,11:59:00 PM,Besiktas,29.00052315,41.04972267
+599,Gunes Plaji 2,Gunes Plaji ,Acik Otopark,1000,8:00:00 AM,8:00:00 PM,Bakirkoy,28.78688718,40.97269986
+600,Sehit Volkan Duysak Katli Otoparki,Sehit Volkan Duysak Katli Otopark,Kapali Otopark,1000,12:00:00 AM,11:59:00 PM,Zeytinburnu,28.90428816,40.9965469
+601,Vatan Caddesi Migros Onu Acik,Vatan Migros Migros On,Acik Otopark,300,12:00:00 AM,11:59:00 PM,Fatih,28.94044538,41.01600671
+602,Umraniye Dr. Fazil Kucuk Caddesi 1,Umraniye Dr. Fazil Kucuk Caddes,Yol Ustu,24,8:00:00 AM,5:00:00 PM,Umraniye,29.11268368,41.02701784
+603,Cadde Bostan Acik Otoparki,Caddebostan Acik Otopark,Acik Otopark,66,12:00:00 AM,11:59:00 PM,Kadikoy,29.06748471,40.96371133
+604,Ciroz Yesilkoy Halk Pazari,Ciroz Yesilkoy Halk Pazar,Acik Otopark,500,7:00:00 AM,7:00:00 PM,Bakirkoy,28.81291771,40.96284916
+605,Gencler Caddesi 1,Gencler Caddes,Yol Ustu,35,8:00:00 AM,7:00:00 PM,Bakirkoy,28.86933822,40.9802074
+606,Haciosman Metro Yer Alti Otoparki,Haciosman Metro Yer Alti Otopark,Kapali Otopark,422,12:00:00 AM,11:59:00 PM,Sariyer,29.03115871,41.14023143
+607,Kartal Sahil Acik Otoparki,Kartal Sahil Acik Otopark,Acik Otopark,72,12:00:00 AM,11:59:00 PM,Kartal,29.19019103,40.88733146
+608,Fatih Su Yolu Sokak 3,Fatih Su Yolu Soka,Yol Ustu,40,8:00:00 AM,10:00:00 PM,Fatih,28.95362365,41.01694353
+609,Feshane P+R Acik Otoparki,Feshane P+R Acik Otopark,Acik Otopark,200,12:00:00 AM,11:59:00 PM,Eyup,28.93765821,41.04626344
+610,Fatih Uzuncarsi Caddesi 1,Fatih Uzun Carsi Caddes,Yol Ustu,30,7:00:00 AM,6:00:00 PM,Fatih,28.96746554,41.01541665
+611,Maslak P+R 1,Maslak P+,Acik Otopark,150,12:00:00 AM,11:59:00 PM,Sariyer,29.02405377,41.11653267
+612,Beykoz Fevzipasa Caddesi 1,Beykoz Fevzi Pasa Caddes,Yol Ustu,22,9:00:00 AM,6:00:00 PM,Beykoz,29.09158546,41.13460043
+613,Munir Nurettin Selcuk Caddesi 5,Munir Nurettin Selcuk Caddes,Yol Ustu,30,9:00:00 AM,6:00:00 PM,Kadikoy,29.03908899,40.97996633
+614,Munir Nurettin Selcuk Caddesi 6,Munir Nurettin Selcuk Caddes,Yol Ustu,40,9:00:00 AM,6:00:00 PM,Kadikoy,29.03916788,40.9798146
+615,Munir Nurettin Selcuk Caddesi 13,Munir Nurettin Selcuk Caddes,Yol Ustu,30,9:00:00 AM,6:00:00 PM,Kadikoy,29.03974864,40.97913553
+616,Kadikoy Metro Acik Otoparki,Kadikoy Metro Acik Otopark,Acik Otopark,60,12:00:00 AM,11:59:00 PM,Kadikoy,29.02161821,40.98991835
+617,Gazi Umur Pasa Sokak 5,Gazi Umur Pasa Soka,Yol Ustu,45,8:00:00 AM,6:00:00 PM,Besiktas,29.01145683,41.05901065
+618,Sutluce Miniaturk Yani 1,Sutluce Miniaturk Yan,Acik Otopark,320,12:00:00 AM,11:59:00 PM,Beyoglu,28.9499804,41.0570908
+619,Sutluce Miniaturk Yani 2,Sutluce Miniaturk Yan,Acik Otopark,320,12:00:00 AM,11:59:00 PM,Beyoglu,28.94992572,41.05706704
+620,4.Levent P+R Acik Otoparki,4.Levent P+R Acik Otopark,Acik Otopark,950,12:00:00 AM,11:59:00 PM,Kagithane,29.00810918,41.0835896
+621,Fisekhane Caddesi 2,Fisekhane Caddes,Yol Ustu,40,8:00:00 AM,7:00:00 PM,Bakirkoy,28.87003214,40.97807452
+622,Suleymaniye Cami Alti Acik Otoparki,Suleymaniye Cami Alti Acik Otopark,Acik Otopark,250,6:30:00 AM,7:00:00 PM,Fatih,28.9608539,41.01604914
+623,Eyup İstanbul Caddesi 1,Eyup İstanbul Caddes,Yol Ustu,40,9:00:00 AM,7:00:00 PM,Eyup,28.88340846,41.17937338
+624,Eyup İstanbul Caddesi 3,Eyup İstanbul Caddes,Yol Ustu,40,9:00:00 AM,7:00:00 PM,Eyup,28.88444099,41.1783602
+625,Eyup İstanbul Caddesi 5,Eyup İstanbul Caddes,Yol Ustu,40,9:00:00 AM,7:00:00 PM,Eyup,28.89010484,41.1764864
+626,Arda Turan Spor Kompleksi Katli,Arda Turan Spor Kompleksi Katl,Kapali Otopark,500,12:00:00 AM,11:59:00 PM,Bayrampasa,28.90613437,41.03890171
+627,Buyuk Karaman - Haydarbey Caddeleri 1,Buyuk Karaman - Haydarbey Caddeler,Yol Ustu,60,8:30:00 AM,7:00:00 PM,Fatih,28.95307994,41.01613453
+628,Tacirhane Sokak 1,Tacirhane Soka,Yol Ustu,30,7:30:00 AM,6:00:00 PM,Fatih,28.96676141,41.01422458
+629,Alibeykoy Cep Otogari Acik Otoparki,Alibeykoy Cep Otogari Acik Otopark,Acik Otopark,116,12:00:00 AM,11:59:00 PM,Eyup,28.94453824,41.08778981
+630,Alibeykoy Cep Otogari Acik Otoparki,Alibeykoy Cep Otogari Acik Otopark,Acik Otopark,400,12:00:00 AM,11:59:00 PM,Eyup,28.94441811,41.08760299
+631,Alibeykoy Cep Otogari Taksi Duragi,Alibeykoy Cep Otogari Taksi Durag,Taksi Park,20,12:00:00 AM,11:59:00 PM,Eyup,28.94474331,41.08817318
+632,Sirinevler Meydan Acik Otoparki 1,Sirinevler Meydan Acik Otopark,Acik Otopark,70,8:00:00 AM,12:00:00 AM,Bahcelievler,28.84943783,40.99601435
+633,Bahcelievler Hizmet Hastanesi Onu Acik Otoparki,Bahceli Evler Hizmet Hastanesi On,Acik Otopark,150,8:00:00 AM,6:00:00 PM,Bahcelievler,28.87988359,41.00113591
+634,Muallim Naci Acik Otoparki,Muallim Naci Acik Otopark,Acik Otopark,35,12:00:00 AM,11:59:00 PM,Besiktas,29.03414011,41.05576608
+635,Soganlik Metro Acik Otoparki 2,Soganlik Metro Acik Otopark,Acik Otopark,500,12:00:00 AM,11:59:00 PM,Kartal,29.19269085,40.91328759
+636,Aras Sokak 1,Aras Soka,Yol Ustu,60,5:45:00 AM,4:00:00 PM,Buyukcekmece,28.62232174,41.02249077
+637,Cevizlibag Taksi Duragi,Cevizlibag Taksi Durag,Taksi Park,10,7:00:00 AM,11:00:00 PM,Zeytinburnu,28.91044852,41.01678011
+638,Belgrad Ormani Bahcekoy Girisi Acik,Belgrad Ormani Otopark,Acik Otopark,5000,6:00:00 AM,8:00:00 PM,Sariyer,28.98891976,41.18330816
+639,Haznedar Yer Alti Otoparki,Haznedar Yer Alti Otopark,Kapali Otopark,540,12:00:00 AM,11:59:00 PM,Gungoren,28.87290941,41.00834423
+640,Maltepe Orhangazi Sehir Parki Acik Otoparki 1,Maltepe Orhangazi Sehir Parki Acik Otopark,Acik Otopark,2750,12:00:00 AM,11:59:00 PM,Maltepe,29.11608696,40.93131484
+641,Yenikapi Spor Ve Kultur Merkezi Acik Otoparki 1,Yenikapi Spor Ve Kultur Merkez,Acik Otopark,1100,12:00:00 AM,11:59:00 PM,Fatih,28.95137787,41.00038694
+642,Pendik Devlet Hastanesi Acik Otoparki,Pendik Devlet Hastanesi Acik Otopark,Acik Otopark,124,12:00:00 AM,11:59:00 PM,Pendik,29.22890067,40.87751847
+643,Pendik Devlet Hastanesi Acik Otoparki.,Pendik Devlet Hastanesi Acik Otopark,Acik Otopark,124,12:00:00 AM,11:59:00 PM,Pendik,29.22884166,40.87754281
+644,Kadikoy Metro Yol Ustu 1,Kadikoy Metro Yol Ust,Yol Ustu,25,6:30:00 AM,11:00:00 PM,Kadikoy,29.02181166,40.99048276
+645,Harbiye İlkokulu Yer Alti Otoparki,Harbiye İlkokulu Yer Alti Otopark,Kapali Otopark,110,12:00:00 AM,11:59:00 PM,Sisli,28.98508787,41.04454995
+646,Sehit Murat Demirci Kapali Otoparki,Sehit Murat Demirci Kapali Otopark,Kapali Otopark,110,12:00:00 AM,11:59:00 PM,Sisli,28.99436027,41.05905875
+647,Dudullu Minibus Depolama Alani,Dudullu Minibus Depolama Alani / C-70 Bostanc,Minibus Park,65,7:00:00 AM,9:00:00 PM,Umraniye,29.16088949,41.01576326
+648,Yenikapi Marmaray Kucuk Otoparki,Yenikapi Marmaray Kucuk Otopark,Acik Otopark,200,7:00:00 AM,11:00:00 PM,Fatih,28.95044446,41.0063846
+649,Dr. Adnan Buyuk Deniz Caddesi 13,Dr. Adnan Buyukdeniz Caddes,Yol Ustu,100,7:45:00 AM,5:00:00 PM,Umraniye,29.11830414,41.03293697
+650,Dr. Adnan Buyuk Deniz Caddesi 14,Dr. Adnan Buyukdeniz Caddes,Yol Ustu,60,7:45:00 AM,5:00:00 PM,Umraniye,29.1193022,41.03385979
+651,Dr. Adnan Buyuk Deniz Caddesi 15,Dr. Adnan Buyukdeniz Caddes,Yol Ustu,45,7:45:00 AM,5:00:00 PM,Umraniye,29.11957141,41.0341905
+652,Matbaacilar Sitesi Yani,Matbaacilar Sitesi Yan,Acik Otopark,250,12:00:00 AM,11:59:00 PM,Zeytinburnu,28.91857262,41.02352763
+653,Cekmekoy Cavusbasi Caddesi 3,Cekmekoy Cavusbasi Caddes,Yol Ustu,50,8:00:00 AM,7:00:00 PM,Cekmekoy,29.17274033,41.03067439
+654,Nadide Sokak 4,Nadide Soka,Yol Ustu,45,8:00:00 AM,6:00:00 PM,Gungoren,28.89114618,41.00890252
+655,Umraniye Dr. Fazil Kucuk Caddesi 5,Umraniye Dr. Fazil Kucuk Caddes,Yol Ustu,24,8:00:00 AM,5:00:00 PM,Umraniye,29.11252435,41.02692987
+656,Hat Boyu Caddesi 1,Hat Boyu Caddes,Yol Ustu,24,9:00:00 AM,7:00:00 PM,Pendik,29.23383057,40.88012851
+657,Unkapani Acik Otoparki,Unkapani Acik Otopark,Acik Otopark,55,8:00:00 AM,6:00:00 PM,Fatih,28.96420088,41.01958993
+658,Eminonu Cep Otoparki,Eminonu Cep Otopark,Yol Ustu,25,8:00:00 AM,7:00:00 PM,Fatih,28.97609043,41.01695768
+659,Cevizli Acik Otoparki,Cevizli Acik Otopark,Acik Otopark,100,7:00:00 AM,8:00:00 PM,Kartal,29.17118467,40.91790412
+660,Karakoy Kemankes Caddesi 1,Karakoy Kemankes Caddes,Yol Ustu,45,8:00:00 AM,12:00:00 AM,Beyoglu,28.97845268,41.02341649
+661,Fatih Mutercim Asim Caddesi 1,Fatih Mutercim Asim Caddes,Yol Ustu,45,8:00:00 AM,7:00:00 PM,Fatih,28.94433439,41.02197838
+662,Ressam Halim Sokak Acik Otoparki,Ressam Halim Sokak Acik Otopark,Acik Otopark,120,12:00:00 AM,11:59:00 PM,Bahcelievler,28.86409176,40.99647488
+663,Avni Akyol Bulvari 4,Avni Akyol Bulvar,Yol Ustu,25,9:00:00 AM,7:00:00 PM,Basaksehir,28.68871582,41.07151414
+664,19 Mayis Acik,19 Mayis Aci,Acik Otopark,65,12:00:00 AM,11:59:00 PM,Sisli,28.99408045,41.05633345
+665,Uzuncayir P+R,Uzuncayir P+,Acik Otopark,150,12:00:00 AM,11:59:00 PM,Kadikoy,29.05806005,40.9987432
+666,Bahcesehir Doga Parki Caddesi 1,Bahcesehir Doga Parki Caddes,Yol Ustu,25,9:00:00 AM,8:00:00 PM,Basaksehir,28.69115663,41.06732991
+667,Bayrampasa Adapark Katli Otoparki,Bayrampasa Adapark Katli Otopark,Kapali Otopark,650,12:00:00 AM,11:59:00 PM,Bayrampasa,28.88721943,41.06414508
+668,Merdivenkoy Acik Otoparki,Merdivenkoy Acik Otopark,Acik Otopark,23,8:00:00 AM,5:00:00 PM,Kadikoy,29.0606457,40.98744851
+669,1293 Yavuz Selim Otomatik Otoparki,Yavuz Selim Otomatik Otopark,Kapali Otopark,60,12:00:00 AM,11:59:00 PM,Fatih,28.95292247,41.02329907
+670,Sehremini Acik Otoparki,Sehremini Acik Otopark,Acik Otopark,30,8:00:00 AM,7:00:00 PM,Fatih,28.93330202,41.0134968
+671,Bayrampasa Devlet Hastanesi Cep Otoparki 1,Bayrampasa Devlet Hastanesi Cep Otopark,Yol Ustu,75,8:00:00 AM,7:00:00 PM,Bayrampasa,28.90319569,41.04149575
+672,Bayrampasa Yenidogan Mahallesi Zemin Alti Otoparki,Bayrampasa Yenidogan Mahallesi Zemin Alti Otopark,Kapali Otopark,120,12:00:00 AM,11:59:00 PM,Bayrampasa,28.90875434,41.03950601
+673,Pendik Sahil İdo,Pendik Sahil İd,Acik Otopark,100,12:00:00 AM,11:59:00 PM,Pendik,29.23702385,40.87552352
+674,Sirinevler Meydan Zeminalti Otoparki,Sirinevler Meydan Zeminalti Otopark,Kapali Otopark,400,12:00:00 AM,11:59:00 PM,Bahcelievler,28.84962868,40.99252669
+675,Azerbaycan Dostluk Parki Zemin Alti Otoparki,Azerbaycan Dostluk Parki Zemin Alti Otopark,Kapali Otopark,400,12:00:00 AM,11:59:00 PM,Bagcilar,28.85398152,41.04432157
+676,Zeynep Kamil Hastanesi Onu 5,Zeynep Kamil Hastane On,Yol Ustu,39,8:00:00 AM,5:00:00 PM,Uskudar,29.02528715,41.0155377
+677,Dr.Fahri Atabey Caddesi 8,Uskudar Dr.Fahri Atabey Caddes,Yol Ustu,23,8:00:00 AM,6:00:00 PM,Uskudar,29.01940742,41.01918985
+678,Pasalimani Sosyal Tesis Onu 3,Pasalimani Sosyal Tesisler On,Yol Ustu,26,7:00:00 AM,7:00:00 PM,Uskudar,29.02533736,41.03360178
+679,Atasehir Bulvari 20,Atasehir Bulvar,Yol Ustu,22,8:00:00 AM,6:00:00 PM,Atasehir,29.12769473,40.99334791
+680,Kucukcekmece Fevzi Cakmak Meydani Zemin Alti Otoparki,Kucukcekmece Fevzi Cakmak Meydani Zemin Alti Otopark,Kapali Otopark,1000,12:00:00 AM,11:59:00 PM,Kucukcekmece,28.79325319,41.0085447
+681,Umraniye Dr.Adnan Buyukdeniz Caddesi Acik Otoparki,Umraniye Dr.Adnan Buyukdeniz Caddesi Acik Otopark,Acik Otopark,230,6:45:00 AM,6:00:00 PM,Umraniye,29.11185224,41.03208012
+682,Bayrampasa Muzaffer Oztekin Zemin Alti Otoparki,Bayrampasa Muzaffer Oztekin Zemin Alti Otopark,Kapali Otopark,400,12:00:00 AM,11:59:00 PM,Bayrampasa,28.9067766,41.0511237
+683,Levent Buyukdere Caddesi 4,Levent Buyukdere Caddes,Yol Ustu,30,9:00:00 AM,10:00:00 PM,Besiktas,-99,-99
+684,Emirgan Sahil 7,Emirgan Sahi,Yol Ustu,15,8:00:00 AM,12:00:00 AM,Sariyer,29.05757677,41.10704434
+685,Resitapasa Caddesi 11,Resitpasa Caddes,Yol Ustu,45,8:30:00 AM,5:30:00 PM,Avcilar,28.71522705,40.98117459
+686,Divan Onu 2,Bebek Arnavutkoy Caddes,Yol Ustu,19,8:00:00 AM,12:00:00 AM,Besiktas,29.05693229,41.0843328
+687,Cevizli Acik Otoparki,Cevizli Acik Otopark,Acik Otopark,100,7:00:00 AM,8:00:00 PM,Kartal,29.17114868,40.91791743
+688,Basaksehir Metro P+R,Basaksehir Metro P+,Acik Otopark,125,7:00:00 AM,6:00:00 PM,Basaksehir,28.80092911,41.10737157
+689,Uskudar Unalan Acik P+R,Uskudar Unalan Acik P+,Acik Otopark,180,6:30:00 AM,7:00:00 PM,Uskudar,29.05879478,40.99834818
+690,Macka Acik Otoparki,Macka Acik Otopark,Acik Otopark,110,8:00:00 AM,8:00:00 PM,Sisli,28.99103094,41.0458173
+691,Belgrad Ormani Kurt Kemeri Girisi Otoparki,Belgrad Ormani Kurt Kemeri Girisi Otopark,Acik Otopark,5000,6:00:00 AM,12:00:00 AM,Eyup,28.91966779,41.19679283
+692,Sisli Rumeli Caddesi Metro Yani 1,Sisli Rumeli Caddesi Metro Yan,Yol Ustu,45,8:00:00 AM,12:00:00 AM,Sisli,28.98705633,41.05373516
+693,Belgrad Ormani Kurt Kemeri Girisi Otoparki,Belgrad Ormani Kurt Kemeri Girisi Otopark,Acik Otopark,5000,6:00:00 AM,12:00:00 AM,Eyup,28.92051767,41.1970264
+694,Pendik Yenisehir Mustafa Akyol Sokak 2,Pendik Yenisehir Mustafa Akyol Soka,Yol Ustu,115,8:00:00 AM,7:00:00 PM,Pendik,29.30791153,40.92703583
+695,Halkali Mahallesi Zemin Alti Otoparki,Halkali Mahallesi  Zemin Alti Otopark,Kapali Otopark,347,12:00:00 AM,11:59:00 PM,Kucukcekmece,28.7848154,41.03582987
+696,Bulent Ecevit Kultur Merkezi Acik Otoparki,Bulent Ecevit Kultur Merkezi Acik Otopark,Acik Otopark,277,9:00:00 AM,7:00:00 PM,Kartal,29.19700784,40.88544646
+697,Yamanevler P+R Acik Otoparki,Yamanevler P+R Acik Otopark,Acik Otopark,100,8:00:00 AM,7:00:00 PM,Umraniye,29.10567185,41.02606839
+698,Pendik Sahil Engelliler Merkez Onu,Pendik Sahil Engelliler Merkez On,Acik Otopark,100,12:00:00 AM,11:59:00 PM,Pendik,29.23309003,40.87336848
+699,Miniaturk Cadir Acik Otoparki,Miniaturk Cadir Acik Otopark,Acik Otopark,250,12:00:00 AM,11:59:00 PM,Beyoglu,28.95021204,41.05874353
+700,Gedikpasa Acik Otoparki,Gedikpasa Acik Otopark,Acik Otopark,175,12:00:00 AM,11:59:00 PM,Fatih,28.96370963,41.00731234
+701,Bayrampasa Altintepsi Zemin  Alti Otoparki,Bayrampasa Altintepsi Zemin Alti Otopark,Kapali Otopark,110,12:00:00 AM,11:59:00 PM,Bayrampasa,28.90674646,41.03821102
+702,Umraniye Toya Sokak 2,Umraniye Toya Soka,Yol Ustu,34,7:45:00 AM,5:00:00 PM,Umraniye,29.11509754,41.02613051
+703,Umraniye Toya Sokak 3,Umraniye Toya Soka,Yol Ustu,34,7:45:00 AM,5:00:00 PM,Umraniye,29.11513107,41.02608499
+704,Umraniye Okan Sokak Zeminalti Otoparki,Umraniye  Okan Sokak Zeminalti Otopark,Kapali Otopark,125,12:00:00 AM,11:59:00 PM,Umraniye,29.09112587,41.02877834
+705,Cemal Kamaci Spor Kompleksi Zemin Alti Otoparki,Cemal Kamaci Spor Kompleksi Zemin Alti Otopark,Kapali Otopark,510,12:00:00 AM,11:59:00 PM,Kagithane,28.9586859,41.0537869
+706,İcadiye Acik Otoparki,İcadiye Acik Otopark,Acik Otopark,135,7:00:00 AM,6:00:00 PM,Uskudar,29.04279616,41.02484558
+707,Cekmekoy Mimar Sinan Caddesi 3,Cekmekoy Mimar Sinan Caddes,Yol Ustu,25,8:00:00 AM,7:00:00 PM,Cekmekoy,29.17639806,41.03270083
+708,Kalamis Parki Yol Ustu 2,Kalamis Parki Yol Ust,Yol Ustu,25,9:00:00 AM,7:00:00 PM,Kadikoy,29.03644967,40.96925329
